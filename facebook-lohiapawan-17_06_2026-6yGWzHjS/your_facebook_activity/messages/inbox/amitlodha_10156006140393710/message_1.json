@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Amit Lodha"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1288096226000,
+      "content": "You have been given an increment of 17% (12% for 3 rating & 5% for promotion). The AD entry level salary is 33 lacs for Mum, Delhi has loc factor of 92.5% thus AD salary in Delhi is 30.52 lacs. The net impact of promotion is only 1% on increment if compared to a 4 rating with no promotion, if bonus is taken into account, 4 rating with no promotion wud have been financially better for you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1288096226000,
+      "content": "You have been given an increment of 17% (12% for 3 rating & 5% for promotion). The AD entry level salary is 33 lacs for Mum, Delhi has loc factor of 92.5% thus AD salary in Delhi is 30.52 lacs. The net impact of promotion is only 1% on increment if compared to a 4 rating with no promotion, if bonus is taken into account, 4 rating with no promotion wud have been financially better for you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amit Lodha",
+  "is_still_participant": true,
+  "thread_path": "inbox/amitlodha_10156006140393710",
+  "magic_words": [
+    
+  ]
+}

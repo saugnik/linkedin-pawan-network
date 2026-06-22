@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Skannd Tyagi"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1574155358521,
+      "content": "Interested to explore joining this for the 'loan/debt syndication' category",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Skannd Tyagi",
+  "is_still_participant": true,
+  "thread_path": "inbox/skanndtyagi_10162533313775335",
+  "magic_words": [
+    
+  ]
+}

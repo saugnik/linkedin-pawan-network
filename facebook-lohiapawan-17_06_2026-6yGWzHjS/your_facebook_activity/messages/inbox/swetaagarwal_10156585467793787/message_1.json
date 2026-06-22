@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "Sweta Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1548241111153,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1548229824530,
+      "content": "Wana connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1548229802304,
+      "content": "Hmmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sweta Agarwal",
+      "timestamp_ms": 1548229504187,
+      "content": "Same here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1548228788682,
+      "content": "Happy to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1548228770601,
+      "content": "Good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1548217451470,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sweta Agarwal",
+      "timestamp_ms": 1548216927391,
+      "content": "Nt into active practice now",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1548216900267,
+      "content": "Catering and advocate v confusing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sweta Agarwal",
+      "timestamp_ms": 1548216783467,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1548216289844,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1548216217852,
+      "content": "You're now friends with Sweta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sweta Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/swetaagarwal_10156585467793787",
+  "magic_words": [
+    
+  ]
+}

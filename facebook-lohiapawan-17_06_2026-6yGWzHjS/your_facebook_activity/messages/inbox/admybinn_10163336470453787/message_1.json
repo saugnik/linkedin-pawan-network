@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Ad My Binn"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ad My Binn",
+      "timestamp_ms": 1779044737858,
+      "content": "Ad My Binn sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ad My Binn",
+      "timestamp_ms": 1779044737858,
+      "content": "Ad My Binn sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ad My Binn",
+      "timestamp_ms": 1779044735704,
+      "content": "Replying will allow Ad My Binn to see info you've made public.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ad My Binn",
+      "timestamp_ms": 1779044735704,
+      "content": "Replying will allow Ad My Binn to see info you've made public.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ad My Binn",
+  "is_still_participant": true,
+  "thread_path": "inbox/admybinn_10163336470453787",
+  "magic_words": [
+    
+  ]
+}

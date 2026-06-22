@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rudra Prasad Dutta"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1595136486854,
+      "content": "You're now friends with Rudra.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rudra Prasad Dutta",
+  "is_still_participant": true,
+  "thread_path": "inbox/rudraprasaddutta_10157998280223787",
+  "magic_words": [
+    
+  ]
+}

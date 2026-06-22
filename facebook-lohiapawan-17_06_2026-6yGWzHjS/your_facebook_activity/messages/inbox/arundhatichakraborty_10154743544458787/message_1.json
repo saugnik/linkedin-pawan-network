@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Arundhati Chakraborty"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arundhati Chakraborty",
+      "timestamp_ms": 1483893201893,
+      "content": "Yeah, fine",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arundhati Chakraborty",
+      "timestamp_ms": 1483893201893,
+      "content": "Yeah, fine",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1483691299319,
+      "content": "Hello so nice of you to remember me arundhati Banerjee if I remember correctly how r u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1483691299319,
+      "content": "Hello so nice of you to remember me arundhati Banerjee if I remember correctly how r u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1483631529643,
+      "content": "You're now friends with Arundhati.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1483631529643,
+      "content": "You're now friends with Arundhati.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arundhati Chakraborty",
+  "is_still_participant": true,
+  "thread_path": "inbox/arundhatichakraborty_10154743544458787",
+  "magic_words": [
+    
+  ]
+}

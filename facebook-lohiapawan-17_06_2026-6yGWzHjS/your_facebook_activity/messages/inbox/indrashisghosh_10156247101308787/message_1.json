@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Indrashis Ghosh"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Indrashis Ghosh",
+      "timestamp_ms": 1586526000814,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Indrashis Ghosh",
+      "timestamp_ms": 1586526000814,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Indrashis Ghosh",
+      "timestamp_ms": 1534789717607,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/indrashisghosh_10156247101308787/photos/843983695799519.jpg",
+          "creation_timestamp": 1534789716
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Indrashis Ghosh",
+      "timestamp_ms": 1534789717607,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/indrashisghosh_10156247101308787/photos/843983695799519.jpg",
+          "creation_timestamp": 1534789716
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1534747278021,
+      "content": "You're now friends with Indrashis.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1534747278021,
+      "content": "You're now friends with Indrashis.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Indrashis Ghosh",
+  "is_still_participant": true,
+  "thread_path": "inbox/indrashisghosh_10156247101308787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Aman Agarwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1569608872852,
+      "content": "You're now connected on Messenger",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1569608872852,
+      "content": "You're now connected on Messenger",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aman Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/amanagarwal_10157136985393787",
+  "magic_words": [
+    
+  ]
+}

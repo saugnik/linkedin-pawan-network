@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Narshing Kaushik"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Narshing Kaushik",
+      "timestamp_ms": 1503840404512,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Narshing Kaushik",
+      "timestamp_ms": 1503840404512,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Narshing Kaushik",
+      "timestamp_ms": 1500475802606,
+      "content": "You're now friends with Narshing.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Narshing Kaushik",
+      "timestamp_ms": 1500475802606,
+      "content": "You're now friends with Narshing.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Narshing Kaushik",
+  "is_still_participant": true,
+  "thread_path": "inbox/narshingkaushik_10155302755453787",
+  "magic_words": [
+    
+  ]
+}

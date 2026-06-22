@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Pratik Basu"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pratik Basu",
+      "timestamp_ms": 1507559889160,
+      "content": "Hahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1507559848791,
+      "content": "You just created the world record for fastest acceptance of a friendship request on fb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1507559843161,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/126362197548577.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "ip": "27.63.170.65",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pratik Basu",
+      "timestamp_ms": 1507559754760,
+      "content": "You're now friends with Pratik.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pratik Basu",
+  "is_still_participant": true,
+  "thread_path": "inbox/pratikbasu_10155510023788787",
+  "magic_words": [
+    
+  ]
+}

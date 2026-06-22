@@ -1,0 +1,66 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Settings",
+      "dict": [
+        {
+          "label": "Contact auto-fill",
+          "dict": [
+            {
+              "label": "Time of last payment or contact autofill use",
+              "timestamp_value": 0
+            },
+            {
+              "label": "Consecutive autofill declines count",
+              "value": "0"
+            },
+            {
+              "label": "Consecutive autofill usage declines count",
+              "value": "0"
+            },
+            {
+              "label": "Consecutive autofill declines count",
+              "value": "0"
+            },
+            {
+              "label": "Consecutive virtual card tokenization declines count",
+              "value": ""
+            },
+            {
+              "label": "The time that the user was previously prompted to re-enable auto-fill after they had opted out from Browser settings",
+              "timestamp_value": 0
+            },
+            {
+              "label": "Number of times that user has declined to re-opt in prompt",
+              "value": "0"
+            },
+            {
+              "label": "Has seen Meta Pay disclosure for contact autofill",
+              "value": "False"
+            },
+            {
+              "label": "The opt in status of automatic autofill",
+              "value": "False"
+            },
+            {
+              "label": "Expiry time of the automatic autofill",
+              "timestamp_value": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Ads consent accepted",
+      "value": "False"
+    },
+    {
+      "label": "Save credit card CVV",
+      "value": "Opt in"
+    }
+  ],
+  "fbid": "10161876758768787"
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Rajesh Chamaria"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rajesh Chamaria",
+      "timestamp_ms": 1594653092096,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rajesh Chamaria",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajeshchamaria_10157968179083787",
+  "magic_words": [
+    
+  ]
+}

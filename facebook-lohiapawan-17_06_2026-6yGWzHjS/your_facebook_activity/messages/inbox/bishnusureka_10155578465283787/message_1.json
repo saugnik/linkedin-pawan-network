@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Bishnu Sureka"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1618911439667,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/groups/demon2016/permalink/1563834660639993/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1618911439667,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/groups/demon2016/permalink/1563834660639993/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1603317814387,
+      "content": "Not able to reply to the post as fb doesn't allow me.\r\n\r\nArun kumar is from JNU a left citadel. What can u expect from leftists except negativity and dire predictions. Arun kumar is still an unknown fellow u can ask Nobel Laureates like Amartya Sen and Abhijit Banerjee or the poster boy economist raghu ram rajan and they will gv u lot of bad news. All r sold and have agenda and not reliable. Sad but true",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1603317814387,
+      "content": "Not able to reply to the post as fb doesn't allow me.\r\n\r\nArun kumar is from JNU a left citadel. What can u expect from leftists except negativity and dire predictions. Arun kumar is still an unknown fellow u can ask Nobel Laureates like Amartya Sen and Abhijit Banerjee or the poster boy economist raghu ram rajan and they will gv u lot of bad news. All r sold and have agenda and not reliable. Sad but true",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bishnu Sureka",
+  "is_still_participant": true,
+  "thread_path": "inbox/bishnusureka_10155578465283787",
+  "magic_words": [
+    
+  ]
+}

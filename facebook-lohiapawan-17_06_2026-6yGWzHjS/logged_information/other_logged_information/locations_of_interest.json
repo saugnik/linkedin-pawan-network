@@ -1,0 +1,98 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Locations of interest",
+      "vec": [
+        {
+          "value": "Radhangar, West Bengal"
+        },
+        {
+          "value": "Barasat, West Bengal"
+        },
+        {
+          "value": "Gobindapur, West Bengal"
+        },
+        {
+          "value": "Howrah, West Bengal"
+        },
+        {
+          "value": "Kanchrapara, West Bengal"
+        },
+        {
+          "value": "Bangalore, Karnataka"
+        },
+        {
+          "value": "Ranchi, Jharkhand"
+        },
+        {
+          "value": "Rishra, West Bengal"
+        },
+        {
+          "value": "Lucknow, Uttar Pradesh"
+        },
+        {
+          "value": "Delhi, Delhi"
+        },
+        {
+          "value": "Vadodara, Gujarat"
+        },
+        {
+          "value": "Kolkata, West Bengal"
+        },
+        {
+          "value": "Ahmedabad, Gujarat"
+        },
+        {
+          "value": "Gurugram, Haryana"
+        },
+        {
+          "value": "Thane, Maharashtra"
+        },
+        {
+          "value": "Navi Mumbai (New Mumbai), Maharashtra"
+        },
+        {
+          "value": "Mumbai, Maharashtra"
+        },
+        {
+          "value": "Maharashtra"
+        },
+        {
+          "value": "Gujarat"
+        },
+        {
+          "value": "West Bengal"
+        },
+        {
+          "value": "Karnataka"
+        },
+        {
+          "value": "Delhi"
+        },
+        {
+          "value": "Haryana"
+        },
+        {
+          "value": "Uttar Pradesh"
+        },
+        {
+          "value": "Jharkhand"
+        },
+        {
+          "value": "Odisha"
+        },
+        {
+          "value": "Telangana"
+        }
+      ]
+    },
+    {
+      "label": "Usage explanation",
+      "value": "Locations of interest are used to personalise your experience on Facebook and show you more relevant ads. Learn more about how Facebook uses location in Privacy Centre."
+    }
+  ],
+  "fbid": "690728786"
+}

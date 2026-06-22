@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Seema Agarwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Preeti Goel",
+      "timestamp_ms": 1585839930774,
+      "content": "Preeti Goel removed you from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Preeti Goel",
+      "timestamp_ms": 1585839930295,
+      "content": "Preeti Goel removed a participant from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Seema Agarwal",
+      "timestamp_ms": 1585839709421,
+      "content": "Seema sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Preeti Goel",
+      "timestamp_ms": 1554977619063,
+      "content": "Preeti created the group chat.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Seema",
+  "is_still_participant": false,
+  "thread_path": "inbox/seema_2830167833667648",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "timestamp": 1747304735,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Is onboarded",
+        "value": "False"
+      },
+      {
+        "label": "App",
+        "value": "Unknown"
+      },
+      {
+        "label": "Event"
+      },
+      {
+        "label": "Event status",
+        "value": "Success"
+      },
+      {
+        "label": "Event type",
+        "value": "Unknown"
+      },
+      {
+        "label": "Event category",
+        "value": "Unknown"
+      }
+    ],
+    "fbid": "3040258806137653"
+  },
+  {
+    "timestamp": 1613463118,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Is onboarded",
+        "value": "False"
+      },
+      {
+        "label": "App",
+        "value": "Unknown"
+      },
+      {
+        "label": "Event",
+        "value": "Email addition"
+      },
+      {
+        "label": "Event status",
+        "value": "Success"
+      },
+      {
+        "label": "Event type",
+        "value": "Email address"
+      },
+      {
+        "label": "Event category",
+        "value": "Contact info"
+      }
+    ],
+    "fbid": "1771466916350188"
+  }
+]

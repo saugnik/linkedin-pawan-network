@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Dhruba Sengupta"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dhruba Sengupta",
+      "timestamp_ms": 1570255206854,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/dhrubasengupta_10155881389308787/photos/968547040177622.jpg",
+          "creation_timestamp": 1570255205
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dhruba Sengupta",
+      "timestamp_ms": 1570255206854,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/dhrubasengupta_10155881389308787/photos/968547040177622.jpg",
+          "creation_timestamp": 1570255205
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dhruba Sengupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/dhrubasengupta_10155881389308787",
+  "magic_words": [
+    
+  ]
+}

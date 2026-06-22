@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1302179047000,
+      "content": "Please find attached your booking with SpiceJet Limited. Thank you for\r\nchoosing SpiceJet!\r\n\r\nPlease do NOT reply to this mail. If you have any doubts or queries,\r\nwrite to custrelations@spicejet.com or simply click on Customer\r\nRelations <mailto:custrelations@spicejet.com> .",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_10154209812303787",
+  "magic_words": [
+    
+  ]
+}

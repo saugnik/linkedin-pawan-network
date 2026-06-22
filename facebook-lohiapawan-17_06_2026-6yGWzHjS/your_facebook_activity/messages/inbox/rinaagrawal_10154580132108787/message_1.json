@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rina Agrawal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rina Agrawal",
+      "timestamp_ms": 1478790839831,
+      "content": "You're now connected on Messenger",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rina Agrawal",
+  "is_still_participant": true,
+  "thread_path": "inbox/rinaagrawal_10154580132108787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Aijaz Bhat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aijaz Bhat",
+      "timestamp_ms": 1618395111502,
+      "content": "Wishing you a very very happy birthday sir \nGod bless",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aijaz Bhat",
+      "timestamp_ms": 1618395111502,
+      "content": "Wishing you a very very happy birthday sir \nGod bless",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aijaz Bhat",
+  "is_still_participant": true,
+  "thread_path": "inbox/aijazbhat_10156280035928787",
+  "magic_words": [
+    
+  ]
+}

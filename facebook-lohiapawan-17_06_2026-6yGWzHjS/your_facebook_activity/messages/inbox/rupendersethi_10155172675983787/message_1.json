@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rupender Sethi"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rupender Sethi",
+      "timestamp_ms": 1496931588608,
+      "content": "You're now friends with Rupender.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rupender Sethi",
+  "is_still_participant": true,
+  "thread_path": "inbox/rupendersethi_10155172675983787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Arun Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arun Lohia",
+      "timestamp_ms": 1531578485267,
+      "content": "You're now friends with Arun.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arun Lohia",
+      "timestamp_ms": 1531578485267,
+      "content": "You're now friends with Arun.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arun Lohia",
+  "is_still_participant": true,
+  "thread_path": "inbox/arunlohia_10156166248163787",
+  "magic_words": [
+    
+  ]
+}

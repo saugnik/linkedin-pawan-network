@@ -1,0 +1,99 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Media that appears in your shared memories posts",
+        "media": [
+          {
+            "uri": "your_facebook_activity/posts/media/Coverphotos_10150431205958787/10157707957713787.jpg",
+            "creation_timestamp": 1586960536,
+            "media_metadata": {
+              "photo_metadata": {
+                "exif_data": [
+                  {
+                    "upload_ip": "110.227.102.160",
+                    "taken_timestamp": 1586960543
+                  }
+                ]
+              }
+            },
+            "title": "Cover photos"
+          }
+        ]
+      }
+    ],
+    "fbid": "10158928491898787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Media that appears in your shared memories posts",
+        "media": [
+          {
+            "uri": "your_facebook_activity/posts/media/Coverphotos_10150431205958787/10157190340673787.jpg",
+            "creation_timestamp": 1571297626,
+            "media_metadata": {
+              "photo_metadata": {
+                "exif_data": [
+                  {
+                    "upload_ip": "122.163.64.112",
+                    "taken_timestamp": 1570384509,
+                    "modified_timestamp": 1570384509,
+                    "camera_make": "Xiaomi",
+                    "camera_model": "POCO F1",
+                    "orientation": 1,
+                    "original_width": 1686,
+                    "original_height": 1262
+                  }
+                ]
+              }
+            },
+            "title": "Cover photos"
+          }
+        ]
+      }
+    ],
+    "fbid": "10157536329173787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Media that appears in your shared memories posts",
+        "media": [
+          {
+            "uri": "your_facebook_activity/posts/media/videos/830373250639647.mp4",
+            "creation_timestamp": 1552368879,
+            "media_metadata": {
+              "video_metadata": {
+                "exif_data": [
+                  {
+                    "upload_ip": "2401:db00:1210:b1ec:face:0:5a:0",
+                    "upload_timestamp": 0
+                  }
+                ]
+              }
+            },
+            "title": "Friendversary video with Preeti",
+            "description": "Nice",
+            "dubbing_info": [
+              
+            ],
+            "media_variants": [
+              
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "10156687301243787"
+  }
+]

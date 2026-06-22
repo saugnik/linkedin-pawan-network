@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sudhakrishna Maiti"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1486706005459,
+      "content": "You're now friends with Sudhakrishna.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sudhakrishna Maiti",
+  "is_still_participant": true,
+  "thread_path": "inbox/sudhakrishnamaiti_10154841373298787",
+  "magic_words": [
+    
+  ]
+}

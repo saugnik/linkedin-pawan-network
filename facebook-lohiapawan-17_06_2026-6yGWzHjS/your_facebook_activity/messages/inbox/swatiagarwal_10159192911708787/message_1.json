@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Swati Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Swati Agarwal",
+      "timestamp_ms": 1649567800531,
+      "content": "Thanks Pawan\u00f0\u009f\u0099\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1649497236532,
+      "content": "Happy birthday \u00f0\u009f\u008e\u0082 \u00f0\u009f\u008e\u0082 \u00f0\u009f\u008e\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Swati Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/swatiagarwal_10159192911708787",
+  "magic_words": [
+    
+  ]
+}

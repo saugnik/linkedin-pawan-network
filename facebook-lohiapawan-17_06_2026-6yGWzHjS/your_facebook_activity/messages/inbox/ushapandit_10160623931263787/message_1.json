@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Usha Pandit"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1720939382477,
+      "content": "maam r u the one who wrote the viral piece on ambani wedding",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Usha Pandit",
+  "is_still_participant": true,
+  "thread_path": "inbox/ushapandit_10160623931263787",
+  "magic_words": [
+    
+  ]
+}

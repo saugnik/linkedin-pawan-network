@@ -1,0 +1,1802 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1781516494
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1781516494
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x00001638) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (AMD)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (AMD, AMD Radeon(TM) Graphics (0x00001638) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "4"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "16"
+      }
+    ],
+    "fbid": "10163450614003787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1780570614
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1781581504
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "Adreno (TM) 750"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Qualcomm"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "Adreno (TM) 750"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10163406953303787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1762793593
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1764255923
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Qualcomm, Adreno (TM) 732, OpenGL ES 3.2)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Qualcomm)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Qualcomm, Adreno (TM) 732, OpenGL ES 3.2)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10162537884668787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1759498950
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1759498950
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) Graphics (0x00007D45) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) Graphics (0x00007D45) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "14"
+      }
+    ],
+    "fbid": "10162384858193787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1765860081
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1765860081
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) Graphics (0x00007D45) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) Graphics (0x00007D45) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "14"
+      }
+    ],
+    "fbid": "10162377396603787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1779411631
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1781063190
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) Graphics (0x00007D45) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) Graphics (0x00007D45) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "16"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "14"
+      }
+    ],
+    "fbid": "10162259200903787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1756603558
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1756603558
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "Adreno (TM) 750"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Qualcomm"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "Adreno (TM) 750"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10162223597028787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1755429540
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1755429540
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) HD Graphics Direct3D11 vs_5_0 ps_5_0), or similar"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) HD Graphics Direct3D11 vs_5_0 ps_5_0), or similar"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "0"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "14"
+      }
+    ],
+    "fbid": "10162172701733787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1755269779
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1756987215
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) Graphics (0x00007D45) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) Graphics (0x00007D45) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "14"
+      }
+    ],
+    "fbid": "10162038887023787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1749187319
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1750211250
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10161833113548787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1751389979
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1751389979
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10161799257563787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1750706341
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1750706341
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10161674398093787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1747727239
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1747727239
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10160485077648787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1742808615
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1744641212
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10160423784778787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1711630048
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1712721949
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10159764979888787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1676118199
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1676118199
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10159754390963787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1710578094
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1710578094
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) UHD Graphics 620 (0x00003EA0) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10159754377783787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1674201288
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1675237228
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10159716775798787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1752250036
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1752250036
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "Adreno (TM) 650"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Qualcomm"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "Adreno (TM) 650"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10159144880733787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1639301080
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1639301080
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "Adreno (TM) 650"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Qualcomm"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "Adreno (TM) 650"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10158806145118787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1618106153
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1618106153
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "PowerVR Rogue GM9446"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Imagination Technologies"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "PowerVR Rogue GM9446"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10158594383538787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1618035186
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1618035186
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10158526310828787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1611341692
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1611341692
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10158416797523787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1611306681
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1611306681
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10158415910663787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1673239492
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1673239492
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel, Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0, D3D11)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc. (Intel)"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel, Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0, D3D11)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10158386494298787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1611738028
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1611738028
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10158303160083787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1594717259
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1594717259
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "Intel(R) HD Graphics 6000"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Intel Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "Intel(R) HD Graphics 6000"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10157985860388787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1605511175
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1606117165
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10157802387833787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1586015836
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1586015836
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Parallels Display Adapter (WDDM) Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Parallels Display Adapter (WDDM) Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "2"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "2"
+      }
+    ],
+    "fbid": "10157672527173787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1585982944
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1585982944
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "Intel(R) HD Graphics 6000"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Intel Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "Intel(R) HD Graphics 6000"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10157671475878787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1585754846
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1585754846
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10157662790973787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1585648211
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1585648211
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10157658944118787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 0
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1557667798
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": ""
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": ""
+      },
+      {
+        "label": "GPU renderer",
+        "value": ""
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10156816285348787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1553965710
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1553965710
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "Adreno (TM) 630"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Qualcomm"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "Adreno (TM) 630"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "4"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      }
+    ],
+    "fbid": "10156723492038787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1552971519
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1552971519
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "Adreno (TM) 530"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Qualcomm"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "Adreno (TM) 530"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "4"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10156700106448787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1548416264
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1548416264
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel(R) HD Graphics 620 Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel(R) HD Graphics 620 Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10156589697238787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1545634807
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1545634807
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "0"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10156521442328787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1587807548
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1589111491
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10156372750708787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1547218166
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1547218166
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "Adreno (TM) 530"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Qualcomm"
+      },
+      {
+        "label": "GPU renderer",
+        "value": "Adreno (TM) 530"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "4"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10156300859958787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Last full detection time",
+        "timestamp_value": 1537179135
+      },
+      {
+        "label": "Last partial detection time",
+        "timestamp_value": 1538828736
+      },
+      {
+        "label": "GPU info",
+        "dict": [
+          {
+            "label": "vender",
+            "value": ""
+          },
+          {
+            "label": "renderer",
+            "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+          }
+        ]
+      },
+      {
+        "label": "GPU vendor",
+        "value": "Google Inc."
+      },
+      {
+        "label": "GPU renderer",
+        "value": "ANGLE (Intel(R) HD Graphics 520 Direct3D11 vs_5_0 ps_5_0)"
+      },
+      {
+        "label": "RAM (GB)",
+        "value": "8"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      }
+    ],
+    "fbid": "10156096749963787"
+  }
+]

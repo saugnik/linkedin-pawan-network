@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Krishna Chhaparia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1699785574136,
+      "content": "Wish u a v happy deepawali",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Krishna Chhaparia",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/krishnachhaparia_10159470048948787",
+  "magic_words": [
+    
+  ]
+}

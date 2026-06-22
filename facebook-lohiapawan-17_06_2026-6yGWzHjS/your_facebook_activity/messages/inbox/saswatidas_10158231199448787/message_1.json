@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Saswati Das"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1603883888553,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1603883887552,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Saswati Das",
+  "is_still_participant": true,
+  "thread_path": "inbox/saswatidas_10158231199448787",
+  "magic_words": [
+    
+  ]
+}

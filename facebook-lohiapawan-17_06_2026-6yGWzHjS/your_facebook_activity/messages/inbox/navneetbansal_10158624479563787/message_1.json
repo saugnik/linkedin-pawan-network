@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Navneet Bansal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Navneet Bansal",
+      "timestamp_ms": 1619411598444,
+      "content": "Radhey radhey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Navneet Bansal",
+      "timestamp_ms": 1619411598444,
+      "content": "Radhey radhey",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Navneet Bansal",
+  "is_still_participant": true,
+  "thread_path": "inbox/navneetbansal_10158624479563787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device identifier",
+        "value": "amamQGIxvz0o"
+      },
+      {
+        "label": "Predicted locale of your device",
+        "value": ""
+      }
+    ],
+    "fbid": "10155482516558787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Device identifier",
+        "value": "amLx6C1ZNq8SM"
+      },
+      {
+        "label": "Predicted locale of your device",
+        "value": "en_US"
+      }
+    ],
+    "fbid": "10155206495938787"
+  }
+]

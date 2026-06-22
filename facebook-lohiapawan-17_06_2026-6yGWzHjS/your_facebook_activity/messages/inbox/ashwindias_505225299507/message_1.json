@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Ashwin Dias"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1439198154475,
+      "content": "hi, this is Pawan Lohia from EY Kolkata, Would like to connect with you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1439198154475,
+      "content": "hi, this is Pawan Lohia from EY Kolkata, Would like to connect with you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ashwin Dias",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashwindias_505225299507",
+  "magic_words": [
+    
+  ]
+}

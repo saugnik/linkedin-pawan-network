@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "CA Nirja Agarwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1770596235735,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/canirjaagarwal_10160370987258787/gifs/1337841068360100.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1770596235735,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/canirjaagarwal_10160370987258787/gifs/1337841068360100.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1707456678754,
+      "content": "Happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1707456678754,
+      "content": "Happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CA Nirja Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/canirjaagarwal_10160370987258787",
+  "magic_words": [
+    
+  ]
+}

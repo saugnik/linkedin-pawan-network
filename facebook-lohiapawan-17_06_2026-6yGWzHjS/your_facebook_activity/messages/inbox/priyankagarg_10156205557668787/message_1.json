@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Priyanka Garg"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1621831764248,
+      "content": "all well at yr end I hope",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1621831757435,
+      "content": "hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1325182914160,
+      "content": "Hi Priyanka Singhal. Good to find u. Wats up, where r u. sent u a friend request. ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Priyanka Garg",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyankagarg_10156205557668787",
+  "magic_words": [
+    
+  ]
+}

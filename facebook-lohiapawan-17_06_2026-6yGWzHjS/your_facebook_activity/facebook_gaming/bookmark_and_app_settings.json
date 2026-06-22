@@ -1,0 +1,44 @@
+{
+  "timestamp": 1632152799,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Last tab visited"
+    },
+    {
+      "label": "Last tab visit time",
+      "timestamp_value": 0
+    },
+    {
+      "label": "List of times that you clicked on a tab",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Last time that you visited the notifications page",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time that you viewed a video",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time that you played an instant game",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Creation time",
+      "timestamp_value": 1632152800
+    },
+    {
+      "label": "Last viewed video",
+      "media": [
+        
+      ]
+    }
+  ],
+  "fbid": "10158887475628787"
+}

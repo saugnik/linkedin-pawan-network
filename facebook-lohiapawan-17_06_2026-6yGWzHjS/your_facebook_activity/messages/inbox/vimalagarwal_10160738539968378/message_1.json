@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Vimal Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vimal Agarwal",
+      "timestamp_ms": 1611406388426,
+      "content": "Hi,\n\nWe at Reshape Nation are wholeheartedly working towards creating #ObesityFreeIndia\n\nWe are providing Free Workout Session everyday morning at 7 am Live on our page, for all to be able to workout from home everyday and get fit and healthy.\n\nKindly render Support and Encouragement by liking and following our page. Do share the page to help our citizens receive Inspiration to Transform their Health.\nThanks!\n\nhttps://www.facebook.com/ReshapeNation\nAlso kindly share our work through link below. Might inspire and help someone immensely.\nTransformation link: https://www.facebook.com/media/set/?vanity=ReshapeNation&set=a.580319722614580",
+      "share": {
+        "link": "https://facebook.com/ReshapeNation"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vimal Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/vimalagarwal_10160738539968378",
+  "magic_words": [
+    
+  ]
+}

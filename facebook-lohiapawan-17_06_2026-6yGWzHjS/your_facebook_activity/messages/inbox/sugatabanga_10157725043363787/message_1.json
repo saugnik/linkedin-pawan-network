@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sugata Banga"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sugata Banga",
+      "timestamp_ms": 1588058395822,
+      "content": "It's a very important thing to take action at this time by the side of Coronavirus pandemic management.  \n\nhttps://www.facebook.com/1117850367/posts/10222086938378643/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sugata Banga",
+  "is_still_participant": true,
+  "thread_path": "inbox/sugatabanga_10157725043363787",
+  "magic_words": [
+    
+  ]
+}

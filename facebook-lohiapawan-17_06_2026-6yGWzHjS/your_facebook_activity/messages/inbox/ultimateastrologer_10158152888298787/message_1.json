@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "ULTIMATE ASTROLOGER"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ULTIMATE ASTROLOGER",
+      "timestamp_ms": 1600672307586,
+      "content": "Hi Pawan ,\n\nThanks for connecting with us. \n\nFor personal consultations and to know more about our services, please do visit - https://www.ultimateastrologer.com/consult-now\n\nFor any other queries, please drop us a message and we shall revert back asap.\n\nThanks.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1600672306267,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ULTIMATE ASTROLOGER",
+  "is_still_participant": true,
+  "thread_path": "inbox/ultimateastrologer_10158152888298787",
+  "magic_words": [
+    
+  ]
+}

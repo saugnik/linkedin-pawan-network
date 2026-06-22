@@ -1,0 +1,26 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Audience settings",
+      "value": "Public"
+    },
+    {
+      "label": "Story highlight creation",
+      "value": "You've created story highlights"
+    },
+    {
+      "label": "Stories added",
+      "media": [
+        
+      ]
+    },
+    {
+      "label": "The last time you made changes to these settings",
+      "timestamp_value": 1781181433
+    }
+  ],
+  "fbid": "10158155038298787"
+}

@@ -1,0 +1,24 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Show captions",
+      "value": "False"
+    },
+    {
+      "label": "Background colour"
+    },
+    {
+      "label": "Background opacity"
+    },
+    {
+      "label": "Text colour"
+    },
+    {
+      "label": "Text size"
+    }
+  ],
+  "fbid": "10155099327378787"
+}

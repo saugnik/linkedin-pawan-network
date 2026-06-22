@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Chetnaa Karnani"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chetnaa Karnani",
+      "timestamp_ms": 1595614771177,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/chetnaakarnani_10155451183513787/photos/284717929527433.jpg",
+          "creation_timestamp": 1595614768
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chetnaa Karnani",
+      "timestamp_ms": 1595614771177,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/chetnaakarnani_10155451183513787/photos/284717929527433.jpg",
+          "creation_timestamp": 1595614768
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chetnaa Karnani",
+  "is_still_participant": true,
+  "thread_path": "inbox/chetnaakarnani_10155451183513787",
+  "magic_words": [
+    
+  ]
+}

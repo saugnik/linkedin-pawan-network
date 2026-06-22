@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Basu Sarayan"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1498935384875,
+      "content": "You're now friends with Basu.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1498935384875,
+      "content": "You're now friends with Basu.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Basu Sarayan",
+  "is_still_participant": true,
+  "thread_path": "inbox/basusarayan_10155241398103787",
+  "magic_words": [
+    
+  ]
+}

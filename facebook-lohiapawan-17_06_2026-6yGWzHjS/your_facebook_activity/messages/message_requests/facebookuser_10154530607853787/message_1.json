@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1477231924159,
+      "content": "A contact just joined Messenger.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "message_requests/facebookuser_10154530607853787",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

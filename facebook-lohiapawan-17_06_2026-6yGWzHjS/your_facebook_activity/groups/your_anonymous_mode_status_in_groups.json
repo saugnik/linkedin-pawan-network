@@ -1,0 +1,48 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Anonymous mode status",
+      "value": "Disabled"
+    },
+    {
+      "label": "Anonymous post enabled"
+    },
+    {
+      "label": "Have you ever engaged anonymously in this group",
+      "value": "False"
+    },
+    {
+      "label": "Have you ever set a nickname in this group",
+      "value": "False"
+    },
+    {
+      "label": "Have you explicitly selected \"Participate anonymously without a nickname\" before",
+      "value": "False"
+    },
+    {
+      "label": "Number of times that you have interacted using nickname in this group",
+      "value": "0"
+    },
+    {
+      "label": "Use a nickname when interacting with this group"
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Name",
+              "value": "A Moveable Feast"
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Group"
+    }
+  ],
+  "fbid": "23968646052799904"
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Pradip Seth"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1727413198041,
+      "content": "In yr ad for rent u hv not mentioned in the location",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pradip Seth",
+  "is_still_participant": true,
+  "thread_path": "inbox/pradipseth_10160548400708787",
+  "magic_words": [
+    
+  ]
+}

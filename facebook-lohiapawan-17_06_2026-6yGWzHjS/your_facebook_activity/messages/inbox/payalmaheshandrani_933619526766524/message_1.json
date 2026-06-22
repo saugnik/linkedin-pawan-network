@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Payal Agarwal Lohia"
+    },
+    {
+      "name": "Mahesh Kumar Lohia"
+    },
+    {
+      "name": "Rani Agarwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rani Agarwal",
+      "timestamp_ms": 1619149942760,
+      "content": "minu\n\nhttps://www.facebook.com/groups/DKBGKS/permalink/2777972032515944/",
+      "share": {
+        "link": "https://www.facebook.com/groups/DKBGKS/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rani Agarwal",
+      "timestamp_ms": 1619149942760,
+      "content": "minu\n\nhttps://www.facebook.com/groups/DKBGKS/permalink/2777972032515944/",
+      "share": {
+        "link": "https://www.facebook.com/groups/DKBGKS/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1472867876208,
+      "content": "Lets discuss this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1472867876208,
+      "content": "Lets discuss this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Payal, Mahesh and Rani",
+  "is_still_participant": true,
+  "thread_path": "inbox/payalmaheshandrani_933619526766524",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

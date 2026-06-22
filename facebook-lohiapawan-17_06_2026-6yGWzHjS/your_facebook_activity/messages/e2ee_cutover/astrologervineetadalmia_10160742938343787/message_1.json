@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Astrologer Vineeta Dalmia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1724601636082,
+      "content": "Nice to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Astrologer Vineeta Dalmia",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/astrologervineetadalmia_10160742938343787",
+  "magic_words": [
+    
+  ]
+}

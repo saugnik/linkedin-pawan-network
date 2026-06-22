@@ -1,0 +1,25 @@
+{
+  "timestamp": 1478319288,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Delete profile after death",
+      "value": "False"
+    },
+    {
+      "label": "Allow legacy contact to download archive of activity",
+      "value": "True"
+    },
+    {
+      "label": "Disable reminder notification",
+      "value": "False"
+    },
+    {
+      "label": "Update time",
+      "timestamp_value": 1550495234
+    }
+  ],
+  "fbid": "10154565992863787"
+}

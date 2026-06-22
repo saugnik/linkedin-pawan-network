@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Amrita AK Singh"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amrita AK Singh",
+      "timestamp_ms": 1523807508698,
+      "content": "You're now friends with Amrita.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amrita AK Singh",
+      "timestamp_ms": 1523807508698,
+      "content": "You're now friends with Amrita.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amrita AK Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/amritaaksingh_10155973136918787",
+  "magic_words": [
+    
+  ]
+}

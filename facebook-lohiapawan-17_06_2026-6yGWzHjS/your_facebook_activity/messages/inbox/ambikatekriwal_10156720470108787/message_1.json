@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Ambika Tekriwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ambika Tekriwal",
+      "timestamp_ms": 1553843937242,
+      "content": "You're now friends with Ambika.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ambika Tekriwal",
+      "timestamp_ms": 1553843937242,
+      "content": "You're now friends with Ambika.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ambika Tekriwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/ambikatekriwal_10156720470108787",
+  "magic_words": [
+    
+  ]
+}

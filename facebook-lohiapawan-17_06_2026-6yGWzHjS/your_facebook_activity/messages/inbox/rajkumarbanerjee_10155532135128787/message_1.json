@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rajkumar Banerjee"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rajkumar Banerjee",
+      "timestamp_ms": 1508382218094,
+      "content": "You're now friends with Rajkumar.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rajkumar Banerjee",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajkumarbanerjee_10155532135128787",
+  "magic_words": [
+    
+  ]
+}

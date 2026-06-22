@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sanjeev Jhunjhunwala"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sanjeev Jhunjhunwala",
+      "timestamp_ms": 1542802388699,
+      "content": "You're now friends with Sanjeev.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sanjeev Jhunjhunwala",
+  "is_still_participant": true,
+  "thread_path": "inbox/sanjeevjhunjhunwala_10156448961033787",
+  "magic_words": [
+    
+  ]
+}

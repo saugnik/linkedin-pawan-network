@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Anshika Das"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anshika Das",
+      "timestamp_ms": 1622052586039,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anshika Das",
+      "timestamp_ms": 1622052586039,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anshika Das",
+  "is_still_participant": true,
+  "thread_path": "inbox/anshikadas_10158686941928787",
+  "magic_words": [
+    
+  ]
+}

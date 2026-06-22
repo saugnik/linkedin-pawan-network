@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Anjani Ladia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anjani Ladia",
+      "timestamp_ms": 1545662416108,
+      "content": "You're now friends with Anjani.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anjani Ladia",
+      "timestamp_ms": 1545662416108,
+      "content": "You're now friends with Anjani.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anjani Ladia",
+  "is_still_participant": true,
+  "thread_path": "inbox/anjaniladia_10156522034338787",
+  "magic_words": [
+    
+  ]
+}

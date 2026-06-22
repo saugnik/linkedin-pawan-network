@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rekha Vaisya"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rekha Vaisya",
+      "timestamp_ms": 1518775407912,
+      "content": "You're now connected on Messenger",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rekha Vaisya",
+  "is_still_participant": true,
+  "thread_path": "inbox/rekhavaisya_10155824691223787",
+  "magic_words": [
+    
+  ]
+}

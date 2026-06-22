@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Apurba Saha"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Apurba Saha",
+      "timestamp_ms": 1591173530728,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Apurba Saha",
+      "timestamp_ms": 1591173530728,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1591120589147,
+      "content": "You're now connected on Messenger",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1591120589147,
+      "content": "You're now connected on Messenger",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Apurba Saha",
+  "is_still_participant": true,
+  "thread_path": "inbox/apurbasaha_10157865989313787",
+  "magic_words": [
+    
+  ]
+}

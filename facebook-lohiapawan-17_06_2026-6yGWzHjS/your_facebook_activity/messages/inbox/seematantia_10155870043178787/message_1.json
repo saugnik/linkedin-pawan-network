@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Seema Tantia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Seema Tantia",
+      "timestamp_ms": 1520298265503,
+      "content": "You're now friends with Seema.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Seema Tantia",
+  "is_still_participant": true,
+  "thread_path": "inbox/seematantia_10155870043178787",
+  "magic_words": [
+    
+  ]
+}

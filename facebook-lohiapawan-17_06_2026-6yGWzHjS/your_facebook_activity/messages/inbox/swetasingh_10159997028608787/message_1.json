@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "Sweta Singh"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sweta Singh",
+      "timestamp_ms": 1690374499919,
+      "content": "Thx",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0091\u008d",
+          "actor": "Pawan Lohia",
+          "timestamp": 1690374535
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1690372505347,
+      "content": "Wish u a happy birthday\nRadhe radhe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1688137365432,
+      "content": "Ok thats great",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sweta Singh",
+      "timestamp_ms": 1688061010837,
+      "content": "Works as a sales manager",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sweta Singh",
+      "timestamp_ms": 1688061000177,
+      "content": "Life insurance",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sweta Singh",
+      "timestamp_ms": 1688060982798,
+      "content": "Baja Allianz",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1688048927734,
+      "content": "what do u do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1688048922957,
+      "content": "happy to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sweta Singh",
+      "timestamp_ms": 1687855107046,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1687853806456,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sweta Singh",
+  "is_still_participant": true,
+  "thread_path": "inbox/swetasingh_10159997028608787",
+  "magic_words": [
+    
+  ]
+}

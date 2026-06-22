@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Ajay Sharma"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ajay Sharma",
+      "timestamp_ms": 1508606412180,
+      "content": "Ajay Sharma just joined Messenger! Be the first to send a welcome message or sticker.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ajay Sharma",
+      "timestamp_ms": 1508606412180,
+      "content": "Ajay Sharma just joined Messenger! Be the first to send a welcome message or sticker.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ajay Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/ajaysharma_10155538210308787",
+  "magic_words": [
+    
+  ]
+}

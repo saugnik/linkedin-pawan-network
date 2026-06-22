@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Omprakash Dayani"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Omprakash Dayani",
+      "timestamp_ms": 1649870438786,
+      "content": "Happy birthday to you. From good friends and true, from old friends and new, may good luck go with you and happiness too!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Omprakash Dayani",
+      "timestamp_ms": 1649870438786,
+      "content": "Happy birthday to you. From good friends and true, from old friends and new, may good luck go with you and happiness too!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Omprakash Dayani",
+  "is_still_participant": true,
+  "thread_path": "inbox/omprakashdayani_10159198847428787",
+  "magic_words": [
+    
+  ]
+}

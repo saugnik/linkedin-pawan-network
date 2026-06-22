@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Chandan Chowdhury"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chandan Chowdhury",
+      "timestamp_ms": 1588959011823,
+      "content": "You're now friends with Chandan.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chandan Chowdhury",
+      "timestamp_ms": 1588959011823,
+      "content": "You're now friends with Chandan.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chandan Chowdhury",
+  "is_still_participant": true,
+  "thread_path": "inbox/chandanchowdhury_10157789912693787",
+  "magic_words": [
+    
+  ]
+}

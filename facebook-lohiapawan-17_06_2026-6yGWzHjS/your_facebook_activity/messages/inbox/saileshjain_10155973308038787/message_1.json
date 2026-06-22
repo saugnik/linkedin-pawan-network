@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sailesh Jain"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1523813101543,
+      "content": "You're now friends with Sailesh.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sailesh Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/saileshjain_10155973308038787",
+  "magic_words": [
+    
+  ]
+}

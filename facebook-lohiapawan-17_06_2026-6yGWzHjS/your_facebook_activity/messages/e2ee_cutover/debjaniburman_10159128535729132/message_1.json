@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Debjani Burman"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1766880356258,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/debjaniburman_10159128535729132/gifs/1370378454274892.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Debjani Burman",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/debjaniburman_10159128535729132",
+  "magic_words": [
+    
+  ]
+}

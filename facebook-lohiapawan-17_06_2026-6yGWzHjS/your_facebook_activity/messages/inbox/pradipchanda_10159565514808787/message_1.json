@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Pradip Chanda"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pradip Chanda",
+      "timestamp_ms": 1668317248424,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pradip Chanda",
+      "timestamp_ms": 1668317248174,
+      "content": "We are doing good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1668314741954,
+      "content": "I m fine how ab u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pradip Chanda",
+      "timestamp_ms": 1668312687979,
+      "content": "How are you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pradip Chanda",
+      "timestamp_ms": 1668312678496,
+      "content": "Good morning Mr Lohia",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1668311954877,
+      "content": "Nice to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1668311954790,
+      "content": "Nice to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pradip Chanda",
+  "is_still_participant": true,
+  "thread_path": "inbox/pradipchanda_10159565514808787",
+  "magic_words": [
+    
+  ]
+}

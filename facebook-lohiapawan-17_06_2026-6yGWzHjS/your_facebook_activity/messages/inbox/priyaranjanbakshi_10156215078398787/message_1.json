@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Priya Ranjan Bakshi"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1533498059413,
+      "content": "You're now friends with Priya Ranjan.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Priya Ranjan Bakshi",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyaranjanbakshi_10156215078398787",
+  "magic_words": [
+    
+  ]
+}

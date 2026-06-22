@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Surya Nayak"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Surya Nayak",
+      "timestamp_ms": 1597244721489,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1587948574363,
+      "content": "You're now friends with Surya.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Surya Nayak",
+  "is_still_participant": true,
+  "thread_path": "inbox/suryanayak_10157749546533787",
+  "magic_words": [
+    
+  ]
+}

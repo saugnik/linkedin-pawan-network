@@ -1,0 +1,742 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Started donation",
+        "value": "True"
+      },
+      {
+        "label": "Fundraiser views",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Notifications sent",
+        "dict": [
+          {
+            "label": "user_fundraiser_creation_top_friends",
+            "vec": [
+              {
+                "timestamp_value": 1612722724
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Show mission cards",
+        "value": "True"
+      },
+      {
+        "label": "Personal updates sent",
+        "value": "0"
+      },
+      {
+        "label": "Personal update text",
+        "value": ""
+      },
+      {
+        "label": "Tips dismissed",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Has invited all friends",
+        "value": "False"
+      },
+      {
+        "label": "Has created donate reminder",
+        "value": "False"
+      },
+      {
+        "label": "Donate reminder send time",
+        "value": "0"
+      },
+      {
+        "label": "Dismissed the GuideStar opt-out",
+        "value": "False"
+      },
+      {
+        "label": "Amount raised",
+        "value": "0"
+      },
+      {
+        "label": "Creation time",
+        "timestamp_value": 1612719121
+      }
+    ],
+    "fbid": "10158463908958787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Started donation",
+        "value": "False"
+      },
+      {
+        "label": "Fundraiser views",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Notifications sent",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Show mission cards",
+        "value": "True"
+      },
+      {
+        "label": "Personal updates sent",
+        "value": "0"
+      },
+      {
+        "label": "Personal update text",
+        "value": ""
+      },
+      {
+        "label": "Tips dismissed",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Has invited all friends",
+        "value": "False"
+      },
+      {
+        "label": "Has created donate reminder",
+        "value": "False"
+      },
+      {
+        "label": "Donate reminder send time",
+        "value": "0"
+      },
+      {
+        "label": "Dismissed the GuideStar opt-out",
+        "value": "False"
+      },
+      {
+        "label": "Amount raised",
+        "value": "0"
+      },
+      {
+        "label": "Creation time",
+        "timestamp_value": 1604214967
+      }
+    ],
+    "fbid": "10158240382283787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Started donation",
+        "value": "False"
+      },
+      {
+        "label": "Fundraiser views",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Notifications sent",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Show mission cards",
+        "value": "True"
+      },
+      {
+        "label": "Personal updates sent",
+        "value": "0"
+      },
+      {
+        "label": "Personal update text",
+        "value": ""
+      },
+      {
+        "label": "Tips dismissed",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Has invited all friends",
+        "value": "False"
+      },
+      {
+        "label": "Has created donate reminder",
+        "value": "False"
+      },
+      {
+        "label": "Donate reminder send time",
+        "value": "0"
+      },
+      {
+        "label": "Dismissed the GuideStar opt-out",
+        "value": "False"
+      },
+      {
+        "label": "Amount raised",
+        "value": "100000"
+      },
+      {
+        "label": "Creation time",
+        "timestamp_value": 1602479000
+      }
+    ],
+    "fbid": "10158198992448787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Started donation",
+        "value": "False"
+      },
+      {
+        "label": "Fundraiser views",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Notifications sent",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Show mission cards",
+        "value": "True"
+      },
+      {
+        "label": "Personal updates sent",
+        "value": "0"
+      },
+      {
+        "label": "Personal update text",
+        "value": ""
+      },
+      {
+        "label": "Tips dismissed",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Has invited all friends",
+        "value": "False"
+      },
+      {
+        "label": "Has created donate reminder",
+        "value": "False"
+      },
+      {
+        "label": "Donate reminder send time",
+        "value": "0"
+      },
+      {
+        "label": "Dismissed the GuideStar opt-out",
+        "value": "False"
+      },
+      {
+        "label": "Amount raised",
+        "value": "2011"
+      },
+      {
+        "label": "Creation time",
+        "timestamp_value": 1598628919
+      }
+    ],
+    "fbid": "10158099133033787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Started donation",
+        "value": "False"
+      },
+      {
+        "label": "Fundraiser views",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Notifications sent",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Show mission cards",
+        "value": "True"
+      },
+      {
+        "label": "Personal updates sent",
+        "value": "0"
+      },
+      {
+        "label": "Personal update text",
+        "value": ""
+      },
+      {
+        "label": "Tips dismissed",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Has invited all friends",
+        "value": "False"
+      },
+      {
+        "label": "Has created donate reminder",
+        "value": "False"
+      },
+      {
+        "label": "Donate reminder send time",
+        "value": "0"
+      },
+      {
+        "label": "Dismissed the GuideStar opt-out",
+        "value": "False"
+      }
+    ],
+    "fbid": "10157826304413787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Started donation",
+        "value": "False"
+      },
+      {
+        "label": "Fundraiser views",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Notifications sent",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Show mission cards",
+        "value": "True"
+      },
+      {
+        "label": "Personal updates sent",
+        "value": "0"
+      },
+      {
+        "label": "Personal update text",
+        "value": ""
+      },
+      {
+        "label": "Tips dismissed",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Has invited all friends",
+        "value": "False"
+      },
+      {
+        "label": "Has created donate reminder",
+        "value": "False"
+      },
+      {
+        "label": "Donate reminder send time",
+        "value": "0"
+      },
+      {
+        "label": "Dismissed the GuideStar opt-out",
+        "value": "False"
+      },
+      {
+        "label": "Amount raised",
+        "value": "16325641"
+      },
+      {
+        "label": "Creation time",
+        "timestamp_value": 1587833278
+      }
+    ],
+    "fbid": "10157745565753787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Started donation",
+        "value": "False"
+      },
+      {
+        "label": "Fundraiser views",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Notifications sent",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Show mission cards",
+        "value": "True"
+      },
+      {
+        "label": "Personal updates sent",
+        "value": "0"
+      },
+      {
+        "label": "Personal update text",
+        "value": ""
+      },
+      {
+        "label": "Tips dismissed",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Has invited all friends",
+        "value": "False"
+      },
+      {
+        "label": "Has created donate reminder",
+        "value": "False"
+      },
+      {
+        "label": "Donate reminder send time",
+        "value": "0"
+      },
+      {
+        "label": "Dismissed the GuideStar opt-out",
+        "value": "False"
+      },
+      {
+        "label": "Amount raised",
+        "value": "323891"
+      },
+      {
+        "label": "Creation time",
+        "timestamp_value": 1587728526
+      }
+    ],
+    "fbid": "10157740891563787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Started donation",
+        "value": "False"
+      },
+      {
+        "label": "Fundraiser views",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Notifications sent",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Show mission cards",
+        "value": "True"
+      },
+      {
+        "label": "Personal updates sent",
+        "value": "0"
+      },
+      {
+        "label": "Personal update text",
+        "value": ""
+      },
+      {
+        "label": "Tips dismissed",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Has invited all friends",
+        "value": "False"
+      },
+      {
+        "label": "Has created donate reminder",
+        "value": "False"
+      },
+      {
+        "label": "Donate reminder send time",
+        "value": "0"
+      },
+      {
+        "label": "Dismissed the GuideStar opt-out",
+        "value": "False"
+      },
+      {
+        "label": "Amount raised",
+        "value": "220000"
+      },
+      {
+        "label": "Creation time",
+        "timestamp_value": 1587729234
+      }
+    ],
+    "fbid": "10157740045863787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Started donation",
+        "value": "False"
+      },
+      {
+        "label": "Fundraiser views",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Notifications sent",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Show mission cards",
+        "value": "True"
+      },
+      {
+        "label": "Personal updates sent",
+        "value": "0"
+      },
+      {
+        "label": "Personal update text",
+        "value": ""
+      },
+      {
+        "label": "Tips dismissed",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Has invited all friends",
+        "value": "False"
+      },
+      {
+        "label": "Has created donate reminder",
+        "value": "False"
+      },
+      {
+        "label": "Donate reminder send time",
+        "value": "0"
+      },
+      {
+        "label": "Dismissed the GuideStar opt-out",
+        "value": "False"
+      },
+      {
+        "label": "Amount raised",
+        "value": "13991437"
+      },
+      {
+        "label": "Creation time",
+        "timestamp_value": 1587723623
+      }
+    ],
+    "fbid": "10157739934133787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Started donation",
+        "value": "False"
+      },
+      {
+        "label": "Fundraiser views",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Notifications sent",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Show mission cards",
+        "value": "True"
+      },
+      {
+        "label": "Personal updates sent",
+        "value": "0"
+      },
+      {
+        "label": "Personal update text",
+        "value": ""
+      },
+      {
+        "label": "Tips dismissed",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Has invited all friends",
+        "value": "False"
+      },
+      {
+        "label": "Has created donate reminder",
+        "value": "False"
+      },
+      {
+        "label": "Donate reminder send time",
+        "value": "0"
+      },
+      {
+        "label": "Dismissed the GuideStar opt-out",
+        "value": "False"
+      },
+      {
+        "label": "Amount raised",
+        "value": "37820118"
+      },
+      {
+        "label": "Creation time",
+        "timestamp_value": 1559598861
+      }
+    ],
+    "fbid": "10156874127223787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Started donation",
+        "value": "False"
+      },
+      {
+        "label": "Fundraiser views",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Notifications sent",
+        "dict": [
+          {
+            "label": "user_fundraiser_invite",
+            "vec": [
+              {
+                "timestamp_value": 1537269992
+              }
+            ]
+          },
+          {
+            "label": "user_fundraiser_post",
+            "vec": [
+              {
+                "timestamp_value": 1541947692
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Show mission cards",
+        "value": "True"
+      },
+      {
+        "label": "Personal updates sent",
+        "value": "0"
+      },
+      {
+        "label": "Personal update text",
+        "value": ""
+      },
+      {
+        "label": "Tips dismissed",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Has invited all friends",
+        "value": "False"
+      },
+      {
+        "label": "Has created donate reminder",
+        "value": "False"
+      },
+      {
+        "label": "Donate reminder send time",
+        "value": "0"
+      },
+      {
+        "label": "Dismissed the GuideStar opt-out",
+        "value": "False"
+      },
+      {
+        "label": "Amount raised",
+        "value": "851178"
+      },
+      {
+        "label": "Creation time",
+        "timestamp_value": 1535894260
+      }
+    ],
+    "fbid": "10156310786643787"
+  }
+]

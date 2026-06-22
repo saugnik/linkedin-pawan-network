@@ -1,0 +1,90 @@
+{
+  "recognized_devices_v2": [
+    {
+      "name": "Chrome on Windows",
+      "created_timestamp": 1781516497,
+      "ip_address": "2405:201:800b:7833:ac87:be4c:814a:8299",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "datr_cookie": "npq7********************"
+    },
+    {
+      "name": "Chrome on Windows",
+      "created_timestamp": 1778666253,
+      "ip_address": "2405:201:800b:7833:189d:a4df:47c4:d8d7",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7680.201 Safari/537.36",
+      "datr_cookie": "V7S9********************"
+    },
+    {
+      "name": "Chrome on Linux",
+      "created_timestamp": 1762793586,
+      "ip_address": "2401:4900:8828:2428:bfd7:9bcd:fb98:d937",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "datr_cookie": "KxgS********************"
+    },
+    {
+      "name": "Chrome on Windows",
+      "created_timestamp": 1759498956,
+      "ip_address": "2405:201:800b:782b:862:9397:c55e:deb4",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "datr_cookie": "ndLf********************"
+    },
+    {
+      "name": "Chrome on Windows",
+      "created_timestamp": 1759324838,
+      "ip_address": "2401:4900:882a:fa1b:e810:cae4:1e5e:607a",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "datr_cookie": "NyqI********************"
+    },
+    {
+      "name": "Facebook Messenger for Android",
+      "created_timestamp": 1757587594,
+      "updated_timestamp": 1757587614,
+      "ip_address": "2409:40e0:29:2854:ac58:17ff:fe06:176d",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 15; CPH2691 Build/UKQ1.231108.001) [FBAN/Orca-Android;FBAV/523.0.0.53.109;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/788046387;FBCR/airtel;FBMF/OnePlus;FBBD/OnePlus;FBDV/CPH2691;FBSV/15;FBCA/arm64-v8a:null;FBDM/{density=3.5,width=1264,height=2780};FB_FW/1;]",
+      "datr_cookie": "p5uI********************"
+    },
+    {
+      "name": "Chrome on Windows",
+      "created_timestamp": 1781516497,
+      "ip_address": "2405:201:800b:7833:ac87:be4c:814a:8299",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+      "datr_cookie": "npq7********************"
+    },
+    {
+      "name": "Chrome on Windows",
+      "created_timestamp": 1778666253,
+      "ip_address": "2405:201:800b:7833:189d:a4df:47c4:d8d7",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7680.201 Safari/537.36",
+      "datr_cookie": "V7S9********************"
+    },
+    {
+      "name": "Chrome on Linux",
+      "created_timestamp": 1762793586,
+      "ip_address": "2401:4900:8828:2428:bfd7:9bcd:fb98:d937",
+      "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+      "datr_cookie": "KxgS********************"
+    },
+    {
+      "name": "Chrome on Windows",
+      "created_timestamp": 1759498956,
+      "ip_address": "2405:201:800b:782b:862:9397:c55e:deb4",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "datr_cookie": "ndLf********************"
+    },
+    {
+      "name": "Chrome on Windows",
+      "created_timestamp": 1759324838,
+      "ip_address": "2401:4900:882a:fa1b:e810:cae4:1e5e:607a",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+      "datr_cookie": "NyqI********************"
+    },
+    {
+      "name": "Facebook Messenger for Android",
+      "created_timestamp": 1757587594,
+      "updated_timestamp": 1757587614,
+      "ip_address": "2409:40e0:29:2854:ac58:17ff:fe06:176d",
+      "user_agent": "Dalvik/2.1.0 (Linux; U; Android 15; CPH2691 Build/UKQ1.231108.001) [FBAN/Orca-Android;FBAV/523.0.0.53.109;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/788046387;FBCR/airtel;FBMF/OnePlus;FBBD/OnePlus;FBDV/CPH2691;FBSV/15;FBCA/arm64-v8a:null;FBDM/{density=3.5,width=1264,height=2780};FB_FW/1;]",
+      "datr_cookie": "p5uI********************"
+    }
+  ]
+}

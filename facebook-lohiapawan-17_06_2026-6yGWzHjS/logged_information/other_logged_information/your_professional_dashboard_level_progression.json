@@ -1,0 +1,27 @@
+{
+  "timestamp": 1759827754,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Current level",
+      "value": "1"
+    },
+    {
+      "label": "Actions",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Level start time",
+      "timestamp_value": 1759827751
+    },
+    {
+      "label": "Update time",
+      "timestamp_value": 1759827754
+    }
+  ],
+  "fbid": "31855029284142401"
+}

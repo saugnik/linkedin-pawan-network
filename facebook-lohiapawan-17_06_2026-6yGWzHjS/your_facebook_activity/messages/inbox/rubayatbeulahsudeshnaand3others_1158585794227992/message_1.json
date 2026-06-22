@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Rubayat Kadir"
+    },
+    {
+      "name": "Beulah Job"
+    },
+    {
+      "name": "Sudeshna Dey"
+    },
+    {
+      "name": "Niladri S Dutta"
+    },
+    {
+      "name": "Bidisha Sen"
+    },
+    {
+      "name": "Michael J. Robertson"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Roopendra Narayan Roy",
+      "timestamp_ms": 1556331584229,
+      "content": "Roopendra Narayan Roy left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Debapriya I",
+      "timestamp_ms": 1555938858038,
+      "content": "Debapriya I left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Roopendra Narayan Roy",
+      "timestamp_ms": 1476354812344,
+      "content": "Roopendra sent a link.",
+      "share": {
+        "link": "https://www.change.org/p/the-president-of-india-restore-the-disability-pension-of-the-armed-forces",
+        "share_text": "Restore the disability pension of the armed forces"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rubayat, Beulah, Sudeshna and 3 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/rubayatbeulahsudeshnaand3others_1158585794227992",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "timestamp": 1781063181,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Survey responses",
+      "vec": [
+        {
+          "dict": [
+            {
+              "label": "Question",
+              "value": "As far as you know, which one of the following companies owns and operates Facebook?"
+            },
+            {
+              "label": "Response",
+              "value": ""
+            }
+          ]
+        }
+      ],
+      "description": "Your survey questions and responses"
+    },
+    {
+      "label": "Survey start time",
+      "timestamp_value": 0,
+      "description": "The time when you first started this survey"
+    },
+    {
+      "label": "Last update time",
+      "timestamp_value": 0,
+      "description": "The last time you updated this survey"
+    },
+    {
+      "label": "Survey completion time",
+      "timestamp_value": 0,
+      "description": "The time you completed the entire survey"
+    },
+    {
+      "label": "Update time",
+      "timestamp_value": 1781063181
+    },
+    {
+      "label": "Survey responses",
+      "vec": [
+        
+      ],
+      "description": "Your survey questions and responses"
+    }
+  ],
+  "fbid": "1009440871487699"
+}

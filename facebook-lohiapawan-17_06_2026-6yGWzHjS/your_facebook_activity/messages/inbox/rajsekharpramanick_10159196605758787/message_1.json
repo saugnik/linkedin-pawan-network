@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Rajsekhar Pramanick"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rajsekhar Pramanick",
+      "timestamp_ms": 1649736303841,
+      "content": "Rajsekhar sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rajsekhar Pramanick",
+      "timestamp_ms": 1649736296895,
+      "content": "Rajsekhar sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/priyadarshinihandloom/videos/175911063802033/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rajsekhar Pramanick",
+      "timestamp_ms": 1649736291862,
+      "content": "Rajsekhar sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rajsekhar Pramanick",
+      "timestamp_ms": 1649736259100,
+      "content": "Please vist our new WEBSITE \nwww.priyaodisha.com\nPRIYADARSHINI HANDLOOM",
+      "share": {
+        "link": "https://priyaodisha.com/",
+        "share_text": "Priyadarshini has everything you need for Indian traditional wear, from luxury tussar and silk for ceremonies and weddings to causal wear cotton Saree. You will look and feel both stylish and comfortable. Our Saree and fabrics range from sambalpuri, bomkai , pattachitra to Nuapatna and Soenpuri. We...."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rajsekhar Pramanick",
+      "timestamp_ms": 1649736224023,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rajsekhar Pramanick",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajsekharpramanick_10159196605758787",
+  "magic_words": [
+    
+  ]
+}

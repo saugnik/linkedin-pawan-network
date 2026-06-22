@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Shalini Rai"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shalini Rai",
+      "timestamp_ms": 1713788549917,
+      "content": "Aurus 2 \n-Land area - 3.2 acres\n-Upcoming B+G+32 tower\n-Vaastu compliance 4 BHK simplex & 4 BHK with study duplex\n-4 BHK 3500 sq.ft & duplex 4877 sq.ft\n-Limited lifestyle homes (only 74 families)\n-No common wall sharing \n-3 side open apartments \n-Top amenities in top 2 floors of the building \n-80% plus open space\n-Bare finished for individual tastes & preferences \n-VRV homes \n-Top location with excellent connectivity to Airport, Malls,Schools, Hospitals \n-Homes with view of nearby lake, wetlands, renowned hotels and central business districts",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1710581964240,
+      "content": "Welcome",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shalini Rai",
+      "timestamp_ms": 1710575728911,
+      "content": "Hello \nThank you so much",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1710382230625,
+      "content": "Belated happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1710382222467,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shalini Rai",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/shalinirai_10159284497343787",
+  "magic_words": [
+    
+  ]
+}

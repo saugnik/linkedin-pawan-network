@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Lakshman Prasad Agarwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lakshman Prasad Agarwal",
+      "timestamp_ms": 1509190030204,
+      "content": "You're now friends with Lakshman.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lakshman Prasad Agarwal",
+      "timestamp_ms": 1509190030204,
+      "content": "You're now friends with Lakshman.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lakshman Prasad Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/lakshmanprasadagarwal_10155553613338787",
+  "magic_words": [
+    
+  ]
+}

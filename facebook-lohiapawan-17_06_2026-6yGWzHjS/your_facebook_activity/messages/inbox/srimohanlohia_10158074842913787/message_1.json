@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sri Mohan Lohia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1686300290605,
+      "content": "You can now call each other and see information such as Active Status and when you've read messages.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sri Mohan Lohia",
+      "timestamp_ms": 1597687669864,
+      "content": "https://www.facebook.com/ShreePaliDadiNua/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sri Mohan Lohia",
+      "timestamp_ms": 1597687458350,
+      "content": "https://www.facebook.com/ShreePaliDadiNua/",
+      "share": {
+        "link": "https://facebook.com/ShreePaliDadiNua"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sri Mohan Lohia",
+  "is_still_participant": true,
+  "thread_path": "inbox/srimohanlohia_10158074842913787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Sumitra Halan"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1667182979871,
+      "content": "\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sumitra Halan",
+      "timestamp_ms": 1667156629626,
+      "content": "Thankyou \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1667108831712,
+      "content": "Wish u a happy birthday \u00f0\u009f\u008e\u0081\u00f0\u009f\u008e\u0081\u00f0\u009f\u008e\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sumitra Halan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sumitrahalan_10153692035528787",
+  "magic_words": [
+    
+  ]
+}

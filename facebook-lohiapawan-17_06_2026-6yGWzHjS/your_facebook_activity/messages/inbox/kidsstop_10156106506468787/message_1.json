@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Kids Stop"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kids Stop",
+      "timestamp_ms": 1529236668497,
+      "content": "Thanks for messaging us. We'll get back to you as soon as we can.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kids Stop",
+      "timestamp_ms": 1529236668497,
+      "content": "Thanks for messaging us. We'll get back to you as soon as we can.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1529236668038,
+      "content": "Where is your shop located?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1529236668038,
+      "content": "Where is your shop located?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kids Stop",
+  "is_still_participant": true,
+  "thread_path": "inbox/kidsstop_10156106506468787",
+  "magic_words": [
+    
+  ]
+}

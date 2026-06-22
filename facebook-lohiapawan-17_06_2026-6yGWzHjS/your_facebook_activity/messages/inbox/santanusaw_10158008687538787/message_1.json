@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Santanu Saw"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Santanu Saw",
+      "timestamp_ms": 1595476948881,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Santanu Saw",
+  "is_still_participant": true,
+  "thread_path": "inbox/santanusaw_10158008687538787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Abhishek Goyal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1503547308980,
+      "content": "Hello this is CA pawan lohia from Kydsmart.com. Saw yr coverage in today's T2. I hv 6000 kids on my portal from 3 reputed schools. Wanted to work out an arrangement with you for these kids. If u can call me on 9903800354 Regards Pawan Lohia. Check my profile on LinkedIn www.linkedin.com/in/lohiapawan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1503547308980,
+      "content": "Hello this is CA pawan lohia from Kydsmart.com. Saw yr coverage in today's T2. I hv 6000 kids on my portal from 3 reputed schools. Wanted to work out an arrangement with you for these kids. If u can call me on 9903800354 Regards Pawan Lohia. Check my profile on LinkedIn www.linkedin.com/in/lohiapawan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Abhishek Goyal",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhishekgoyal_10155400161533787",
+  "magic_words": [
+    
+  ]
+}

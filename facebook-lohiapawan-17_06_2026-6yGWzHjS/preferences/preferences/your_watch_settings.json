@@ -1,0 +1,41 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Have you opted opt out of videos from business Pages?",
+      "value": "True"
+    },
+    {
+      "label": "Have you opted out of videos from all of the Pages?",
+      "value": "False"
+    },
+    {
+      "label": "Preferred languages",
+      "vec": [
+        {
+          "value": "Hindi"
+        },
+        {
+          "value": "English (US)"
+        },
+        {
+          "value": "Bengali"
+        }
+      ]
+    },
+    {
+      "label": "Have you interacted with the Page language picker",
+      "value": "True"
+    },
+    {
+      "label": "The surface on which you used the language picker"
+    },
+    {
+      "label": "Your time of interaction",
+      "timestamp_value": 1713163578
+    }
+  ],
+  "fbid": "10156482219353787"
+}

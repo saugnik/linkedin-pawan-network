@@ -1,0 +1,97 @@
+{
+  "participants": [
+    {
+      "name": "Shyam Gupta"
+    },
+    {
+      "name": "Shankar Sharma"
+    },
+    {
+      "name": "Vikram Newar"
+    },
+    {
+      "name": "Pawan Tibrewalla"
+    },
+    {
+      "name": "Eshan Shukla"
+    },
+    {
+      "name": "Shatadru Ghosh"
+    },
+    {
+      "name": "Santosh Haralalka"
+    },
+    {
+      "name": "Chandrakant Saraf"
+    },
+    {
+      "name": "Rahul Bubna"
+    },
+    {
+      "name": "Amit Saraogi"
+    },
+    {
+      "name": "Avinash M"
+    },
+    {
+      "name": "Mridul Kotriwal"
+    },
+    {
+      "name": "Rajendra Bachhawat"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1595759396849,
+      "content": "You left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santosh Haralalka",
+      "timestamp_ms": 1595759224868,
+      "content": "Santosh sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rakesh Almal",
+      "timestamp_ms": 1593919356017,
+      "content": "Rakesh Almal left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Santosh Haralalka",
+      "timestamp_ms": 1593918428897,
+      "content": "Santosh sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shiv Kumar Lohia",
+      "timestamp_ms": 1554514553614,
+      "content": "Shiv Kumar Lohia left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shyam Gupta",
+      "timestamp_ms": 1554484295052,
+      "content": "Shyam sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shyam, Shankar, Vikram and 10 others",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/shyamshankarvikramand10others_1000107366741809",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Nitu Jhunjhunwala"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1716427014307,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/nitujhunjhunwala_10157736711453787/gifs/1888782088220636.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1716427010274,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/nitujhunjhunwala_10157736711453787/gifs/7624691007620662.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1587649463669,
+      "content": "You're now friends with Nitu.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nitu Jhunjhunwala",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/nitujhunjhunwala_10157736711453787",
+  "magic_words": [
+    
+  ]
+}

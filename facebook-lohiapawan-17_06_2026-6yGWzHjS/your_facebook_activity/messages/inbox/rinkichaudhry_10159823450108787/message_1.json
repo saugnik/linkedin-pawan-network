@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Rinki Chaudhry"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rinki Chaudhry",
+      "timestamp_ms": 1682254031264,
+      "content": "I m a wellness coach .hmari community every mnth 3-5kg weight loss krne m help krugi aap ya aapki family m koi interested h to aap mujhe bta skte h\nhttps://wa.me/916203718247?text=Hii",
+      "share": {
+        "link": "https://wa.me/916203718247?text=Hii",
+        "share_text": "WhatsApp Messenger: More than 2 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rinki Chaudhry",
+  "is_still_participant": true,
+  "thread_path": "inbox/rinkichaudhry_10159823450108787",
+  "magic_words": [
+    
+  ]
+}

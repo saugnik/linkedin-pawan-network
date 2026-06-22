@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Liberty Shoes Ltd."
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1410003700607,
+      "content": "Order #2000002922 (placed on August 30, 2014 2:03:40 PM IST) on libertyshoesonline.com, so no delivery no communication - pls close down yr online store.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1410003700607,
+      "content": "Order #2000002922 (placed on August 30, 2014 2:03:40 PM IST) on libertyshoesonline.com, so no delivery no communication - pls close down yr online store.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Liberty Shoes Ltd.",
+  "is_still_participant": true,
+  "thread_path": "inbox/libertyshoesltd_10153858595248787",
+  "magic_words": [
+    
+  ]
+}

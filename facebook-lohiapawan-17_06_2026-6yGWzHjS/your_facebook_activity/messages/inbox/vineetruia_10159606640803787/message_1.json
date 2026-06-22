@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Vineet Ruia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1668901684467,
+      "content": "I m already added but blocked from commenting",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vineet Ruia",
+      "timestamp_ms": 1668881676546,
+      "content": "You can now call each other and see information such as Active Status and when you've read messages.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vineet Ruia",
+      "timestamp_ms": 1668881675761,
+      "content": "I have no clue about this. Please ask Abhishek Tibrewala to add you. If the issue is not resolved, do let me know",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1668877305031,
+      "content": "U ask for transparency in school dealings and yet u block somene from commenting if he doesn't comment in yr favour",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vineet Ruia",
+  "is_still_participant": true,
+  "thread_path": "inbox/vineetruia_10159606640803787",
+  "magic_words": [
+    
+  ]
+}

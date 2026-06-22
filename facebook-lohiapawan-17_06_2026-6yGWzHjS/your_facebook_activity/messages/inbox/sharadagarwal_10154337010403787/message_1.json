@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sharad Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sharad Agarwal",
+      "timestamp_ms": 1470889130335,
+      "content": "You're now friends with Sharad.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sharad Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/sharadagarwal_10154337010403787",
+  "magic_words": [
+    
+  ]
+}

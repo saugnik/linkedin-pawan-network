@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sweta Jalan"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sweta Jalan",
+      "timestamp_ms": 1342607290442,
+      "content": "hiiiiiiiiiiiiiiiiiiiiiiiiiii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sweta Jalan",
+  "is_still_participant": true,
+  "thread_path": "inbox/swetajalan_10155311453463787",
+  "magic_words": [
+    
+  ]
+}

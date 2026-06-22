@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rajesh Singhania"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1662560974042,
+      "content": "Nice to connect with u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rajesh Singhania",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajeshsinghania_10159414549143787",
+  "magic_words": [
+    
+  ]
+}

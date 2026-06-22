@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Stone Paper Scissors"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stone Paper Scissors",
+      "timestamp_ms": 1529309867335,
+      "content": "How can we help?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1529235975557,
+      "content": "Can I book an appointment?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stone Paper Scissors",
+  "is_still_participant": true,
+  "thread_path": "inbox/stonepaperscissors_10156106492153787",
+  "magic_words": [
+    
+  ]
+}

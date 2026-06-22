@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Deepa Tekriwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Deepa Tekriwal",
+      "timestamp_ms": 1492479322141,
+      "content": "You're now friends with Deepa.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deepa Tekriwal",
+      "timestamp_ms": 1492479322141,
+      "content": "You're now friends with Deepa.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Deepa Tekriwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/deepatekriwal_10155027373348787",
+  "magic_words": [
+    
+  ]
+}

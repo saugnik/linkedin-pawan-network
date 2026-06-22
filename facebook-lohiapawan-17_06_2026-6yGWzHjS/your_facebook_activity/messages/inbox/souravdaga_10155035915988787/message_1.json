@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sourav Daga"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sourav Daga",
+      "timestamp_ms": 1492714615418,
+      "content": "You're now friends with Sourav.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sourav Daga",
+  "is_still_participant": true,
+  "thread_path": "inbox/souravdaga_10155035915988787",
+  "magic_words": [
+    
+  ]
+}

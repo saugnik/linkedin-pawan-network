@@ -1,0 +1,72 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Custom sent message",
+      "value": "Yes"
+    },
+    {
+      "label": "Buddylist always shown",
+      "value": "No"
+    },
+    {
+      "label": "Use custom sounds",
+      "value": "Yes"
+    },
+    {
+      "label": "Make buddy list compact",
+      "value": "Yes"
+    },
+    {
+      "label": "Sidebar expanded by default",
+      "value": "Yes"
+    },
+    {
+      "label": "HTML5 used for message notifications",
+      "value": "No"
+    },
+    {
+      "label": "Groups shown in sidebar",
+      "value": "No"
+    },
+    {
+      "label": "Groups hidden from sidebar",
+      "value": "No"
+    },
+    {
+      "label": "Call blocked until",
+      "value": "1969-12-31 16:00:00"
+    },
+    {
+      "label": "Hide buddy list",
+      "value": "No"
+    },
+    {
+      "label": "Admin pages hidden",
+      "value": "No"
+    },
+    {
+      "label": "Businesses hidden",
+      "value": "No"
+    },
+    {
+      "label": "Hide Marketplace",
+      "value": "No"
+    },
+    {
+      "label": "Chat tabs off",
+      "value": "No"
+    },
+    {
+      "label": "Solid reaction",
+      "value": "No"
+    },
+    {
+      "label": "Collapse contacts on desktop",
+      "value": "No"
+    }
+  ],
+  "fbid": "10150199410888787"
+}

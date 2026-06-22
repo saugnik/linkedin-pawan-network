@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Uaa Guru"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Uaa Guru",
+      "timestamp_ms": 1677580744260,
+      "content": "WANT TO PROCEED FOR:\nPUBLISH NEWSPAPER AD\nMARKETING\nDEVELOPER \nPROJECTS\nEVANT\n&\nLIKELY SERVICES\nPLEASE DIAL:9830324812\nUNIVERSAL ADVERTISING ASSOCIATION",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Uaa Guru",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/uaaguru_10159784714068787",
+  "magic_words": [
+    
+  ]
+}

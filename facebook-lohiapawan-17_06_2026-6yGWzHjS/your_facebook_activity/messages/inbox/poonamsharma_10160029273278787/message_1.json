@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Poonam Sharma"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Poonam Sharma",
+      "timestamp_ms": 1689266863771,
+      "content": "Hello dear",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Poonam Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/poonamsharma_10160029273278787",
+  "magic_words": [
+    
+  ]
+}

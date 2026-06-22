@@ -1,0 +1,56 @@
+{
+  "timestamp": 1781516728,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Date range start",
+      "timestamp_value": -2048515200
+    },
+    {
+      "label": "Date range end",
+      "timestamp_value": 1781516728
+    },
+    {
+      "label": "Request completion time",
+      "timestamp_value": 0
+    },
+    {
+      "label": "How many times did you try to download the file?",
+      "value": "0"
+    },
+    {
+      "label": "Information types",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Media quality",
+      "value": "High"
+    },
+    {
+      "label": "Output format",
+      "value": "JSON"
+    },
+    {
+      "label": "Have you seen this archive?",
+      "value": "False"
+    },
+    {
+      "label": "Have we notified you that your request is taking a long time to process?",
+      "value": "False"
+    },
+    {
+      "label": "Where you requested your data from"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Files"
+    }
+  ],
+  "fbid": "1291099146554872"
+}

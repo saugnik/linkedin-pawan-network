@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Saran Pandey"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1498217205260,
+      "content": "You're now friends with Saran.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Saran Pandey",
+  "is_still_participant": true,
+  "thread_path": "inbox/saranpandey_10155214090318787",
+  "magic_words": [
+    
+  ]
+}

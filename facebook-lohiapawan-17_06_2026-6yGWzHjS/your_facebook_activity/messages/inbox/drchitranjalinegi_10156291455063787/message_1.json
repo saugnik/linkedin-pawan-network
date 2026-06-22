@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "DrChitranjali Negi"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1358747579684,
+      "content": "Wish u a very happy birthday ji",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1358747579684,
+      "content": "Wish u a very happy birthday ji",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DrChitranjali Negi",
+  "is_still_participant": true,
+  "thread_path": "inbox/drchitranjalinegi_10156291455063787",
+  "magic_words": [
+    
+  ]
+}

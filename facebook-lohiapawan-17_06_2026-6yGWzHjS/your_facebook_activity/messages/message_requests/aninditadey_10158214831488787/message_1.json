@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Anindita Dey"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anindita Dey",
+      "timestamp_ms": 1603184040739,
+      "content": "??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anindita Dey",
+      "timestamp_ms": 1603184039220,
+      "content": "Stock market investment interested",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anindita Dey",
+  "is_still_participant": true,
+  "thread_path": "message_requests/aninditadey_10158214831488787",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

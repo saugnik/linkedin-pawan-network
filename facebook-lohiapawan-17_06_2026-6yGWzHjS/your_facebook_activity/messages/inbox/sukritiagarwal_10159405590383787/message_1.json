@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sukriti Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1661910912428,
+      "content": "My wife's bday coming up can u suggest something",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sukriti Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/sukritiagarwal_10159405590383787",
+  "magic_words": [
+    
+  ]
+}

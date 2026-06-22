@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Rachna Mohta"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rachna Mohta",
+      "timestamp_ms": 1663575295135,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rachna Mohta",
+      "timestamp_ms": 1663563121511,
+      "content": "Yeah ! Me too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1663557251153,
+      "content": "Let's be in touch",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1663557244751,
+      "content": "Good to hv connected with u in yifi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1512535921914,
+      "content": "You're now friends with Rachna.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rachna Mohta",
+  "is_still_participant": true,
+  "thread_path": "inbox/rachnamohta_10155647373203787",
+  "magic_words": [
+    
+  ]
+}

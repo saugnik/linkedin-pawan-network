@@ -1,0 +1,24 @@
+{
+  "contact_verifications_v2": [
+    {
+      "contact": "lohiapawan@gmail.com",
+      "contact_type": 2,
+      "verification_time": 1188928063
+    },
+    {
+      "contact": "+919903800354",
+      "contact_type": 1,
+      "verification_time": 1466590154
+    },
+    {
+      "contact": "lohiapawan@gmail.com",
+      "contact_type": 2,
+      "verification_time": 1188928063
+    },
+    {
+      "contact": "+919903800354",
+      "contact_type": 1,
+      "verification_time": 1466590154
+    }
+  ]
+}

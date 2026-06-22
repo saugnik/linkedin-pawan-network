@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rohit Kejriwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rohit Kejriwal",
+      "timestamp_ms": 1496204990833,
+      "content": "You're now friends with Rohit.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rohit Kejriwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/rohitkejriwal_10155145843048787",
+  "magic_words": [
+    
+  ]
+}

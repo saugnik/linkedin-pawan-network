@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sriniwas Lohia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sriniwas Lohia",
+      "timestamp_ms": 1552842480520,
+      "content": "You're now friends with Sriniwas.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sriniwas Lohia",
+  "is_still_participant": true,
+  "thread_path": "inbox/sriniwaslohia_10156697072383787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Ritika Sureka Singhania"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1487493973411,
+      "content": "thank u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ritika Sureka Singhania",
+      "timestamp_ms": 1487485901975,
+      "content": "Happy anniversary bhaiya :) :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ritika Sureka Singhania",
+  "is_still_participant": true,
+  "thread_path": "inbox/ritikasurekasinghania_10154203787173787",
+  "magic_words": [
+    
+  ]
+}

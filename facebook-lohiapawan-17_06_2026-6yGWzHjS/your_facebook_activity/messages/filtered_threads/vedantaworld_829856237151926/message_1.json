@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Vedantaworld"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vedantaworld",
+      "timestamp_ms": 1315497437000,
+      "content": "The Bhagavad Gita \u00e2\u0080\u0098Song of the Lord\u00e2\u0080\u0099 is a conversation between Lord Krsna and the warrior prince Arjuna on the battlefield of the Kurukshetra. It provides a practical philosophy which expounds the technique for an active and peaceful life. Above all, it ushers one towards the goal of spiritual Enlightenment.\n\nSunandaji will be taking Chapter 12 'Yoga of Devotion' in Mumbai from the 13th - 16th September.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vedantaworld",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/vedantaworld_829856237151926",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

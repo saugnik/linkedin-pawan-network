@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Smita Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Smita Agarwal",
+      "timestamp_ms": 1475467684509,
+      "content": "You're now friends with Smita.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Smita Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/smitaagarwal_10154472298203257",
+  "magic_words": [
+    
+  ]
+}

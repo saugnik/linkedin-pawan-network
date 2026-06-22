@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Jyoti Saraff"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jyoti Saraff",
+      "timestamp_ms": 1474374446439,
+      "content": "You're now friends with Jyoti.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jyoti Saraff",
+      "timestamp_ms": 1474374446439,
+      "content": "You're now friends with Jyoti.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jyoti Saraff",
+  "is_still_participant": true,
+  "thread_path": "inbox/jyotisaraff_10154442419528787",
+  "magic_words": [
+    
+  ]
+}

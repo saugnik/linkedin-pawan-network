@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Shubhra Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1657262636256,
+      "content": "nice to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shubhra Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/shubhraagarwal_10160449360228453",
+  "magic_words": [
+    
+  ]
+}

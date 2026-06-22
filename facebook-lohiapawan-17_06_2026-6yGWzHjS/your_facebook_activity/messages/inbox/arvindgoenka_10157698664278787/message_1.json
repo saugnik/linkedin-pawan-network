@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Arvind Goenka"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1586714761651,
+      "content": "You're now friends with Arvind.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1586714761651,
+      "content": "You're now friends with Arvind.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arvind Goenka",
+  "is_still_participant": true,
+  "thread_path": "inbox/arvindgoenka_10157698664278787",
+  "magic_words": [
+    
+  ]
+}

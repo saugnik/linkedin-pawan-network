@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Suresh Lohia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suresh Lohia",
+      "timestamp_ms": 1634356748063,
+      "content": "Hi, I'm a member of this group on Facebook that you might be interested in.",
+      "share": {
+        "link": "https://www.facebook.com/groups/410878080432103/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Suresh Lohia",
+  "is_still_participant": true,
+  "thread_path": "inbox/sureshlohia_10155442411808787",
+  "magic_words": [
+    
+  ]
+}

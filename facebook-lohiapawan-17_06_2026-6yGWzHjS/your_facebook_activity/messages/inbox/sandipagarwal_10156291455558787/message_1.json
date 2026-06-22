@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Sandip Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1311252564042,
+      "content": "I was getting spammed With yr apps hence had to remove u from friend list, pls don't misunderstand.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sandip Agarwal",
+      "timestamp_ms": 1303559870579,
+      "content": "pawan See who views your profile http://x.co/Wl78/?89864",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sandip Agarwal",
+      "timestamp_ms": 1301721140396,
+      "content": "hi\u00c2\u00ad\u001c\u00c2\u00ad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sandip Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/sandipagarwal_10156291455558787",
+  "magic_words": [
+    
+  ]
+}

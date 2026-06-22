@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rahul Lakhotia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rahul Lakhotia",
+      "timestamp_ms": 1631038627536,
+      "content": "Sir can I have your mobile number please",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rahul Lakhotia",
+  "is_still_participant": true,
+  "thread_path": "inbox/rahullakhotia_10158869288138787",
+  "magic_words": [
+    
+  ]
+}

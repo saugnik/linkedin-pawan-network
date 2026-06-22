@@ -1,0 +1,150 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Session start log",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "session_start_time",
+                "timestamp_value": 1712133488
+              },
+              {
+                "label": "session_source",
+                "value": "facebook~ecosystem_main_feed~custom_share"
+              },
+              {
+                "label": "session_token",
+                "value": "70eef380-5a79-46a0-915f-3d57cc31c122"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "The latest session token from a game session",
+        "value": "70eef380-5a79-46a0-915f-3d57cc31c122"
+      },
+      {
+        "label": "Game name",
+        "value": "My Avatar Puzzle"
+      }
+    ],
+    "fbid": "10160445945183787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Session start log",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "session_start_time",
+                "timestamp_value": 1705754321
+              },
+              {
+                "label": "session_source",
+                "value": "facebook~gaming_video~live_video"
+              },
+              {
+                "label": "session_token",
+                "value": "2082d6a9-6816-4fcc-9e24-63807265b246"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "The latest session token from a game session",
+        "value": "2082d6a9-6816-4fcc-9e24-63807265b246"
+      },
+      {
+        "label": "Game name",
+        "value": "Reels Linked Video CTA"
+      }
+    ],
+    "fbid": "10160346292523787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Session start log",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "session_start_time",
+                "timestamp_value": 1677648551
+              },
+              {
+                "label": "session_source",
+                "value": "facebook~ecosystem_main_feed~custom_share"
+              },
+              {
+                "label": "session_token",
+                "value": "c92227d7-5efd-4754-8768-1ec194de9236"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "The latest session token from a game session",
+        "value": "c92227d7-5efd-4754-8768-1ec194de9236"
+      },
+      {
+        "label": "Game name",
+        "value": "AHA"
+      }
+    ],
+    "fbid": "10159786079738787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Session start log",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "session_start_time",
+                "timestamp_value": 1586464180
+              },
+              {
+                "label": "session_source",
+                "value": "fb_feed_screenshot"
+              },
+              {
+                "label": "session_token",
+                "value": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "The latest session token from a game session",
+        "value": ""
+      },
+      {
+        "label": "Game name",
+        "value": "OMG"
+      }
+    ],
+    "fbid": "10157689106383787"
+  }
+]

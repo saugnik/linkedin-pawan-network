@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1373383809605,
+      "content": "Hello my Dear,\ni just got interested in your profile and i felt going into business transaction with you regarding your NAME AND YOUR LOCATION,\ni hope you dont mind to go into business transaction with me which will yield benefits to us?\ni will update and give you more details more about the business investment as soon as i read a reply from you soon,\nI wish to know more about you,\nare you a business minded partner?\nare you honest and faithful ?\ncan you assist in partnership with a business transaction that will yield benefits to us?\ni await hearing from you to ascertain if you are business minded, honest and faithful to partnership with me regarding a business transaction for a mutual benefits\ni await hearing from you soon so as to enable me tell you more about the business transaction for more clarification and also send you the Case profile letter of the business transaction details for better understanding.\nBest Regards",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_10154187165918787",
+  "magic_words": [
+    
+  ]
+}

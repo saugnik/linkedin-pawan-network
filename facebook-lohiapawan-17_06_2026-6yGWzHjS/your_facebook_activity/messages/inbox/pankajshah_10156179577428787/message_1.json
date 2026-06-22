@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Pankaj Shah"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1532106683665,
+      "content": "You're now friends with Pankaj.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1532106683665,
+      "content": "You're now friends with Pankaj.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pankaj Shah",
+  "is_still_participant": true,
+  "thread_path": "inbox/pankajshah_10156179577428787",
+  "magic_words": [
+    
+  ]
+}

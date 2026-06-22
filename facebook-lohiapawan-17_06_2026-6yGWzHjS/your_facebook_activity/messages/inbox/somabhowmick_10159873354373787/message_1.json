@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Soma Bhowmick"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1681926245480,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Soma Bhowmick",
+  "is_still_participant": true,
+  "thread_path": "inbox/somabhowmick_10159873354373787",
+  "magic_words": [
+    
+  ]
+}

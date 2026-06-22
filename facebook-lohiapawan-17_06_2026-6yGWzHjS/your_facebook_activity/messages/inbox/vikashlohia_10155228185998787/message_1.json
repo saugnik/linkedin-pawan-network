@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Vikash Lohia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vikash Lohia",
+      "timestamp_ms": 1500649920678,
+      "content": "This is a friendship bear don't break the chain send to all your friends",
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/vikashlohia_10155228185998787/gifs/1988168111413254.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vikash Lohia",
+      "timestamp_ms": 1499774173289,
+      "content": "Vikash sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vikash Lohia",
+      "timestamp_ms": 1499535587866,
+      "content": "Vikash sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vikash Lohia",
+      "timestamp_ms": 1498618030020,
+      "content": "You're now friends with Vikash.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vikash Lohia",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikashlohia_10155228185998787",
+  "magic_words": [
+    
+  ]
+}

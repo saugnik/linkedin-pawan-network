@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Raju Khandelwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1690012737750,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1689558114247,
+      "content": "It was a pleasure to hv met in u in person at mcc on Friday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1536857976691,
+      "content": "This is reg yr interest in mahatria's prog in kala. Mandir on 19th. I wanted to check if you hv been able to do the online registration",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raju Khandelwal",
+      "timestamp_ms": 1512428426897,
+      "content": "Raju sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1512428274922,
+      "content": "You're now friends with Raju.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Raju Khandelwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajukhandelwal_10155644041033787",
+  "magic_words": [
+    
+  ]
+}

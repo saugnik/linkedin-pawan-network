@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Sreerupa Sil"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1595093517726,
+      "content": "hope all well at yr end",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1595093512593,
+      "content": "hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1521778491685,
+      "content": "You're now friends with Sreerupa.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sreerupa Sil",
+  "is_still_participant": true,
+  "thread_path": "inbox/sreerupasil_10155915817608787",
+  "magic_words": [
+    
+  ]
+}

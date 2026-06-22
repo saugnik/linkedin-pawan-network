@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Facebook user"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1656304666049,
+      "content": "Thank you for Accepting my friendship I'm greatful",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1656304666049,
+      "content": "Thank you for Accepting my friendship I'm greatful",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1656304660324,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1656304660324,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1656304657309,
+      "content": "Hello brother",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1656304657309,
+      "content": "Hello brother",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_10159316893453787",
+  "magic_words": [
+    
+  ]
+}

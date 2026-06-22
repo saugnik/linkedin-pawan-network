@@ -1,0 +1,23 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Creation times",
+      "vec": [
+        {
+          "timestamp_value": 1623215243
+        }
+      ]
+    },
+    {
+      "label": "Product featured in the ad"
+    },
+    {
+      "label": "Is the thread privacy restricted?",
+      "value": "False"
+    }
+  ],
+  "fbid": "5580161525387208"
+}

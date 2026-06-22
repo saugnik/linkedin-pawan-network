@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rishav Jajodia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rishav Jajodia",
+      "timestamp_ms": 1514254362505,
+      "content": "You're now friends with Rishav.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rishav Jajodia",
+  "is_still_participant": true,
+  "thread_path": "inbox/rishavjajodia_10155697093578787",
+  "magic_words": [
+    
+  ]
+}

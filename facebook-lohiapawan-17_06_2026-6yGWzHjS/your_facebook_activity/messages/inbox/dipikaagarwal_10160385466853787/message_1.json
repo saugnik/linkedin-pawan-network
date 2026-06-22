@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Dipika Agarwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dipika Agarwal",
+      "timestamp_ms": 1711392559557,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dipika Agarwal",
+      "timestamp_ms": 1711392559557,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dipika Agarwal",
+      "timestamp_ms": 1711392559078,
+      "content": "Hy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dipika Agarwal",
+      "timestamp_ms": 1711392559078,
+      "content": "Hy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dipika Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/dipikaagarwal_10160385466853787",
+  "magic_words": [
+    
+  ]
+}

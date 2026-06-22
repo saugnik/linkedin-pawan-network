@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Shruti Nandini"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shruti Nandini",
+      "timestamp_ms": 1574251466354,
+      "content": "Sent my CV sir.. Please check and recommend\nThanks \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shruti Nandini",
+      "timestamp_ms": 1574251109034,
+      "content": "You can now call each other and see information such as Active Status and when you've read messages.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1574249643664,
+      "content": "Pls email me yr cv lohiapawan@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1574249642885,
+      "content": "Pls email me yr cv lohiapawan@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1574249640653,
+      "content": "Pls email me yr cv lohiapawan@gmail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shruti Nandini",
+  "is_still_participant": true,
+  "thread_path": "inbox/shrutinandini_10157285767973787",
+  "magic_words": [
+    
+  ]
+}

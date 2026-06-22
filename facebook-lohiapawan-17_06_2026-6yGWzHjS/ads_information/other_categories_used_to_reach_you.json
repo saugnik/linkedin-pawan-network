@@ -1,0 +1,97 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Name",
+      "vec": [
+        {
+          "value": "Away from family"
+        },
+        {
+          "value": "Away from home town"
+        },
+        {
+          "value": "Birthday in April"
+        },
+        {
+          "value": "Engaged shoppers"
+        },
+        {
+          "value": "Facebook Page admins"
+        },
+        {
+          "value": "Facebook access (browser): Opera"
+        },
+        {
+          "value": "Facebook access (mobile): Android devices"
+        },
+        {
+          "value": "Facebook access (mobile): all mobile devices"
+        },
+        {
+          "value": "Facebook access (mobile): smartphones and tablets"
+        },
+        {
+          "value": "Facebook access (mobile): tablets"
+        },
+        {
+          "value": "Facebook access (network type): Wi-Fi"
+        },
+        {
+          "value": "Family of those who live abroad"
+        },
+        {
+          "value": "Food and restaurant Page admins"
+        },
+        {
+          "value": "Frequent international travellers"
+        },
+        {
+          "value": "Frequent travellers"
+        },
+        {
+          "value": "Friends of football fans"
+        },
+        {
+          "value": "Friends of men with a birthday in 0-7 days"
+        },
+        {
+          "value": "Friends of men with a birthday in 7-30 days"
+        },
+        {
+          "value": "Friends of people who recently moved"
+        },
+        {
+          "value": "Friends of people with birthdays in a month"
+        },
+        {
+          "value": "Friends of people with birthdays in a week"
+        },
+        {
+          "value": "Friends of those who live abroad"
+        },
+        {
+          "value": "Friends of women with a birthday in 0-7 days"
+        },
+        {
+          "value": "Friends of women with a birthday in 7-30 days"
+        },
+        {
+          "value": "New Page admins"
+        },
+        {
+          "value": "Owns: OnePlus"
+        },
+        {
+          "value": "Small business owners"
+        },
+        {
+          "value": "Travel and tourism Page admins"
+        }
+      ]
+    }
+  ],
+  "fbid": "690728786"
+}

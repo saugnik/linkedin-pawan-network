@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Vibha Kanodia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vibha Kanodia",
+      "timestamp_ms": 1305177408000,
+      "content": "HI PAWAN...\r\n\r\nGOOD MORNING...SENDIND U D ATTACHMENT ..PLS GOT HROUGH IT ,AS U CAN\r\nHELP MY ORGANIZATION..\r\n\r\nTHANK U\r\n\r\nVIBHA LC65",
+      "files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/vibhakanodia_10156291455583787/files/10203236101772207.rtf",
+          "creation_timestamp": 1421095731
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vibha Kanodia",
+      "timestamp_ms": 1302270528000,
+      "content": "thank u...\r\n\r\nvibha\r\n\r\nOn 4/7/11, Pawan Lohia <lohiapawan@facebook.com> wrote:\r\n> yr ticket\r\n>\r\n> ---------- Forwarded message ----------\r\n> On April 7, 2011 5:24:07 AM PDT, itinerary@spicejet.com wrote:\r\n>>  Please find attached your booking with SpiceJet Limited. Thank you for\r\n>> choosing SpiceJet!  Please do NOT reply to this mail. If you have any\r\n>> doubts or queries, write to  custrelations@spicejet.com  or simply click\r\n>> on  Customer Relations .\r\n>>\r\n>>\r\n>>\r\n>>\r\n>>\r\n>>\r\n>>\r\n>>\r\n>>\r\n>>\r\n>",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1302179611952,
+      "content": "yr ticket",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vibha Kanodia",
+  "is_still_participant": true,
+  "thread_path": "inbox/vibhakanodia_10156291455583787",
+  "magic_words": [
+    
+  ]
+}

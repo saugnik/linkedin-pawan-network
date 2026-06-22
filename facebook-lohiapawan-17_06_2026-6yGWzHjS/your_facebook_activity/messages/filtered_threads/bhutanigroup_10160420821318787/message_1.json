@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Bhutani Group "
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bhutani Group ",
+      "timestamp_ms": 1710566292664,
+      "content": "Hello Sir \nAre you looking prelaunch projects, flat, plot, villa, retail shop, office space any property",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bhutani Group ",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/bhutanigroup_10160420821318787",
+  "magic_words": [
+    
+  ]
+}

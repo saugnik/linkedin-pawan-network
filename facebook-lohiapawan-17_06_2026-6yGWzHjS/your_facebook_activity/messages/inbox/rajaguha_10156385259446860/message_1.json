@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "RaJa GuHa"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "RaJa GuHa",
+      "timestamp_ms": 1574222304322,
+      "content": "https://www.townscript.com/e/rotary-run2019-134034?prS=search&seS=eventpage",
+      "share": {
+        "link": "https://www.townscript.com/e/rotary-run2019-134034",
+        "share_text": "Online event Registration & ticketing page of Rotary Run,2019. Buy Tickets for this Kolkata Event organized by Rotary Club of Kabitirtha Calcutta, Rotary International District 3291."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "RaJa GuHa",
+  "is_still_participant": true,
+  "thread_path": "inbox/rajaguha_10156385259446860",
+  "magic_words": [
+    
+  ]
+}

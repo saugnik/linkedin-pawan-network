@@ -1,0 +1,20 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "List of devices that used the basic site",
+      "value": "m_touch"
+    },
+    {
+      "label": "Data usage limit",
+      "value": "Undefined"
+    },
+    {
+      "label": "Default photo size to download",
+      "value": "Full"
+    }
+  ],
+  "fbid": "3904842119587826"
+}

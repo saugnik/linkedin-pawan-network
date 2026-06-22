@@ -1,0 +1,52 @@
+{
+  "timestamp": 1586291319,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "When and what you've blocked",
+      "dict": [
+        
+      ]
+    },
+    {
+      "label": "Profile association state",
+      "value": "Account association enabled"
+    },
+    {
+      "label": "Latest last activity time",
+      "timestamp_value": 1656325919
+    },
+    {
+      "label": "Combined number of times you've used these privacy settings",
+      "value": "4"
+    },
+    {
+      "label": "Number of times you used clear history settings",
+      "value": "2"
+    },
+    {
+      "label": "Number of times that you used disabling profile association settings",
+      "value": "1"
+    },
+    {
+      "label": "Number of times that you used enabling profile association settings",
+      "value": "1"
+    },
+    {
+      "label": "Your latest and upcoming profile association states",
+      "dict": [
+        {
+          "label": "2022-06-28",
+          "value": "Account association enabled"
+        },
+        {
+          "label": "2021-06-03",
+          "value": "Account association disabled"
+        }
+      ]
+    }
+  ],
+  "fbid": "10157682687898787"
+}

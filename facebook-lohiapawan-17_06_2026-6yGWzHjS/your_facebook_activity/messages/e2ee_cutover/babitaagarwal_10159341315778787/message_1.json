@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Babita Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1770858561277,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/babitaagarwal_10159341315778787/gifs/897576979684737.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1770858558871,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/babitaagarwal_10159341315778787/gifs/910107774711957.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1657589067547,
+      "content": "Hi\r\n\r\nNice to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Babita Agarwal",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/babitaagarwal_10159341315778787",
+  "magic_words": [
+    
+  ]
+}

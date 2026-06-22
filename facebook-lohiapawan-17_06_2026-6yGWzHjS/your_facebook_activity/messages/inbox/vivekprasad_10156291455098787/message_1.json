@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Vivek Prasad"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1373472130222,
+      "content": "Saw u on the Friends list of Vaishali, do u have her mail ID/phone no if so pls share",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vivek Prasad",
+  "is_still_participant": true,
+  "thread_path": "inbox/vivekprasad_10156291455098787",
+  "magic_words": [
+    
+  ]
+}

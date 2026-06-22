@@ -1,0 +1,609 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Platform",
+        "value": "Website"
+      },
+      {
+        "label": "Active days",
+        "vec": [
+          {
+            "value": "14 Jun 2026"
+          },
+          {
+            "value": "13 Jun 2026"
+          },
+          {
+            "value": "8 Jun 2026"
+          },
+          {
+            "value": "7 Jun 2026"
+          },
+          {
+            "value": "6 Jun 2026"
+          },
+          {
+            "value": "4 Jun 2026"
+          },
+          {
+            "value": "2 Jun 2026"
+          },
+          {
+            "value": "31 May 2026"
+          },
+          {
+            "value": "29 May 2026"
+          },
+          {
+            "value": "26 May 2026"
+          },
+          {
+            "value": "25 May 2026"
+          },
+          {
+            "value": "24 May 2026"
+          },
+          {
+            "value": "22 May 2026"
+          },
+          {
+            "value": "21 May 2026"
+          },
+          {
+            "value": "20 May 2026"
+          },
+          {
+            "value": "19 May 2026"
+          },
+          {
+            "value": "12 May 2026"
+          },
+          {
+            "value": "11 May 2026"
+          },
+          {
+            "value": "7 May 2026"
+          },
+          {
+            "value": "29 Apr 2026"
+          },
+          {
+            "value": "25 Apr 2026"
+          },
+          {
+            "value": "23 Apr 2026"
+          },
+          {
+            "value": "21 Apr 2026"
+          },
+          {
+            "value": "20 Apr 2026"
+          },
+          {
+            "value": "12 Apr 2026"
+          }
+        ]
+      }
+    ],
+    "fbid": "Website"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Platform",
+        "value": "Facebook app"
+      },
+      {
+        "label": "Active days",
+        "vec": [
+          {
+            "value": "14 Jun 2026"
+          },
+          {
+            "value": "13 Jun 2026"
+          },
+          {
+            "value": "12 Jun 2026"
+          },
+          {
+            "value": "11 Jun 2026"
+          },
+          {
+            "value": "10 Jun 2026"
+          },
+          {
+            "value": "9 Jun 2026"
+          },
+          {
+            "value": "8 Jun 2026"
+          },
+          {
+            "value": "7 Jun 2026"
+          },
+          {
+            "value": "6 Jun 2026"
+          },
+          {
+            "value": "5 Jun 2026"
+          },
+          {
+            "value": "4 Jun 2026"
+          },
+          {
+            "value": "2 Jun 2026"
+          },
+          {
+            "value": "1 Jun 2026"
+          },
+          {
+            "value": "31 May 2026"
+          },
+          {
+            "value": "30 May 2026"
+          },
+          {
+            "value": "29 May 2026"
+          },
+          {
+            "value": "27 May 2026"
+          },
+          {
+            "value": "26 May 2026"
+          },
+          {
+            "value": "25 May 2026"
+          },
+          {
+            "value": "24 May 2026"
+          },
+          {
+            "value": "23 May 2026"
+          },
+          {
+            "value": "22 May 2026"
+          },
+          {
+            "value": "21 May 2026"
+          },
+          {
+            "value": "20 May 2026"
+          },
+          {
+            "value": "19 May 2026"
+          },
+          {
+            "value": "18 May 2026"
+          },
+          {
+            "value": "17 May 2026"
+          },
+          {
+            "value": "16 May 2026"
+          },
+          {
+            "value": "15 May 2026"
+          },
+          {
+            "value": "14 May 2026"
+          },
+          {
+            "value": "13 May 2026"
+          },
+          {
+            "value": "12 May 2026"
+          },
+          {
+            "value": "11 May 2026"
+          },
+          {
+            "value": "10 May 2026"
+          },
+          {
+            "value": "9 May 2026"
+          },
+          {
+            "value": "8 May 2026"
+          },
+          {
+            "value": "7 May 2026"
+          },
+          {
+            "value": "6 May 2026"
+          },
+          {
+            "value": "5 May 2026"
+          },
+          {
+            "value": "4 May 2026"
+          },
+          {
+            "value": "3 May 2026"
+          },
+          {
+            "value": "2 May 2026"
+          },
+          {
+            "value": "1 May 2026"
+          },
+          {
+            "value": "30 Apr 2026"
+          },
+          {
+            "value": "29 Apr 2026"
+          },
+          {
+            "value": "28 Apr 2026"
+          },
+          {
+            "value": "27 Apr 2026"
+          },
+          {
+            "value": "26 Apr 2026"
+          },
+          {
+            "value": "25 Apr 2026"
+          },
+          {
+            "value": "24 Apr 2026"
+          },
+          {
+            "value": "23 Apr 2026"
+          },
+          {
+            "value": "22 Apr 2026"
+          },
+          {
+            "value": "21 Apr 2026"
+          },
+          {
+            "value": "20 Apr 2026"
+          },
+          {
+            "value": "19 Apr 2026"
+          },
+          {
+            "value": "18 Apr 2026"
+          },
+          {
+            "value": "17 Apr 2026"
+          },
+          {
+            "value": "16 Apr 2026"
+          },
+          {
+            "value": "15 Apr 2026"
+          },
+          {
+            "value": "14 Apr 2026"
+          },
+          {
+            "value": "13 Apr 2026"
+          },
+          {
+            "value": "12 Apr 2026"
+          }
+        ]
+      }
+    ],
+    "fbid": "Facebook app"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Platform",
+        "value": "Mobile Web"
+      },
+      {
+        "label": "Active days",
+        "vec": [
+          {
+            "value": "24 May 2026"
+          }
+        ]
+      }
+    ],
+    "fbid": "Mobile Web"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Platform",
+        "value": "Facebook messenger for Android"
+      },
+      {
+        "label": "Active days",
+        "vec": [
+          {
+            "value": "13 Jun 2026"
+          },
+          {
+            "value": "11 Jun 2026"
+          },
+          {
+            "value": "4 Jun 2026"
+          },
+          {
+            "value": "2 Jun 2026"
+          },
+          {
+            "value": "1 Jun 2026"
+          },
+          {
+            "value": "30 May 2026"
+          },
+          {
+            "value": "29 May 2026"
+          },
+          {
+            "value": "22 May 2026"
+          },
+          {
+            "value": "20 May 2026"
+          },
+          {
+            "value": "19 May 2026"
+          },
+          {
+            "value": "18 May 2026"
+          },
+          {
+            "value": "17 May 2026"
+          },
+          {
+            "value": "15 May 2026"
+          },
+          {
+            "value": "9 May 2026"
+          },
+          {
+            "value": "6 May 2026"
+          },
+          {
+            "value": "5 May 2026"
+          },
+          {
+            "value": "3 May 2026"
+          },
+          {
+            "value": "1 May 2026"
+          },
+          {
+            "value": "28 Apr 2026"
+          },
+          {
+            "value": "23 Apr 2026"
+          },
+          {
+            "value": "17 Apr 2026"
+          },
+          {
+            "value": "15 Apr 2026"
+          },
+          {
+            "value": "14 Apr 2026"
+          },
+          {
+            "value": "12 Apr 2026"
+          }
+        ]
+      }
+    ],
+    "fbid": "Facebook messenger for Android"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Platform",
+        "value": "Facebook Lite"
+      },
+      {
+        "label": "Active days",
+        "vec": [
+          {
+            "value": "14 Jun 2026"
+          },
+          {
+            "value": "13 Jun 2026"
+          },
+          {
+            "value": "12 Jun 2026"
+          },
+          {
+            "value": "11 Jun 2026"
+          },
+          {
+            "value": "10 Jun 2026"
+          },
+          {
+            "value": "9 Jun 2026"
+          },
+          {
+            "value": "8 Jun 2026"
+          },
+          {
+            "value": "7 Jun 2026"
+          },
+          {
+            "value": "6 Jun 2026"
+          },
+          {
+            "value": "5 Jun 2026"
+          },
+          {
+            "value": "4 Jun 2026"
+          },
+          {
+            "value": "2 Jun 2026"
+          },
+          {
+            "value": "1 Jun 2026"
+          },
+          {
+            "value": "31 May 2026"
+          },
+          {
+            "value": "30 May 2026"
+          },
+          {
+            "value": "29 May 2026"
+          },
+          {
+            "value": "27 May 2026"
+          },
+          {
+            "value": "26 May 2026"
+          },
+          {
+            "value": "25 May 2026"
+          },
+          {
+            "value": "24 May 2026"
+          },
+          {
+            "value": "23 May 2026"
+          },
+          {
+            "value": "22 May 2026"
+          },
+          {
+            "value": "21 May 2026"
+          },
+          {
+            "value": "20 May 2026"
+          },
+          {
+            "value": "19 May 2026"
+          },
+          {
+            "value": "18 May 2026"
+          },
+          {
+            "value": "17 May 2026"
+          },
+          {
+            "value": "16 May 2026"
+          },
+          {
+            "value": "15 May 2026"
+          },
+          {
+            "value": "14 May 2026"
+          },
+          {
+            "value": "13 May 2026"
+          },
+          {
+            "value": "12 May 2026"
+          },
+          {
+            "value": "11 May 2026"
+          },
+          {
+            "value": "10 May 2026"
+          },
+          {
+            "value": "9 May 2026"
+          },
+          {
+            "value": "8 May 2026"
+          },
+          {
+            "value": "7 May 2026"
+          },
+          {
+            "value": "6 May 2026"
+          },
+          {
+            "value": "5 May 2026"
+          },
+          {
+            "value": "4 May 2026"
+          },
+          {
+            "value": "3 May 2026"
+          },
+          {
+            "value": "2 May 2026"
+          },
+          {
+            "value": "1 May 2026"
+          },
+          {
+            "value": "30 Apr 2026"
+          },
+          {
+            "value": "29 Apr 2026"
+          },
+          {
+            "value": "28 Apr 2026"
+          },
+          {
+            "value": "27 Apr 2026"
+          },
+          {
+            "value": "26 Apr 2026"
+          },
+          {
+            "value": "25 Apr 2026"
+          },
+          {
+            "value": "24 Apr 2026"
+          },
+          {
+            "value": "23 Apr 2026"
+          },
+          {
+            "value": "22 Apr 2026"
+          },
+          {
+            "value": "21 Apr 2026"
+          },
+          {
+            "value": "20 Apr 2026"
+          },
+          {
+            "value": "19 Apr 2026"
+          },
+          {
+            "value": "18 Apr 2026"
+          },
+          {
+            "value": "17 Apr 2026"
+          },
+          {
+            "value": "16 Apr 2026"
+          },
+          {
+            "value": "15 Apr 2026"
+          },
+          {
+            "value": "14 Apr 2026"
+          },
+          {
+            "value": "13 Apr 2026"
+          },
+          {
+            "value": "12 Apr 2026"
+          }
+        ]
+      }
+    ],
+    "fbid": "Facebook Lite"
+  }
+]

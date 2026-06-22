@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Sitaram Sharma"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1619414812871,
+      "content": "It's my humble request to u to delete yr last post which is generating unnecessary nagtivr) negative publicity for u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1512569449215,
+      "content": "You're now friends with Sitaram.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sitaram Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/sitaramsharma_10155648092183787",
+  "magic_words": [
+    
+  ]
+}

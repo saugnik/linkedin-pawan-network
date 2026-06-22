@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sniti Mishra"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1677691584187,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sniti Mishra",
+  "is_still_participant": true,
+  "thread_path": "inbox/snitimishra_10159786837033787",
+  "magic_words": [
+    
+  ]
+}

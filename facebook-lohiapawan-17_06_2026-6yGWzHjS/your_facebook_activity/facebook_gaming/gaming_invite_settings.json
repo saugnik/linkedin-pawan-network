@@ -1,0 +1,20 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Notifications enabled",
+      "value": "True"
+    },
+    {
+      "label": "Can other players send you requests?",
+      "value": "True"
+    },
+    {
+      "label": "Game name",
+      "value": "App Invites"
+    }
+  ],
+  "fbid": "176237939922620"
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Bithal Agarwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bithal Agarwal",
+      "timestamp_ms": 1605447914734,
+      "content": "Bithal sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bithal Agarwal",
+      "timestamp_ms": 1605447914734,
+      "content": "Bithal sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bithal Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/bithalagarwal_10158272062223787",
+  "magic_words": [
+    
+  ]
+}

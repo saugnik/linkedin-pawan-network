@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Swati Budhia Sarawagi"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1505386426036,
+      "content": "You're now friends with Swati.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Swati Budhia Sarawagi",
+  "is_still_participant": true,
+  "thread_path": "inbox/swatibudhiasarawagi_10154600273936741",
+  "magic_words": [
+    
+  ]
+}

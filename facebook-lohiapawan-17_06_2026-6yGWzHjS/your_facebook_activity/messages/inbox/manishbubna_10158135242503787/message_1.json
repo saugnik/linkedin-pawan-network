@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Manish Bubna"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1619618670512,
+      "content": "i hope and pray all is well with u and yr family",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1619618670512,
+      "content": "i hope and pray all is well with u and yr family",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Manish Bubna",
+  "is_still_participant": true,
+  "thread_path": "inbox/manishbubna_10158135242503787",
+  "magic_words": [
+    
+  ]
+}

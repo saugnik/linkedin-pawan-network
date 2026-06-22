@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Subhadip Biswas"
+    },
+    {
+      "name": "Koushik Biswas"
+    },
+    {
+      "name": "Sujoy Ghosh"
+    },
+    {
+      "name": "Apratim Biswas"
+    },
+    {
+      "name": "Prasenjit Saha"
+    },
+    {
+      "name": "\u00e0\u00a6\u008b\u00e0\u00a6\u00a4\u00e0\u00a7\u0081\u00e0\u00a6\u00aa\u00e0\u00a6\u00b0\u00e0\u00a7\u008d\u00e0\u00a6\u00a3\u00e0\u00a6\u00be \u00e0\u00a6\u00ac\u00e0\u00a6\u00bf\u00e0\u00a6\u00b6\u00e0\u00a7\u008d\u00e0\u00a6\u00ac\u00e0\u00a6\u00be\u00e0\u00a6\u00b8 \u00e0\u00a6\u00b8\u00e0\u00a6\u00b0\u00e0\u00a6\u0095\u00e0\u00a6\u00be\u00e0\u00a6\u00b0"
+    },
+    {
+      "name": "Rajib Kanti Halder"
+    },
+    {
+      "name": "Judi Drouillard"
+    },
+    {
+      "name": "Abhishek Rudra"
+    },
+    {
+      "name": "Aniruddha Lahiri"
+    },
+    {
+      "name": "Satarupa Biswas Sarkar"
+    },
+    {
+      "name": "Abir Chatterjee"
+    },
+    {
+      "name": "Suchetana Basu"
+    },
+    {
+      "name": "Samar Biswas"
+    },
+    {
+      "name": "Ankita Saha"
+    },
+    {
+      "name": "Shiladitya Dasgupta"
+    },
+    {
+      "name": "Jyotiprakash Biswas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chandreyee Bhattacharya",
+      "timestamp_ms": 1474785291278,
+      "content": "Chandreyee Bhattacharya left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Koushik Biswas",
+      "timestamp_ms": 1474772248592,
+      "content": "Koushik sent a link.",
+      "share": {
+        "link": "http://www.etihad.com-freedelivery.com/?Czri1Qi",
+        "share_text": "Get Your Tickets now! and Fly any where!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Subhadip, Koushik, Sujoy and 14 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/subhadipkoushiksujoyand14others_968710149921516",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

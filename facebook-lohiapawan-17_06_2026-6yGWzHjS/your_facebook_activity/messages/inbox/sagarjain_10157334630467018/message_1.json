@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Sagar Jain"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sagar Jain",
+      "timestamp_ms": 1561013361133,
+      "content": "Sagar sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1551776557659,
+      "content": "You're now friends with Sagar.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sagar Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/sagarjain_10157334630467018",
+  "magic_words": [
+    
+  ]
+}

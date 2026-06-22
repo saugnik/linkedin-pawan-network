@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Bhawna Agarwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bhawna Agarwal",
+      "timestamp_ms": 1524219982740,
+      "content": "You're now friends with Bhawna.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bhawna Agarwal",
+      "timestamp_ms": 1524219982740,
+      "content": "You're now friends with Bhawna.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bhawna Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhawnaagarwal_10155982855413787",
+  "magic_words": [
+    
+  ]
+}

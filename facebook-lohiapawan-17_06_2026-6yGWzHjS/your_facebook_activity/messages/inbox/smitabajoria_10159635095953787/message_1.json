@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Smita Bajoria"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1670325334705,
+      "content": "Belated happy birthday \u00f0\u009f\u008e\u0081\u00f0\u009f\u008e\u0081\u00f0\u009f\u008e\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Smita Bajoria",
+  "is_still_participant": true,
+  "thread_path": "inbox/smitabajoria_10159635095953787",
+  "magic_words": [
+    
+  ]
+}

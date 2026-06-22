@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "Singer Dola Banerjee"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1549345015575,
+      "content": "Nice",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Singer Dola Banerjee",
+      "timestamp_ms": 1549344313971,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/singerdolabanerjee_10156613062998787/photos/395072551062649.jpg",
+          "creation_timestamp": 1549344313
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1549344083356,
+      "content": "hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Singer Dola Banerjee",
+      "timestamp_ms": 1549336277833,
+      "content": "morning sir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1549334812235,
+      "content": "Hello, happy to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Singer Dola Banerjee",
+      "timestamp_ms": 1549332595015,
+      "content": "You're now friends with SINGER DOLA.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Singer Dola Banerjee",
+  "is_still_participant": true,
+  "thread_path": "inbox/singerdolabanerjee_10156613062998787",
+  "magic_words": [
+    
+  ]
+}

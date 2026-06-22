@@ -1,0 +1,92 @@
+{
+  "your_events_v2": [
+    {
+      "name": "CEO Roundtable with 3 top CEOs from Kolkata",
+      "start_timestamp": 1589193000,
+      "end_timestamp": 1589196600,
+      "place": {
+        "name": "KOLKATA",
+        "address": ""
+      },
+      "description": "3 CEOs from Kolkata - Sushil Mohta (Merlin), Mayank Jalan (Keventer) and Gyanesh Chaudhary (Vikram Solar) share their perspectives on crisis management, on managing finances and spotting opportunities.",
+      "create_timestamp": 1589122591,
+      "response_time": 1589196600
+    },
+    {
+      "name": "Experience Mahatria Live in Kolkata- Life is a Game",
+      "start_timestamp": 1537360200,
+      "end_timestamp": 1537371000,
+      "place": {
+        "name": "Kala Mandir",
+        "coordinate": {
+          "latitude": 22.54282,
+          "longitude": 88.36499
+        },
+        "address": "48, Acharya Jagadish Chandra Bose Road, Shakespeare Sarani, Kolkata, West Bengal, India 700017"
+      },
+      "description": "Mah\u00c4\u0081tria R\u00c4\u0081 (born 23 May 1965) is a Spiritual Leader. He is fondly called as Mah\u00c4\u0081tria by his followers. He is the founder of infinitheism, an organization that provides a platform for anyone's transformation on material, emotional and spiritual pursuits. He had started his journey on this pursuit from 14 February 1995 when he founded a training organization called Alma Mater.\n\nTo know more about him visit \nwww.infinithiesm.com\nwww.youtube.com/user/infinitheism\nhttps://twitter.com/Mahatria\nhttps://www.facebook.com/infinitheism/",
+      "create_timestamp": 1536642370,
+      "response_time": 1536642371
+    },
+    {
+      "name": "Payal Lohia on Masterchef season 4",
+      "start_timestamp": 1422291600,
+      "end_timestamp": 0,
+      "place": {
+        "name": "Star Plus"
+      },
+      "description": "@[718123699:2048:Payal Agarwal Lohia] represents Kolkata on Master Chef Season 4 starting 26 Jan (Mon to Sat) 1030 PM",
+      "create_timestamp": 1422072450
+    },
+    {
+      "name": "Exhibition of our New Jewelry Brand Glimmer",
+      "start_timestamp": 1378528200,
+      "end_timestamp": 1378614600,
+      "place": {
+        "name": "Our Resi : Monica 9B Lord Sinha Road Flat 3/1 Kolkata - 700071"
+      },
+      "description": "We welcome you to the exhibition of our new Jewelry Brand Gimmer coming to you thru the joint efforts of @[798607709:2048:CA Meena Kasera Lohia] & @[718123699:2048:Payal Agarwal Lohia]. RSVP : Meena @ 9804835354",
+      "create_timestamp": 1378449915
+    },
+    {
+      "name": "Experience Mahatria Live in Kolkata",
+      "start_timestamp": 1373722200,
+      "end_timestamp": 0,
+      "place": {
+        "name": "Kala Mandir",
+        "coordinate": {
+          "latitude": 22.543845711371,
+          "longitude": 88.359016478062
+        },
+        "address": "48, Shakespeare Sarani, Kolkata, West Bengal, India 700017"
+      },
+      "description": "The topic - The Life behind Life called God.\n\nvisit www.infinitheism.com to know about infinitheism",
+      "create_timestamp": 1373294100
+    },
+    {
+      "name": "'Thought Leadership' - Discourse by Mahatria,The Voice Ra, (Formerly TT Rajan) founder of INFINITHEISM  on",
+      "start_timestamp": 1341582900,
+      "end_timestamp": 1341590400,
+      "place": {
+        "name": "Kala Mandir",
+        "coordinate": {
+          "latitude": 22.543845711371,
+          "longitude": 88.359016478062
+        },
+        "address": "48, Shakespeare Sarani, Kolkata, West Bengal, India 700017"
+      },
+      "description": "6th July from 7.30-9.30PM at Kalamandir,Kolkata. \nGate closes @7.25pm-before start of program",
+      "create_timestamp": 1341465718
+    },
+    {
+      "name": "Marriage of my brother Mahesh",
+      "start_timestamp": 1334494800,
+      "end_timestamp": 0,
+      "place": {
+        "name": "Park Hotel on Park Street Kolkata"
+      },
+      "description": "My brother Mahesh is getting married to CA Meena Kasera on 15th April",
+      "create_timestamp": 1333604348
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Narendra Jain"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1530799852288,
+      "content": "You're now friends with Narendra.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1530799852288,
+      "content": "You're now friends with Narendra.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Narendra Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/narendrajain_10156146608873787",
+  "magic_words": [
+    
+  ]
+}

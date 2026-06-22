@@ -1,0 +1,29 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Location",
+      "dict": [
+        {
+          "label": "City",
+          "value": "Kolkata"
+        },
+        {
+          "label": "Region",
+          "value": "West Bengal"
+        },
+        {
+          "label": "Country",
+          "value": "India"
+        }
+      ]
+    },
+    {
+      "label": "Postcode",
+      "value": "700064"
+    }
+  ],
+  "fbid": "690728786"
+}

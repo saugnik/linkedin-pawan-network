@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Facebook user"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1327905443000,
+      "content": "Please note , Your  USER ID  :SRBC  and  PASSWORD  :'0da9e983\r\r' It is advised to change your password immediately using change password option.  \r\r\r  With Regards, \r\r  Sr. Administrative Officer\r CAG Office ,New Delhi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user and Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuserandfacebookuser_1845304849038278",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

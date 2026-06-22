@@ -1,0 +1,21 @@
+{
+  "timestamp": 1742947540,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Daily limit (seconds)",
+      "value": "0"
+    },
+    {
+      "label": "Last updated time",
+      "timestamp_value": 1743816300
+    },
+    {
+      "label": "Enforcement type",
+      "value": "Reminder to close Facebook"
+    }
+  ],
+  "fbid": "10161568978473787"
+}

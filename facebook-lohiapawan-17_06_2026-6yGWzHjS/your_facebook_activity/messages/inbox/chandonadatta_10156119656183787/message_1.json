@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Chandona Datta"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chandona Datta",
+      "timestamp_ms": 1529730565544,
+      "content": "You're now friends with Chandona.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chandona Datta",
+      "timestamp_ms": 1529730565544,
+      "content": "You're now friends with Chandona.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chandona Datta",
+  "is_still_participant": true,
+  "thread_path": "inbox/chandonadatta_10156119656183787",
+  "magic_words": [
+    
+  ]
+}

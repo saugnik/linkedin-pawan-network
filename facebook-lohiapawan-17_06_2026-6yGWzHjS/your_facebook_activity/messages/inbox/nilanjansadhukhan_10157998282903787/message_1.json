@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Nilanjan Sadhukhan"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nilanjan Sadhukhan",
+      "timestamp_ms": 1595565338246,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nilanjan Sadhukhan",
+      "timestamp_ms": 1595565338246,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1595465163551,
+      "content": "Gm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1595465163551,
+      "content": "Gm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nilanjan Sadhukhan",
+      "timestamp_ms": 1595464125084,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nilanjan Sadhukhan",
+      "timestamp_ms": 1595464125084,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nilanjan Sadhukhan",
+  "is_still_participant": true,
+  "thread_path": "inbox/nilanjansadhukhan_10157998282903787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "DieticianTaniya Biswas Rong"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1594126662335,
+      "content": "You're now friends with DieticianTaniya.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1594126662335,
+      "content": "You're now friends with DieticianTaniya.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DieticianTaniya Biswas Rong",
+  "is_still_participant": true,
+  "thread_path": "inbox/dieticiantaniyabiswasrong_10157968180323787",
+  "magic_words": [
+    
+  ]
+}

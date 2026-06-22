@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pradip Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pradip Agarwal",
+      "timestamp_ms": 1513961321588,
+      "content": "Pradip Agarwal just joined Messenger! Be the first to send a welcome message or sticker.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pradip Agarwal",
+      "timestamp_ms": 1513161276794,
+      "content": "You're now friends with Pradip.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pradip Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/pradipagarwal_10155665551003787",
+  "magic_words": [
+    
+  ]
+}

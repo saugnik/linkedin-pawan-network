@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Meenu Narula"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meenu Narula",
+      "timestamp_ms": 1552369551148,
+      "content": "You're now friends with Meenu.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meenu Narula",
+      "timestamp_ms": 1552369551148,
+      "content": "You're now friends with Meenu.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meenu Narula",
+  "is_still_participant": true,
+  "thread_path": "inbox/meenunarula_10156687315078787",
+  "magic_words": [
+    
+  ]
+}

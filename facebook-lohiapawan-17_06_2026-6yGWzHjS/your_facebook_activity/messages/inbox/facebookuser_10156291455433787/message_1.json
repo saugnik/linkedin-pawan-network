@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Facebook user"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1334553973656,
+      "content": "For printing",
+      "files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/facebookuser_10156291455433787/files/10153110043438787.pdf",
+          "creation_timestamp": 1421095730
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1334553973656,
+      "content": "For printing",
+      "files": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/facebookuser_10156291455433787/files/10153110043438787.pdf",
+          "creation_timestamp": 1421095730
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_10156291455433787",
+  "magic_words": [
+    
+  ]
+}

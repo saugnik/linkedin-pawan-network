@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Nilanjana Ray"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nilanjana Ray",
+      "timestamp_ms": 1655661478485,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nilanjana Ray",
+      "timestamp_ms": 1655661478485,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1655660128599,
+      "content": "Happy to connect with like minded members and u r also a fellow CA member",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1655660128599,
+      "content": "Happy to connect with like minded members and u r also a fellow CA member",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nilanjana Ray",
+  "is_still_participant": true,
+  "thread_path": "inbox/nilanjanaray_10159307843378787",
+  "magic_words": [
+    
+  ]
+}

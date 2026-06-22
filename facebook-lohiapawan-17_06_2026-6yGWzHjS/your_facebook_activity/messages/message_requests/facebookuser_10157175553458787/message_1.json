@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1571221358734,
+      "content": "How are you doing ? My Name is Marie, i am Senior Bank Auditor at Al Rayan Bank of london, am looking for a new friendcontact me through my E-mail so we can know each other details  and share some pictures,(prettymarie.eman@hotmail.com) so we can continue from there ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "message_requests/facebookuser_10157175553458787",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

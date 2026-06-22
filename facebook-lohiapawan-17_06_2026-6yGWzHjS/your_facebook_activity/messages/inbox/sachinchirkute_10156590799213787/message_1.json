@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sachin Chirkute"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sachin Chirkute",
+      "timestamp_ms": 1548462848242,
+      "content": "You're now friends with Sachin.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sachin Chirkute",
+  "is_still_participant": true,
+  "thread_path": "inbox/sachinchirkute_10156590799213787",
+  "magic_words": [
+    
+  ]
+}

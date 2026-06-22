@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Mukta Rakshit"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mukta Rakshit",
+      "timestamp_ms": 1618417658700,
+      "content": "Many Happy returns of the day Pawan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mukta Rakshit",
+      "timestamp_ms": 1618417658700,
+      "content": "Many Happy returns of the day Pawan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mukta Rakshit",
+  "is_still_participant": true,
+  "thread_path": "inbox/muktarakshit_10165129669605274",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Rakesh Gupta"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rakesh Gupta",
+      "timestamp_ms": 1522143515357,
+      "content": "You're now friends with Rakesh.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rakesh Gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/rakeshgupta_10155926616353787",
+  "magic_words": [
+    
+  ]
+}

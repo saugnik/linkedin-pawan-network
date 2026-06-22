@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sunit Nawal Garia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1493788489385,
+      "content": "You're now friends with Sunit.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sunit Nawal Garia",
+  "is_still_participant": true,
+  "thread_path": "inbox/sunitnawalgaria_10154729103107987",
+  "magic_words": [
+    
+  ]
+}

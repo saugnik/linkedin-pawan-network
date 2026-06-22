@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Bidyut Ghosh"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1535811710992,
+      "content": "You're now friends with Bidyut.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1535811710992,
+      "content": "You're now friends with Bidyut.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bidyut Ghosh",
+  "is_still_participant": true,
+  "thread_path": "inbox/bidyutghosh_10156273656713787",
+  "magic_words": [
+    
+  ]
+}

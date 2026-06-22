@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Janani Hariharan"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1382183236228,
+      "content": "hey Janani, \nhow r u dear. had visited the museum on 15th.  i am in bangkok currently and will be going back tomorrow. u r in US or in thailand.\n\ndo let me know. \n\nlove \nPayal ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1382183236228,
+      "content": "hey Janani, \nhow r u dear. had visited the museum on 15th.  i am in bangkok currently and will be going back tomorrow. u r in US or in thailand.\n\ndo let me know. \n\nlove \nPayal ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Janani Hariharan",
+  "is_still_participant": true,
+  "thread_path": "inbox/jananihariharan_10154121173598787",
+  "magic_words": [
+    
+  ]
+}

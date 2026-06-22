@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Snigdha Ghosh"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1678237820582,
+      "content": "What do u do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1678237815133,
+      "content": "Nice to be connected",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1678237799940,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Snigdha Ghosh",
+  "is_still_participant": true,
+  "thread_path": "inbox/snigdhaghosh_10159797914008787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Facebook user"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1305875774000,
+      "content": "SINGAPORE!!!\n\nGrab your Tickets...\n\nFew Days Left...\n\n5 June 2011... Dr KV performing LIVE at SCO Concert Hall, Singapore. \n\n\nTicketing and Further Queries:\n\nPhone: 90221210 Jyoti (Singapore)\nHotline: 63485555 (Singapore)\nWebsite: www.sistic.com\nEmail: vindus.sg@gmail.com\n\nPlz Forward to your friends there at Singapore!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1305875774000,
+      "content": "SINGAPORE!!!\n\nGrab your Tickets...\n\nFew Days Left...\n\n5 June 2011... Dr KV performing LIVE at SCO Concert Hall, Singapore. \n\n\nTicketing and Further Queries:\n\nPhone: 90221210 Jyoti (Singapore)\nHotline: 63485555 (Singapore)\nWebsite: www.sistic.com\nEmail: vindus.sg@gmail.com\n\nPlz Forward to your friends there at Singapore!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_534459433423418",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

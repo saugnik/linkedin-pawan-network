@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Anindita Ghosh"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anindita Ghosh",
+      "timestamp_ms": 1493821877350,
+      "content": "You can now call each other and see information such as Active Status and when you've read messages.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anindita Ghosh",
+      "timestamp_ms": 1493821877350,
+      "content": "You can now call each other and see information such as Active Status and when you've read messages.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1373471951882,
+      "content": "Saw u on the Friends list of Vaishali, do u have her mail ID/phone no if so pls share",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1373471951882,
+      "content": "Saw u on the Friends list of Vaishali, do u have her mail ID/phone no if so pls share",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anindita Ghosh",
+  "is_still_participant": true,
+  "thread_path": "inbox/aninditaghosh_10154239654029862",
+  "magic_words": [
+    
+  ]
+}

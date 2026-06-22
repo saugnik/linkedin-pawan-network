@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Jyoti Lath"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1712310413167,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jyoti Lath",
+      "timestamp_ms": 1712308016620,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/jyotilath_10157758872668787/photos/448814794154925.jpg",
+          "creation_timestamp": 1712308015
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1712197680120,
+      "content": "Wish u a happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1588185704987,
+      "content": "You're now friends with Jyoti.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jyoti Lath",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/jyotilath_10157758872668787",
+  "magic_words": [
+    
+  ]
+}

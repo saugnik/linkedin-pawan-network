@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Pradeepta Ranjan Pattanayak"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pradeepta Ranjan Pattanayak",
+      "timestamp_ms": 1562223481848,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239343222814.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1562220279164,
+      "content": "Yes i saw yr comments. Unfortunately these people call themselves liberal and tolerant but cannot digest any contrarian view neither they can debate on facts. Its like they are saying I am an intellectual and u must listen and agree to what I say no matter how bereft it is of facts. Sorry the days of opinion makers are gone in age of social media everyone has av voice and therefore entitled to his/her opinion.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pradeepta Ranjan Pattanayak",
+      "timestamp_ms": 1562218563210,
+      "content": "\u00f0\u009f\u0099\u008f\u00f0\u009f\u0099\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pradeepta Ranjan Pattanayak",
+      "timestamp_ms": 1562216923888,
+      "content": "Thanks...\nI don't know whether you saw my comments on bula Bhadra's shared post on mohua moitra, but on my comments she was so irritated that she unfriended me from her friends list",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1562216790137,
+      "content": "You're now friends with Pradeepta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pradeepta Ranjan Pattanayak",
+  "is_still_participant": true,
+  "thread_path": "inbox/pradeeptaranjanpattanayak_10156938858888787",
+  "magic_words": [
+    
+  ]
+}

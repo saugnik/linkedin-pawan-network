@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Anand Bajaj"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1611377929546,
+      "content": "Wish u a happy bday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1611377929546,
+      "content": "Wish u a happy bday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anand Bajaj",
+  "is_still_participant": true,
+  "thread_path": "inbox/anandbajaj_10158417811463787",
+  "magic_words": [
+    
+  ]
+}

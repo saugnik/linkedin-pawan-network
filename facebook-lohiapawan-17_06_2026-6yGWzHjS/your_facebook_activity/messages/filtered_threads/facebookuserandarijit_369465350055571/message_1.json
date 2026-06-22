@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Arijit Chakraborty"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1340070632000,
+      "content": "Hi Pawan,\r\nGood morning ! as discussed, PFA info pack with full details, pls circulate\r\nsame and let me know if we can start at your place.. also pls see if we can\r\ndo any workshop etc in E&Y or other clients in the area of yoga, stress\r\nmanagement & fitness\r\n\r\n-- \r\nregards\r\narijit",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user and Arijit",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuserandarijit_369465350055571",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

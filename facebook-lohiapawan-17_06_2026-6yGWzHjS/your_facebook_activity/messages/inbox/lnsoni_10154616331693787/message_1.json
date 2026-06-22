@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Ln Soni"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ln Soni",
+      "timestamp_ms": 1479957765699,
+      "content": "Ln Soni just joined Messenger! Be the first to send a welcome message or sticker.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ln Soni",
+      "timestamp_ms": 1479957765699,
+      "content": "Ln Soni just joined Messenger! Be the first to send a welcome message or sticker.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ln Soni",
+  "is_still_participant": true,
+  "thread_path": "inbox/lnsoni_10154616331693787",
+  "magic_words": [
+    
+  ]
+}

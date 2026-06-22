@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Devika Bajoria"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1706532701541,
+      "content": "I am also a CA (2001) with deep interest in spirituality",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1706532663193,
+      "content": "Happy to see yr journey from CA to spirituality",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Devika Bajoria",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/devikabajoria_10160018125673787",
+  "magic_words": [
+    
+  ]
+}

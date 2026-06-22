@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Govind Shah"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1713073853361,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Govind Shah",
+      "timestamp_ms": 1713072450001,
+      "content": "Happy Birthday!! \u00f0\u009f\u00a5\u00b3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Govind Shah",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/govindshah_10160461417103787",
+  "magic_words": [
+    
+  ]
+}

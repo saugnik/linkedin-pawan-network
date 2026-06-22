@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Akash Yadav"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Akash Yadav",
+      "timestamp_ms": 1695840965313,
+      "content": "akash sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Akash Yadav",
+      "timestamp_ms": 1695840965313,
+      "content": "akash sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Akash Yadav",
+      "timestamp_ms": 1691513354214,
+      "content": "akash sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Akash Yadav",
+      "timestamp_ms": 1691513354214,
+      "content": "akash sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Akash Yadav",
+  "is_still_participant": true,
+  "thread_path": "inbox/akashyadav_10160078818348787",
+  "magic_words": [
+    
+  ]
+}

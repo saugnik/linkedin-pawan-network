@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Kajal Rani"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kajal Rani",
+      "timestamp_ms": 1647106746780,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kajal Rani",
+      "timestamp_ms": 1647106745218,
+      "content": "Hii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kajal Rani",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/kajalrani_10159153993358787",
+  "magic_words": [
+    
+  ]
+}

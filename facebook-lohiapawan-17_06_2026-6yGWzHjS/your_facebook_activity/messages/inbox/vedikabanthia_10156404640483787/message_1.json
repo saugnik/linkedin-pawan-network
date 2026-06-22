@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Vedika Banthia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vedika Banthia",
+      "timestamp_ms": 1540981315809,
+      "content": "You're now friends with Vedika.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vedika Banthia",
+  "is_still_participant": true,
+  "thread_path": "inbox/vedikabanthia_10156404640483787",
+  "magic_words": [
+    
+  ]
+}

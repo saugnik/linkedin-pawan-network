@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Mukesh B Kalal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mukesh B Kalal",
+      "timestamp_ms": 1591780257780,
+      "content": "Sir aaj shamko 5.30 baje time milega apko to health session he bataiye to me apko link send karta hu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mukesh B Kalal",
+      "timestamp_ms": 1591780257780,
+      "content": "Sir aaj shamko 5.30 baje time milega apko to health session he bataiye to me apko link send karta hu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mukesh B Kalal",
+      "timestamp_ms": 1591729881190,
+      "content": "Gn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mukesh B Kalal",
+      "timestamp_ms": 1591729881190,
+      "content": "Gn",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mukesh B Kalal",
+  "is_still_participant": true,
+  "thread_path": "inbox/mukeshbkalal_10157886596918787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Dinesh Jaluka"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1265713682000,
+      "content": "Pls send yr new mobile number we are planning a get together and will inform you about date and time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1265713682000,
+      "content": "Pls send yr new mobile number we are planning a get together and will inform you about date and time",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dinesh Jaluka",
+  "is_still_participant": true,
+  "thread_path": "inbox/dineshjaluka_10156291455788787",
+  "magic_words": [
+    
+  ]
+}

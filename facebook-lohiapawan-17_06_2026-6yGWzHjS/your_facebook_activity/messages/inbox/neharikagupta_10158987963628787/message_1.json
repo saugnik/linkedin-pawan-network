@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Neharika Gupta"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1637663922736,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/neharikagupta_10158987963628787/gifs/230092622427227.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1637663922736,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/inbox/neharikagupta_10158987963628787/gifs/230092622427227.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Neharika Gupta",
+  "is_still_participant": true,
+  "thread_path": "inbox/neharikagupta_10158987963628787",
+  "magic_words": [
+    
+  ]
+}

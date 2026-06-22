@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Isha Yogashala"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Isha Yogashala",
+      "timestamp_ms": 1560005920469,
+      "content": "Namaskaram Pawan . Thank you for contacting Isha Yogashala, Classical Hatha Yoga Offerings. How can we help you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Isha Yogashala",
+      "timestamp_ms": 1560005920469,
+      "content": "Namaskaram Pawan . Thank you for contacting Isha Yogashala, Classical Hatha Yoga Offerings. How can we help you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1560005920057,
+      "content": "Do you have any upcoming events?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1560005920057,
+      "content": "Do you have any upcoming events?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Isha Yogashala",
+  "is_still_participant": true,
+  "thread_path": "inbox/ishayogashala_10156879518473787",
+  "magic_words": [
+    
+  ]
+}

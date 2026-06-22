@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Riddham Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1599453287683,
+      "content": "Happy birthday beta",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Riddham Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/riddhamagarwal_10156622274063787",
+  "magic_words": [
+    
+  ]
+}

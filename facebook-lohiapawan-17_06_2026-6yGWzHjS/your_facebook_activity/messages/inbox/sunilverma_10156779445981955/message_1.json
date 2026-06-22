@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Sunil Verma"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sunil Verma",
+      "timestamp_ms": 1557406813858,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1557404353895,
+      "content": "Ok min 3bhk was required",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sunil Verma",
+      "timestamp_ms": 1557400267339,
+      "content": "Hi Pawan bhaiya, its 2 BHK and expected rent is 26K",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1557399401866,
+      "content": "Regarding yr friends flat in active acres what is the expected rent and need more details of the flat",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sunil Verma",
+      "timestamp_ms": 1551427477795,
+      "content": "Thanks a lot",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1551426842150,
+      "content": "9903800354",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sunil Verma",
+      "timestamp_ms": 1551426494548,
+      "content": "Hi Pawanji, please message me ur contact number.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sunil Verma",
+  "is_still_participant": true,
+  "thread_path": "inbox/sunilverma_10156779445981955",
+  "magic_words": [
+    
+  ]
+}

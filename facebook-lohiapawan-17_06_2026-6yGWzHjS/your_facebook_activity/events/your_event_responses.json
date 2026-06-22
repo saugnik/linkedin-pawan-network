@@ -1,0 +1,469 @@
+{
+  "event_responses_v2": {
+    "events_joined": [
+      {
+        "name": "Live Growth Sessions",
+        "start_timestamp": 1604205000,
+        "end_timestamp": 1604209500,
+        "response_time": 1603976153
+      },
+      {
+        "name": "CEO Roundtable with 3 top CEOs from Kolkata",
+        "start_timestamp": 1589193000,
+        "end_timestamp": 1589196600,
+        "place": {
+          "name": "KOLKATA",
+          "address": ""
+        },
+        "description": "3 CEOs from Kolkata - Sushil Mohta (Merlin), Mayank Jalan (Keventer) and Gyanesh Chaudhary (Vikram Solar) share their perspectives on crisis management, on managing finances and spotting opportunities.",
+        "create_timestamp": 1589122591,
+        "response_time": 1589196600
+      },
+      {
+        "name": "Yoga for Children (New Batch)",
+        "start_timestamp": 1562405400,
+        "end_timestamp": 1562410800,
+        "response_time": 1562230933
+      },
+      {
+        "name": "Experience Mahatria Live in Kolkata- Life is a Game",
+        "start_timestamp": 1537360200,
+        "end_timestamp": 1537371000,
+        "place": {
+          "name": "Kala Mandir",
+          "coordinate": {
+            "latitude": 22.54282,
+            "longitude": 88.36499
+          },
+          "address": "48, Acharya Jagadish Chandra Bose Road, Shakespeare Sarani, Kolkata, West Bengal, India 700017"
+        },
+        "description": "Mah\u00c4\u0081tria R\u00c4\u0081 (born 23 May 1965) is a Spiritual Leader. He is fondly called as Mah\u00c4\u0081tria by his followers. He is the founder of infinitheism, an organization that provides a platform for anyone's transformation on material, emotional and spiritual pursuits. He had started his journey on this pursuit from 14 February 1995 when he founded a training organization called Alma Mater.\n\nTo know more about him visit \nwww.infinithiesm.com\nwww.youtube.com/user/infinitheism\nhttps://twitter.com/Mahatria\nhttps://www.facebook.com/infinitheism/",
+        "create_timestamp": 1536642370,
+        "response_time": 1536642371
+      },
+      {
+        "name": "Guru Purnima Celebration at Isha Yogashala (Free Entry)",
+        "start_timestamp": 1532694600,
+        "end_timestamp": 1532701800,
+        "response_time": 1532681654
+      },
+      {
+        "name": "NPC Kolkata (Nasscom Product Conclave in EAST)",
+        "start_timestamp": 1499398200,
+        "end_timestamp": 1499441400,
+        "response_time": 1497854848
+      },
+      {
+        "name": "Kinderdance for ( 2- 5 yrs old)",
+        "start_timestamp": 1472117400,
+        "end_timestamp": 1472121000,
+        "response_time": 1470044172
+      },
+      {
+        "name": "RANGOTSAV 2015 - Buzz Ki Holi Festival at PC Chandra Gardens (Maple Lawn), Kolkata.",
+        "start_timestamp": 1425612600,
+        "end_timestamp": 0
+      },
+      {
+        "name": "Opening ceremony for 1st International Young Chef Olympiad",
+        "start_timestamp": 1422533700,
+        "end_timestamp": 1422541800
+      },
+      {
+        "name": "Payal Lohia on Masterchef season 4",
+        "start_timestamp": 1422291600,
+        "end_timestamp": 0,
+        "place": {
+          "name": "Star Plus"
+        },
+        "description": "@[718123699:2048:Payal Agarwal Lohia] represents Kolkata on Master Chef Season 4 starting 26 Jan (Mon to Sat) 1030 PM",
+        "create_timestamp": 1422072450
+      },
+      {
+        "name": "MARUDHAR MELA 2014",
+        "start_timestamp": 1419510600,
+        "end_timestamp": 1419967800
+      },
+      {
+        "name": "Kolkata Jewellery & Gem Fair",
+        "start_timestamp": 1389414600,
+        "end_timestamp": 1389618000
+      },
+      {
+        "name": "Global Yoga Week 2014",
+        "start_timestamp": 1388671200,
+        "end_timestamp": 1389276000
+      },
+      {
+        "name": "High Street Market via MODA/FALL DESIRE 2013",
+        "start_timestamp": 1379309400,
+        "end_timestamp": 1379352600
+      },
+      {
+        "name": "Exhibition of our New Jewelry Brand Glimmer",
+        "start_timestamp": 1378528200,
+        "end_timestamp": 1378614600,
+        "place": {
+          "name": "Our Resi : Monica 9B Lord Sinha Road Flat 3/1 Kolkata - 700071"
+        },
+        "description": "We welcome you to the exhibition of our new Jewelry Brand Gimmer coming to you thru the joint efforts of @[798607709:2048:CA Meena Kasera Lohia] & @[718123699:2048:Payal Agarwal Lohia]. RSVP : Meena @ 9804835354",
+        "create_timestamp": 1378449915
+      },
+      {
+        "name": "Experience Mahatria Live in Kolkata",
+        "start_timestamp": 1373722200,
+        "end_timestamp": 0,
+        "place": {
+          "name": "Kala Mandir",
+          "coordinate": {
+            "latitude": 22.543845711371,
+            "longitude": 88.359016478062
+          },
+          "address": "48, Shakespeare Sarani, Kolkata, West Bengal, India 700017"
+        },
+        "description": "The topic - The Life behind Life called God.\n\nvisit www.infinitheism.com to know about infinitheism",
+        "create_timestamp": 1373294100
+      },
+      {
+        "name": "Exchange of Vows",
+        "start_timestamp": 1359984600,
+        "end_timestamp": 0
+      },
+      {
+        "name": "SPARK Park Street Christmas Festival",
+        "start_timestamp": 1356406200,
+        "end_timestamp": 1356449400
+      },
+      {
+        "name": "'Thought Leadership' - Discourse by Mahatria,The Voice Ra, (Formerly TT Rajan) founder of INFINITHEISM  on",
+        "start_timestamp": 1341582900,
+        "end_timestamp": 1341590400,
+        "place": {
+          "name": "Kala Mandir",
+          "coordinate": {
+            "latitude": 22.543845711371,
+            "longitude": 88.359016478062
+          },
+          "address": "48, Shakespeare Sarani, Kolkata, West Bengal, India 700017"
+        },
+        "description": "6th July from 7.30-9.30PM at Kalamandir,Kolkata. \nGate closes @7.25pm-before start of program",
+        "create_timestamp": 1341465718
+      },
+      {
+        "name": "Attract Unlimited Abundance",
+        "start_timestamp": 1339069500,
+        "end_timestamp": 1339081200
+      },
+      {
+        "name": "Mind Power Plus",
+        "start_timestamp": 1336271400,
+        "end_timestamp": 1336285800
+      },
+      {
+        "name": "Marriage of my brother Mahesh",
+        "start_timestamp": 1334494800,
+        "end_timestamp": 0,
+        "place": {
+          "name": "Park Hotel on Park Street Kolkata"
+        },
+        "description": "My brother Mahesh is getting married to CA Meena Kasera on 15th April",
+        "create_timestamp": 1333604348
+      },
+      {
+        "name": "Kyunki har ek BOOND (Blood ka yaar) zaroori hota hai !!",
+        "start_timestamp": 1331092800,
+        "end_timestamp": 1331107200
+      },
+      {
+        "name": "Valentines Week",
+        "start_timestamp": 1328592600,
+        "end_timestamp": 1329240600
+      },
+      {
+        "name": "Opening of PROGIFT our Corporate Gifts Showroom at  M G Road on 25/01/2012",
+        "start_timestamp": 1327476600,
+        "end_timestamp": 1327503600,
+        "place": {
+          "name": "Progift (see the location here on google maps --> http://g.co/maps/4nn2x),124 M.G. Road (Near Central Avenue MG Road crossing)"
+        },
+        "description": "Please visit the website www.progift.in",
+        "create_timestamp": 1327131828
+      },
+      {
+        "name": "Make Chai Not War Comedy Tour",
+        "start_timestamp": 1326594600,
+        "end_timestamp": 1326605400
+      },
+      {
+        "name": "DIWALI 2011 GET TOGETHER (with spouses)",
+        "start_timestamp": 1319414400,
+        "end_timestamp": 1319432400
+      }
+    ],
+    "events_declined": [
+      {
+        "name": "An Interactive Workshop on IT Declaration Scheme ",
+        "start_timestamp": 1469872800,
+        "end_timestamp": 0
+      },
+      {
+        "name": "Breast  Cancer Seminar",
+        "start_timestamp": 1443762000,
+        "end_timestamp": 0
+      },
+      {
+        "name": "Aditi weds Prakash",
+        "start_timestamp": 1399033800,
+        "end_timestamp": 0
+      },
+      {
+        "name": "WORLD YOGA FESTIVAL 2014",
+        "start_timestamp": 1389329100,
+        "end_timestamp": 1389463200
+      },
+      {
+        "name": "KRISHNA KATHA : Conducted by Anil Bhimsaria",
+        "start_timestamp": 1377707400,
+        "end_timestamp": 1377718200
+      },
+      {
+        "name": "Mind Power Seminar : Conducted by Anil Bhimsaria",
+        "start_timestamp": 1377104400,
+        "end_timestamp": 1377111600
+      },
+      {
+        "name": "Music Concert",
+        "start_timestamp": 1371214800,
+        "end_timestamp": 0
+      },
+      {
+        "name": "3 CPE Hour Workshop on Companies Bill & Risk Based Concurrent Audit",
+        "start_timestamp": 1369542600,
+        "end_timestamp": 0
+      },
+      {
+        "name": "BHARATIYA NAV VARSH (yugabd-5115,vikram samvat-2070)SWAGAT SAMAROH",
+        "start_timestamp": 1365330600,
+        "end_timestamp": 1365345000
+      },
+      {
+        "name": "Shiva Sutras : Timeless Wisdom from Lord Shivae",
+        "start_timestamp": 1362760200,
+        "end_timestamp": 1362864600
+      },
+      {
+        "name": "CPE Workshop on 21st January\u00e2\u0080\u00992013 on \u00e2\u0080\u009cAdvanced Excel & Opportunities in E-Accounting\u00e2\u0080\u009d",
+        "start_timestamp": 1358766000,
+        "end_timestamp": 1358778600
+      },
+      {
+        "name": "Sarnath Banerjee talks on the 'Dialectics of Loss'",
+        "start_timestamp": 1349771400,
+        "end_timestamp": 0
+      },
+      {
+        "name": "Raise Your Voice Against Rise in Petrol Price In India",
+        "start_timestamp": 1338161400,
+        "end_timestamp": 1338247800
+      },
+      {
+        "name": "\"Jeeyo Anna..Jaago Kolkata\"",
+        "start_timestamp": 1313890200,
+        "end_timestamp": 1313893800
+      },
+      {
+        "name": "Vikas - Usha  Reception",
+        "start_timestamp": 1309615200,
+        "end_timestamp": 1309626000
+      }
+    ],
+    "events_interested": [
+      {
+        "name": "First Ever Bengali New Year Carnival",
+        "start_timestamp": 1650090600,
+        "end_timestamp": 0,
+        "response_time": 1648784332
+      },
+      {
+        "name": "Yoga for Children",
+        "start_timestamp": 1578130200,
+        "end_timestamp": 1578135600,
+        "response_time": 1575765811
+      },
+      {
+        "name": "LOAD The BOX Kitab Lovers Warehouse Sale",
+        "start_timestamp": 1566703800,
+        "end_timestamp": 1566747000,
+        "response_time": 1566208052
+      },
+      {
+        "name": "Eye Care Yoga Program",
+        "start_timestamp": 1566646200,
+        "end_timestamp": 1566653400,
+        "response_time": 1565639551
+      },
+      {
+        "name": "LOAD The BOX Kitab Lovers Warehouse Sale",
+        "start_timestamp": 1566617400,
+        "end_timestamp": 1566660600,
+        "response_time": 1566208044
+      },
+      {
+        "name": "LOAD The BOX Kitab Lovers Warehouse Sale",
+        "start_timestamp": 1566531000,
+        "end_timestamp": 1566574200,
+        "response_time": 1566208041
+      },
+      {
+        "name": "LOAD The BOX Kitab Lovers Warehouse Sale",
+        "start_timestamp": 1566444600,
+        "end_timestamp": 1566487800,
+        "response_time": 1566208038
+      },
+      {
+        "name": "LOAD The BOX Kitab Lovers Warehouse Sale",
+        "start_timestamp": 1566444600,
+        "end_timestamp": 1566747000,
+        "response_time": 1566208038
+      },
+      {
+        "name": "Jala Neti",
+        "start_timestamp": 1566091800,
+        "end_timestamp": 1566095400,
+        "response_time": 1564847312
+      },
+      {
+        "name": "Surya Kriya Refresher",
+        "start_timestamp": 1566043200,
+        "end_timestamp": 1566050400,
+        "response_time": 1565639535
+      },
+      {
+        "name": "Ek Sham Kumar Vishwas Ke Naam",
+        "start_timestamp": 1565955000,
+        "end_timestamp": 1565965800,
+        "response_time": 1565620461
+      },
+      {
+        "name": "Yogic Diet Secrets",
+        "start_timestamp": 1561811400,
+        "end_timestamp": 1561818600,
+        "response_time": 1560005938
+      },
+      {
+        "name": "Barf Soda Paani presents Kalkutta Komedians Open Mic",
+        "start_timestamp": 1550241000,
+        "end_timestamp": 1550244600,
+        "response_time": 1550145367
+      },
+      {
+        "name": "TiECON Kolkata 2018",
+        "start_timestamp": 1541127600,
+        "end_timestamp": 1541248200,
+        "response_time": 1537796242
+      },
+      {
+        "name": "Angamardana - Yoga Workshop (Shakespeare Sarani & Salt Lake)",
+        "start_timestamp": 1535112000,
+        "end_timestamp": 1535268600,
+        "response_time": 1534644854
+      },
+      {
+        "name": "Bhuta Shuddhi- The Ultimate Cleansing Workshop",
+        "start_timestamp": 1534568400,
+        "end_timestamp": 1534573800,
+        "response_time": 1534221259
+      },
+      {
+        "name": "An Evening with Gaur Gopal Das!",
+        "start_timestamp": 1529845200,
+        "end_timestamp": 0,
+        "response_time": 1528492495
+      },
+      {
+        "name": "International Entrepreneurship Summit",
+        "start_timestamp": 1515735000,
+        "end_timestamp": 1516033800,
+        "response_time": 1509942570
+      },
+      {
+        "name": "Roundtable meet on \u00e2\u0080\u009cFocusing Steps for Ongoing Business Growth\u00e2\u0080\u009d",
+        "start_timestamp": 1505469600,
+        "end_timestamp": 1505480400,
+        "response_time": 1504751998
+      },
+      {
+        "name": "Chinmaya Soul Song Sandhya",
+        "start_timestamp": 1501417800,
+        "end_timestamp": 1501425000,
+        "response_time": 1498935446
+      },
+      {
+        "name": "Women In Technology (Kolkata)",
+        "start_timestamp": 1501392600,
+        "end_timestamp": 1501497000,
+        "response_time": 1501090902
+      },
+      {
+        "name": "10th International Entrepreneurship Summit",
+        "start_timestamp": 1486267200,
+        "end_timestamp": 1486299600,
+        "response_time": 1485842250
+      },
+      {
+        "name": "Start Up East 2016",
+        "start_timestamp": 1474520400,
+        "end_timestamp": 1474547400,
+        "response_time": 1473490443
+      },
+      {
+        "name": "FRO2016 Kolkata",
+        "start_timestamp": 1460172600,
+        "end_timestamp": 1460291400,
+        "response_time": 1456213082
+      },
+      {
+        "name": "Photowalk: Happy Street at Park Street",
+        "start_timestamp": 1454203800,
+        "end_timestamp": 0,
+        "response_time": 1453624364
+      },
+      {
+        "name": "Sabhagar Theatre Festival",
+        "start_timestamp": 1448947800,
+        "end_timestamp": 1449331200,
+        "response_time": 1447787994
+      },
+      {
+        "name": "All 'Bout You for Business Owners & Executives - A Life of Abundance!",
+        "start_timestamp": 1405222200,
+        "end_timestamp": 1405240200
+      },
+      {
+        "name": "Intention 2014",
+        "start_timestamp": 1393439400,
+        "end_timestamp": 0
+      },
+      {
+        "name": "Kolkata Marathon",
+        "start_timestamp": 1388881800,
+        "end_timestamp": 0
+      },
+      {
+        "name": "Mind Power - Unlimited Power & Effective Time Management",
+        "start_timestamp": 1362283200,
+        "end_timestamp": 1362310200
+      },
+      {
+        "name": "Motivational Talks - by CA. Naresh Agarwal",
+        "start_timestamp": 1340443800,
+        "end_timestamp": 1340451000
+      },
+      {
+        "name": "Screening of \u00e2\u0080\u009cThe Devil Wears Prada\u00e2\u0080\u009d",
+        "start_timestamp": 1327708800,
+        "end_timestamp": 1327719600
+      }
+    ]
+  }
+}

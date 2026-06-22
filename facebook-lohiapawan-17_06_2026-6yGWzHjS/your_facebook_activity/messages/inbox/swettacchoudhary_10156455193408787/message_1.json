@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Swetta Cchoudhary"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1546098222956,
+      "content": "\u00e0\u00a4\u00b9\u00e0\u00a5\u0087\u00e0\u00a4\u00b2\u00e0\u00a5\u008b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1546086418607,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1543020000428,
+      "content": "But don't seem to know u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1543019992974,
+      "content": "Hello happy to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1543019956860,
+      "content": "You're now friends with Swetta.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Swetta Cchoudhary",
+  "is_still_participant": true,
+  "thread_path": "inbox/swettacchoudhary_10156455193408787",
+  "magic_words": [
+    
+  ]
+}

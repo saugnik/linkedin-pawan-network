@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Silpi Chakraborty"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1769823009155,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/silpichakraborty_10155655388683787/gifs/993464440511814.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1769823006901,
+      "gifs": [
+        {
+          "uri": "your_facebook_activity/messages/e2ee_cutover/silpichakraborty_10155655388683787/gifs/1291769316195327.gif"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Silpi Chakraborty",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/silpichakraborty_10155655388683787",
+  "magic_words": [
+    
+  ]
+}

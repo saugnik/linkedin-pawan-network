@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Shamik Chakraborty"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shamik Chakraborty",
+      "timestamp_ms": 1295995331000,
+      "content": "Thanks Pawan. How r things in the world of EY?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1295943507000,
+      "content": "Wish you a very happy birthday Shamik!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shamik Chakraborty",
+  "is_still_participant": true,
+  "thread_path": "inbox/shamikchakraborty_10155264725063787",
+  "magic_words": [
+    
+  ]
+}

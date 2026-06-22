@@ -1,0 +1,40 @@
+{
+  "timestamp": 1506544508,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Registration ID associated with this mobile device",
+      "value": ""
+    },
+    {
+      "label": "Unique ID",
+      "value": "AVS5DVYRFDPKU6RPRCIMORK2D3PJKSGXKYWEHPZCEEY2LYLUWPSA4"
+    },
+    {
+      "label": "The name that you have given this device",
+      "value": ""
+    },
+    {
+      "label": "User agent",
+      "value": "[FBAN/Orca-Android;FBAV/136.0.0.8.90;FBBV/72205318;FBDM/{density=2.625,width=1080,height=1920};FBLC/en_IN;FBCR/airtel;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.orca;FBDV/ONEPLUS A3003;FBSV/7.1.1;FBBK/1;FBCA/armeabi-v7a:armeabi;]"
+    },
+    {
+      "label": "Last time that device was enabled or disabled",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time device used",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Status"
+    },
+    {
+      "label": "Name",
+      "value": "OnePlus 3"
+    }
+  ],
+  "fbid": "10155482516453787"
+}

@@ -1,0 +1,1314 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Settings",
+      "vec": [
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Messages"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "friend requests"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Friend confirmations"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Post on your timeline"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Pokes"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Upcoming birthdays"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Tags in posts"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Comments that you're mentioned in"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Comments on posts you're tagged in"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "False"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Comments on your status updates or on posts to your timeline"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Friend requests or confirmations via SMS"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "All other SMS notifications"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "New subscribers"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Posts from Close Friends"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Posts you're tagged with"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Likes on your posts"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Photos"
+            },
+            {
+              "label": "Type",
+              "value": "Photos you're tagged in"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Photos"
+            },
+            {
+              "label": "Type",
+              "value": "Tags of your photos"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Photos"
+            },
+            {
+              "label": "Type",
+              "value": "Comments on your photos"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Photos"
+            },
+            {
+              "label": "Type",
+              "value": "Comments on Photos of you"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Photos"
+            },
+            {
+              "label": "Type",
+              "value": "Comments after you on a photo"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Photos"
+            },
+            {
+              "label": "Type",
+              "value": "Photo uploads via email"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Photos"
+            },
+            {
+              "label": "Type",
+              "value": "Comments on my photo albums"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Photos"
+            },
+            {
+              "label": "Type",
+              "value": "Comments after you on a photo album"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Groups"
+            },
+            {
+              "label": "Type",
+              "value": "Group name or description changes"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "False"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Groups"
+            },
+            {
+              "label": "Type",
+              "value": "Becoming a group admin"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "False"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Groups"
+            },
+            {
+              "label": "Type",
+              "value": "Requests to join groups you admin"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Groups"
+            },
+            {
+              "label": "Type",
+              "value": "Requests to join groups you admin"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Groups"
+            },
+            {
+              "label": "Type",
+              "value": "Groups you're added to"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Groups"
+            },
+            {
+              "label": "Type",
+              "value": "Approvals of requests to join groups"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Groups"
+            },
+            {
+              "label": "Type",
+              "value": "Privacy setting changes for your groups"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "False"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Pages"
+            },
+            {
+              "label": "Type",
+              "value": "Becoming a Page admin"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Pages"
+            },
+            {
+              "label": "Type",
+              "value": "Page suggestions"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Pages"
+            },
+            {
+              "label": "Type",
+              "value": "Invitations to admin Pages"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Events"
+            },
+            {
+              "label": "Type",
+              "value": "Updates to an event you've joined"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "False"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Events"
+            },
+            {
+              "label": "Type",
+              "value": "Posts to events you've joined"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "False"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Events"
+            },
+            {
+              "label": "Type",
+              "value": "Posts to events you've joined"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "False"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Notes"
+            },
+            {
+              "label": "Type",
+              "value": "Comments on your notes"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "False"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Notes"
+            },
+            {
+              "label": "Type",
+              "value": "Comments after you on a note"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Links"
+            },
+            {
+              "label": "Type",
+              "value": "Comments on your links"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Links"
+            },
+            {
+              "label": "Type",
+              "value": "Comments after you on a link"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Links"
+            },
+            {
+              "label": "Type",
+              "value": "People sharing your posts"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Videos"
+            },
+            {
+              "label": "Type",
+              "value": "You being tagged in a video"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Videos"
+            },
+            {
+              "label": "Type",
+              "value": "Comments on your videos"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Videos"
+            },
+            {
+              "label": "Type",
+              "value": "Comments on videos of you"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Videos"
+            },
+            {
+              "label": "Type",
+              "value": "Replies to your comment on a video"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Feed Comments"
+            },
+            {
+              "label": "Type",
+              "value": "Comments on stories on your timeline"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Feed Comments"
+            },
+            {
+              "label": "Type",
+              "value": "Comments after you on timeline stories"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Other updates from Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Invitations to participate in Facebook research"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Other updates from Facebook"
+            },
+            {
+              "label": "Type",
+              "value": "Paused advertising campaigns"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Translations"
+            },
+            {
+              "label": "Type",
+              "value": "Translation progress"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Translations"
+            },
+            {
+              "label": "Type",
+              "value": "Translation task activity"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "Category",
+              "value": "Translations"
+            },
+            {
+              "label": "Type",
+              "value": "Audited translations updates"
+            },
+            {
+              "label": "Email",
+              "value": "False"
+            },
+            {
+              "label": "Push notifications",
+              "value": "True"
+            },
+            {
+              "label": "SMS",
+              "value": "False"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Number of SMS notifications that we can send per day",
+      "value": "5"
+    },
+    {
+      "label": "The hours when we can send SMS notifications",
+      "dict": [
+        {
+          "label": "Enabled",
+          "value": "True"
+        },
+        {
+          "label": "Start time",
+          "value": "8"
+        },
+        {
+          "label": "End time",
+          "value": "23"
+        }
+      ]
+    },
+    {
+      "label": "Send SMS notifications for friend activity only",
+      "value": "True"
+    },
+    {
+      "label": "Only send SMS notifications if you are online",
+      "value": "True"
+    }
+  ],
+  "fbid": "2140533072654196"
+}

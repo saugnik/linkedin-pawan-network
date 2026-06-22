@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Raajeev Bhalotia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1681467257675,
+      "content": "Thank u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raajeev Bhalotia",
+      "timestamp_ms": 1681460840270,
+      "content": "Happy birthday\u00f0\u009f\u008e\u0082\u00f0\u009f\u008e\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Raajeev Bhalotia",
+  "is_still_participant": true,
+  "thread_path": "inbox/raajeevbhalotia_10159860261458787",
+  "magic_words": [
+    
+  ]
+}

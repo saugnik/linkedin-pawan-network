@@ -1,0 +1,48 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Last login time",
+      "timestamp_value": 1781516482
+    },
+    {
+      "label": "Credential type of last login attempt",
+      "dict": [
+        {
+          "timestamp_value": 1710578086
+        },
+        {
+          "timestamp_value": 1755429528
+        },
+        {
+          "timestamp_value": 1729075435
+        },
+        {
+          "timestamp_value": 1757587614
+        },
+        {
+          "timestamp_value": 1781516482
+        },
+        {
+          "timestamp_value": 1676118194
+        },
+        {
+          "timestamp_value": 1734479208
+        },
+        {
+          "timestamp_value": 1753783207
+        },
+        {
+          "timestamp_value": 1779844255
+        }
+      ]
+    },
+    {
+      "label": "Last login failure time",
+      "timestamp_value": 0
+    }
+  ],
+  "fbid": "10156809331998787"
+}

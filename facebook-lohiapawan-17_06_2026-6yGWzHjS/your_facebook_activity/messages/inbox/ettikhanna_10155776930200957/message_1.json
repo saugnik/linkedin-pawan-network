@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Etti Khanna"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Etti Khanna",
+      "timestamp_ms": 1547960901620,
+      "content": "You're now friends with Etti.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Etti Khanna",
+      "timestamp_ms": 1547960901620,
+      "content": "You're now friends with Etti.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Etti Khanna",
+  "is_still_participant": true,
+  "thread_path": "inbox/ettikhanna_10155776930200957",
+  "magic_words": [
+    
+  ]
+}

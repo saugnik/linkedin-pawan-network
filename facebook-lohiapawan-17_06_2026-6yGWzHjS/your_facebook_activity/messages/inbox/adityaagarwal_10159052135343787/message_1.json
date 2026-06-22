@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Aditya Agarwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aditya Agarwal",
+      "timestamp_ms": 1642491279964,
+      "content": "Are u interested",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aditya Agarwal",
+      "timestamp_ms": 1642491279964,
+      "content": "Are u interested",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aditya Agarwal",
+      "timestamp_ms": 1642491273454,
+      "content": "We have launched our premium bungalows project",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aditya Agarwal",
+      "timestamp_ms": 1642491273454,
+      "content": "We have launched our premium bungalows project",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aditya Agarwal",
+      "timestamp_ms": 1642491258640,
+      "content": "This is Aditya agarwal from emami realty",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aditya Agarwal",
+      "timestamp_ms": 1642491258640,
+      "content": "This is Aditya agarwal from emami realty",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aditya Agarwal",
+      "timestamp_ms": 1642491227704,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aditya Agarwal",
+      "timestamp_ms": 1642491227704,
+      "content": "Hello sir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aditya Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/adityaagarwal_10159052135343787",
+  "magic_words": [
+    
+  ]
+}

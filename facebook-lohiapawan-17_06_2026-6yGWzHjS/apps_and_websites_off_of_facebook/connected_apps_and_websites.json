@@ -1,0 +1,32 @@
+{
+  "installed_apps_v2": [
+    {
+      "name": "Kamero",
+      "added_timestamp": 0,
+      "user_app_scoped_id": 10159318413948787,
+      "category": "removed",
+      "removed_timestamp": 1656325983
+    },
+    {
+      "name": "Bandsintown",
+      "added_timestamp": 0,
+      "user_app_scoped_id": 10157682694613787,
+      "category": "removed",
+      "removed_timestamp": 1760492397
+    },
+    {
+      "name": "Tinder",
+      "added_timestamp": 0,
+      "user_app_scoped_id": 10153589382878787,
+      "category": "removed",
+      "removed_timestamp": 1760492398
+    },
+    {
+      "name": "Bumble",
+      "added_timestamp": 0,
+      "user_app_scoped_id": 10158965138048787,
+      "category": "removed",
+      "removed_timestamp": 1760492398
+    }
+  ]
+}

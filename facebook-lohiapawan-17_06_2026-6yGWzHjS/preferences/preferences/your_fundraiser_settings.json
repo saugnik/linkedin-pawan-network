@@ -1,0 +1,184 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Notifications sent",
+      "vec": [
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1778292856
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1765675492
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1763780939
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1754415332
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1743212822
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1694228860
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1692169049
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1686923610
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1686917236
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "crisis_status"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1686887753
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "user_fundraiser_creation_top_friends"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1612722724
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "user_fundraiser_post"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1541947692
+            }
+          ]
+        },
+        {
+          "dict": [
+            {
+              "label": "notif_type",
+              "value": "user_fundraiser_invite"
+            },
+            {
+              "label": "timestamp",
+              "timestamp_value": 1537269992
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Notifications level"
+    },
+    {
+      "label": "Time of last birthday gift",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Time of last COVID vaccination gift",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Time of last Juneteenth gift",
+      "timestamp_value": 0
+    }
+  ],
+  "fbid": "10156310786663787"
+}

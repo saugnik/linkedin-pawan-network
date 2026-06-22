@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Aswini Kanodia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aswini Kanodia",
+      "timestamp_ms": 1709873939390,
+      "content": "Office rent 45000/- per month and security deposit 3 months",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1709873851339,
+      "content": "U wrote price so just clarified",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1709873836605,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aswini Kanodia",
+      "timestamp_ms": 1709873171955,
+      "content": "Office 900 Chandani Mkt on advance rent 45,000/-  security deposit 3 months 7980002559",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aswini Kanodia",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/aswinikanodia_10160389371938787",
+  "magic_words": [
+    
+  ]
+}

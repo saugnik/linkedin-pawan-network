@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Juglesh Maurya"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Juglesh Maurya",
+      "timestamp_ms": 1588242536347,
+      "content": "Hi Pawan\nWe are running a fitness initiative called Reshape Nation with the mission to spread awareness of health & fitness and also help people get healthier & fitter across the Globe. Please DO visit the FB page, like, and help us make India & the world healthier.\nhttps://www.facebook.com/ReshapeNation/",
+      "share": {
+        "link": "https://facebook.com/ReshapeNation"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Juglesh Maurya",
+      "timestamp_ms": 1588242536347,
+      "content": "Hi Pawan\nWe are running a fitness initiative called Reshape Nation with the mission to spread awareness of health & fitness and also help people get healthier & fitter across the Globe. Please DO visit the FB page, like, and help us make India & the world healthier.\nhttps://www.facebook.com/ReshapeNation/",
+      "share": {
+        "link": "https://facebook.com/ReshapeNation"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juglesh Maurya",
+  "is_still_participant": true,
+  "thread_path": "inbox/jugleshmaurya_10157757553208787",
+  "magic_words": [
+    
+  ]
+}

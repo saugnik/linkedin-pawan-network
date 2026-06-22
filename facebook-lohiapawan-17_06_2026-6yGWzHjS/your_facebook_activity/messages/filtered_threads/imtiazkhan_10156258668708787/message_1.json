@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Imtiaz Khan"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Imtiaz Khan",
+      "timestamp_ms": 1579540080757,
+      "content": "HELLO SIR I AM FROM RED ADVERTISING ALL MULTIPLEX CINEMA BRANDING",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Imtiaz Khan",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/imtiazkhan_10156258668708787",
+  "magic_words": [
+    
+  ]
+}

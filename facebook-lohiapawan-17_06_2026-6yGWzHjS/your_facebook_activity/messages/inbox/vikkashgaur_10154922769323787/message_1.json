@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Vikkash Gaur"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1489329457382,
+      "content": "You're now friends with Vikkash.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vikkash Gaur",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikkashgaur_10154922769323787",
+  "magic_words": [
+    
+  ]
+}

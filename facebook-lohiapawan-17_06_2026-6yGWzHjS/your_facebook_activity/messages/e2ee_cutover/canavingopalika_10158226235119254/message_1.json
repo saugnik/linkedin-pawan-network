@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "CA Navin Gopalika"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1744637203868,
+      "content": "Thanks!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CA Navin Gopalika",
+      "timestamp_ms": 1744637197854,
+      "content": "Happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1592211071539,
+      "content": "fees ka matter ki wajah se",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1592211057415,
+      "content": "kyu",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1592211056044,
+      "content": "nahi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CA Navin Gopalika",
+      "timestamp_ms": 1591859959693,
+      "content": "Aapka school bhi hai kya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CA Navin Gopalika",
+      "timestamp_ms": 1591859951389,
+      "content": "Hi bhaiya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CA Navin Gopalika",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/canavingopalika_10158226235119254",
+  "magic_words": [
+    
+  ]
+}

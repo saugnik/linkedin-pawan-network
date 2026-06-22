@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Parikshit Jain"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1282306134000,
+      "content": "FB is throwing up some msg and Not allowing a friend request.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1282306134000,
+      "content": "FB is throwing up some msg and Not allowing a friend request.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Parikshit Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/parikshitjain_10153853260738787",
+  "magic_words": [
+    
+  ]
+}

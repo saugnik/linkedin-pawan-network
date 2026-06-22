@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Facebook user"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1427475292317,
+      "content": "Sir plan a trip to Kolkata I shall be most happy to accompany you to this wonderful place belur math. I try and go there every Sunday morning.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1427475292317,
+      "content": "Sir plan a trip to Kolkata I shall be most happy to accompany you to this wonderful place belur math. I try and go there every Sunday morning.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_10153630108128787",
+  "magic_words": [
+    
+  ]
+}

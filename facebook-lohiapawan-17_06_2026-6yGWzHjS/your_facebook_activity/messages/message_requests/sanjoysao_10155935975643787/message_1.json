@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Sanjoy Sao"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sanjoy Sao",
+      "timestamp_ms": 1522340926880,
+      "content": "Dear Sir, I have placed order (order no 15952) on 16 Mar 2018 at kydsmart.com  but after spending 13  days my order is   it yet to deliver . I think you are not able to provide delivery of my order. So I would like to cancel my order and please refund my money accordingly. I am not interested in any further follow up & buying anything from you. I am totally disappointed & harassed from your team & customer care. I have made a couple of humble request to your team & customer care but unfortunately we have received empty promises nothing else. Please help me out",
+      "share": {
+        "link": "https://www.kydsmart.com/",
+        "share_text": "For a superior and amazing shopping experience, Kydsmart ensures extensive quality checks from storage to final packaging. We have partnered with leading vendors ans all branded products sold on Kydsmart are 100% genuine."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sanjoy Sao",
+  "is_still_participant": true,
+  "thread_path": "message_requests/sanjoysao_10155935975643787",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

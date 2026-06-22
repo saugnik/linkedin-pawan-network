@@ -1,0 +1,776 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Family device ID when creation",
+        "value": "AEC03218-7706-4725-AA1C-6F88BEA097CC"
+      },
+      {
+        "label": "Device ID",
+        "value": "AEC03218-7706-4725-AA1C-6F88BEA097CC"
+      },
+      {
+        "label": "Device ID details",
+        "dict": [
+          {
+            "label": "first_seen_time",
+            "timestamp_value": 1753783210
+          },
+          {
+            "label": "last_seen_time",
+            "timestamp_value": 1781531647
+          }
+        ]
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Android ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "OS type",
+        "value": "Android"
+      },
+      {
+        "label": "OS version",
+        "value": "16"
+      },
+      {
+        "label": "Device type",
+        "value": "CPH2691"
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          {
+            "value": "2780"
+          },
+          {
+            "value": "1264"
+          }
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "3.5"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": "2016"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "OnePlus"
+      },
+      {
+        "label": "Current connection status",
+        "value": "223.185.31.107"
+      },
+      {
+        "label": "Latest user agent",
+        "value": "Dalvik/2.1.0 (Linux; U; Android 16; CPH2691 Build/UKQ1.231108.001) [FBAN/Orca-Android;FBAV/565.0.0.43.88;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/991058732;FBCR/airtel;FBMF/OnePlus;FBBD/OnePlus;FBDV/CPH2691;FBSV/16;FBCA/arm64-v8a:null;FBDM/{density=3.5,width=1264,height=2780};FB_FW/1;] FBBK/1"
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS type",
+        "value": "Android"
+      },
+      {
+        "label": "OS version",
+        "value": "16"
+      },
+      {
+        "label": "Device type",
+        "value": "CPH2691"
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          {
+            "value": "2780"
+          },
+          {
+            "value": "1264"
+          }
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "3.5"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": "2016"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "0"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "OnePlus"
+      },
+      {
+        "label": "Latest user agent",
+        "value": "Dalvik/2.1.0 (Linux; U; Android 16; CPH2691 Build/UKQ1.231108.001) [FBAN/Orca-Android;FBAV/565.0.0.43.88;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/991058732;FBCR/airtel;FBMF/OnePlus;FBBD/OnePlus;FBDV/CPH2691;FBSV/16;FBCA/arm64-v8a:null;FBDM/{density=3.5,width=1264,height=2780};FB_FW/1;] FBBK/1"
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS type",
+        "value": "Android"
+      },
+      {
+        "label": "OS version",
+        "value": "16"
+      },
+      {
+        "label": "Device type",
+        "value": "CPH2691"
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          {
+            "value": "2780"
+          },
+          {
+            "value": "1264"
+          }
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "3.5"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": "2016"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "3"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "OnePlus"
+      },
+      {
+        "label": "Latest user agent",
+        "value": "Dalvik/2.1.0 (Linux; U; Android 15; CPH2691 Build/UKQ1.231108.001) [FBAN/Orca-Android;FBAV/525.0.0.28.108;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/791187730;FBCR/airtel;FBMF/OnePlus;FBBD/OnePlus;FBDV/CPH2691;FBSV/15;FBCA/arm64-v8a:null;FBDM/{density=3.5,width=1264,height=2780};FB_FW/1;] FBBK/1"
+      }
+    ],
+    "fbid": "24484803367821962"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Family device ID when creation",
+        "value": "24A97EC6-E41A-4B62-82B7-6FD901078A5B"
+      },
+      {
+        "label": "Device ID",
+        "value": "24A97EC6-E41A-4B62-82B7-6FD901078A5B"
+      },
+      {
+        "label": "Device ID details",
+        "dict": [
+          {
+            "label": "first_seen_time",
+            "timestamp_value": 1712122871
+          },
+          {
+            "label": "last_seen_time",
+            "timestamp_value": 1754735586
+          }
+        ]
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Android ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "OS type",
+        "value": "Android"
+      },
+      {
+        "label": "OS version",
+        "value": "14"
+      },
+      {
+        "label": "Device type",
+        "value": "LE2101"
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          {
+            "value": "2165"
+          },
+          {
+            "value": "1080"
+          }
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "3"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": "2016"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "2"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "OnePlus"
+      },
+      {
+        "label": "Current connection status",
+        "value": "2401:4900:882a:4835:24fb:e82:1698:442c"
+      },
+      {
+        "label": "Latest user agent",
+        "value": "Dalvik/2.1.0 (Linux; U; Android 14; LE2101 Build/UKQ1.230924.001) [FBAN/Orca-Android;FBAV/518.0.0.36.109;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/768990464;FBCR/null;FBMF/OnePlus;FBBD/OnePlus;FBDV/LE2101;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=2165};FB_FW/1;] FBBK/1"
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS type",
+        "value": "Android"
+      },
+      {
+        "label": "OS version",
+        "value": "14"
+      },
+      {
+        "label": "Device type",
+        "value": "LE2101"
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          {
+            "value": "2165"
+          },
+          {
+            "value": "1080"
+          }
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "3"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": "2016"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "8"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "2"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "OnePlus"
+      },
+      {
+        "label": "Latest user agent",
+        "value": "Dalvik/2.1.0 (Linux; U; Android 14; LE2101 Build/UKQ1.230924.001) [FBAN/Orca-Android;FBAV/518.0.0.36.109;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/768990464;FBCR/null;FBMF/OnePlus;FBBD/OnePlus;FBDV/LE2101;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=2165};FB_FW/1;] FBBK/1"
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS type",
+        "value": "Android"
+      },
+      {
+        "label": "OS version",
+        "value": "14"
+      },
+      {
+        "label": "Device type",
+        "value": "LE2101"
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          {
+            "value": "2165"
+          },
+          {
+            "value": "1080"
+          }
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "3"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": "2016"
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "0"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "2"
+      },
+      {
+        "label": "Manufacturer",
+        "value": "OnePlus"
+      },
+      {
+        "label": "Latest user agent",
+        "value": "Dalvik/2.1.0 (Linux; U; Android 14; LE2101 Build/UKQ1.230924.001) [FBAN/Orca-Android;FBAV/518.0.0.36.109;FBPN/com.facebook.orca;FBLC/en_IN;FBBV/768990464;FBCR/null;FBMF/OnePlus;FBBD/OnePlus;FBDV/LE2101;FBSV/14;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=2165};FB_FW/1;] FBBK/1"
+      }
+    ],
+    "fbid": "6896102917161933"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Family device ID when creation",
+        "value": ""
+      },
+      {
+        "label": "Device ID",
+        "value": "895E906D-49B3-4C0A-8E79-4A6982A98931"
+      },
+      {
+        "label": "Device ID details",
+        "dict": [
+          {
+            "label": "first_seen_time",
+            "timestamp_value": 1523557017
+          },
+          {
+            "label": "last_seen_time",
+            "timestamp_value": 1533859604
+          }
+        ]
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Android ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser history",
+        "vec": [
+          
+        ]
+      },
+      {
+        "label": "OS type",
+        "value": "Android"
+      },
+      {
+        "label": "OS version",
+        "value": "8.0.0"
+      },
+      {
+        "label": "Device type",
+        "value": "ONEPLUS A3003"
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          {
+            "value": "1920"
+          },
+          {
+            "value": "1080"
+          }
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "0"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "4"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      },
+      {
+        "label": "Current connection status",
+        "value": ""
+      },
+      {
+        "label": "Latest user agent",
+        "value": ""
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS type",
+        "value": "Android"
+      },
+      {
+        "label": "OS version",
+        "value": "8.0.0"
+      },
+      {
+        "label": "Device type",
+        "value": "ONEPLUS A3003"
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          {
+            "value": "1920"
+          },
+          {
+            "value": "1080"
+          }
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "0"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "4"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      },
+      {
+        "label": "Latest user agent",
+        "value": ""
+      },
+      {
+        "label": "Device ID history",
+        "dict": [
+          
+        ]
+      },
+      {
+        "label": "Android ID",
+        "value": ""
+      },
+      {
+        "label": "Hardware ID",
+        "value": ""
+      },
+      {
+        "label": "Google advertiser ID",
+        "value": ""
+      },
+      {
+        "label": "OS type",
+        "value": "Android"
+      },
+      {
+        "label": "OS version",
+        "value": "8.0.0"
+      },
+      {
+        "label": "Device type",
+        "value": "ONEPLUS A3003"
+      },
+      {
+        "label": "Screen size",
+        "vec": [
+          {
+            "value": "1920"
+          },
+          {
+            "value": "1080"
+          }
+        ]
+      },
+      {
+        "label": "Device density",
+        "value": "0"
+      },
+      {
+        "label": "Is tablet?",
+        "value": "False"
+      },
+      {
+        "label": "Year device was made",
+        "value": ""
+      },
+      {
+        "label": "Number of CPU cores",
+        "value": "4"
+      },
+      {
+        "label": "Number of Google accounts",
+        "value": "4"
+      },
+      {
+        "label": "Manufacturer",
+        "value": ""
+      },
+      {
+        "label": "Latest user agent",
+        "value": ""
+      }
+    ],
+    "fbid": "225237084891126"
+  }
+]

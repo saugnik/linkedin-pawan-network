@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Shruti Sethia Churoria"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1670460591833,
+      "content": "I m interested to know what u do as a habit coach",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1670460572986,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1670460572890,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shruti Sethia Churoria",
+  "is_still_participant": true,
+  "thread_path": "inbox/shrutisethiachuroria_10159637111533787",
+  "magic_words": [
+    
+  ]
+}

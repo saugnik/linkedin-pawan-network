@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Pcs Manjula Poddar"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pcs Manjula Poddar",
+      "timestamp_ms": 1678081979175,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pcs Manjula Poddar",
+      "timestamp_ms": 1678081979175,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1678081211608,
+      "content": "Wish u a happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1678081211608,
+      "content": "Wish u a happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pcs Manjula Poddar",
+  "is_still_participant": true,
+  "thread_path": "inbox/pcsmanjulapoddar_10159794926978787",
+  "magic_words": [
+    
+  ]
+}

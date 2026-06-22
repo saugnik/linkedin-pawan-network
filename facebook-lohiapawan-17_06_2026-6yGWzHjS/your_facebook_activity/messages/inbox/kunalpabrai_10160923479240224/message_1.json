@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Kunal Pabrai"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1296214983000,
+      "content": "Yes all's well kunal.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1296214983000,
+      "content": "Yes all's well kunal.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kunal Pabrai",
+      "timestamp_ms": 1296214949000,
+      "content": "Pawan sir... Thank you for the wishes. Hope all is well with you..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kunal Pabrai",
+      "timestamp_ms": 1296214949000,
+      "content": "Pawan sir... Thank you for the wishes. Hope all is well with you..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1296110553000,
+      "content": "Wish you a happy birthday!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1296110553000,
+      "content": "Wish you a happy birthday!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kunal Pabrai",
+  "is_still_participant": true,
+  "thread_path": "inbox/kunalpabrai_10160923479240224",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Neha Nagpal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1339873992659,
+      "content": "Neha missed your video call.",
+      "call_duration": 0,
+      "missed": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1339873992659,
+      "content": "Neha missed your video call.",
+      "call_duration": 0,
+      "missed": true,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Neha Nagpal",
+  "is_still_participant": true,
+  "thread_path": "inbox/nehanagpal_10155682284988787",
+  "magic_words": [
+    
+  ]
+}

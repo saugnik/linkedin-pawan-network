@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Hritik Agarwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1493808226543,
+      "content": "You're now friends with Hritik.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1493808226543,
+      "content": "You're now friends with Hritik.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hritik Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/hritikagarwal_10155070155923787",
+  "magic_words": [
+    
+  ]
+}

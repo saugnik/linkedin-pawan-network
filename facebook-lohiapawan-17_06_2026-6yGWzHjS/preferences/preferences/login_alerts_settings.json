@@ -1,0 +1,24 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Notifications enabled",
+      "value": "True"
+    },
+    {
+      "label": "Notification-enabled reason",
+      "value": "Login alerts enabled by default"
+    },
+    {
+      "label": "Email-enabled reason",
+      "value": "Login alerts enabled by default"
+    },
+    {
+      "label": "Enabled email address",
+      "value": "lohiapawan@gmail.com"
+    }
+  ],
+  "fbid": "10157260585348787"
+}

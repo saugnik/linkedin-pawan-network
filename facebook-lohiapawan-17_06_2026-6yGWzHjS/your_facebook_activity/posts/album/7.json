@@ -1,0 +1,52 @@
+{
+  "name": "Garimaa birthday",
+  "photos": [
+    {
+      "uri": "your_facebook_activity/posts/media/Garimaabirthday_10150260860263787/10150260860923787.jpg",
+      "creation_timestamp": 1312573588,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "upload_ip": "93.186.30.244"
+            }
+          ]
+        }
+      },
+      "title": "Garimaa birthday",
+      "description": "Celebrating her birthday in school"
+    },
+    {
+      "uri": "your_facebook_activity/posts/media/Garimaabirthday_10150260860263787/10150261043048787.jpg",
+      "creation_timestamp": 1312594661,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "upload_ip": "93.186.31.239"
+            }
+          ]
+        }
+      },
+      "title": "Garimaa birthday",
+      "description": "Getting ready for b'day at school"
+    }
+  ],
+  "cover_photo": {
+    "uri": "your_facebook_activity/posts/media/Garimaabirthday_10150260860263787/10150260860923787.jpg",
+    "creation_timestamp": 1312573588,
+    "media_metadata": {
+      "photo_metadata": {
+        "exif_data": [
+          {
+            "upload_ip": "93.186.30.244"
+          }
+        ]
+      }
+    },
+    "title": "Garimaa birthday",
+    "description": "Celebrating her birthday in school"
+  },
+  "last_modified_timestamp": 1312594661,
+  "description": ""
+}

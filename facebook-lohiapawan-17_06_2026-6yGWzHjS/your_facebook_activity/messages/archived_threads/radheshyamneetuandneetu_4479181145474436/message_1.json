@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Radheshyam Gupta"
+    },
+    {
+      "name": "Neetu Gupta"
+    },
+    {
+      "name": "Neetu Radhe Gupta"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1652203622496,
+      "content": "You left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1652203622397,
+      "content": "Radheshyam Gupta and 2 others are now admins.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1632023054421,
+      "content": "You sent a group.",
+      "share": {
+        "link": "https://www.facebook.com/groups/2939758069604678/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Radheshyam, Neetu and Neetu",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/radheshyamneetuandneetu_4479181145474436",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

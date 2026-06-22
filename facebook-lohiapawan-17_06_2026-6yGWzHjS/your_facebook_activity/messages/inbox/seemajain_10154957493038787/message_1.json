@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Seema Jain"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Seema Jain",
+      "timestamp_ms": 1490440625324,
+      "content": "You're now friends with Seema.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Seema Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/seemajain_10154957493038787",
+  "magic_words": [
+    
+  ]
+}

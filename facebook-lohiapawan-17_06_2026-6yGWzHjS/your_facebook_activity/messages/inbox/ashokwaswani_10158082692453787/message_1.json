@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Ashok Waswani"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashok Waswani",
+      "timestamp_ms": 1598008892115,
+      "content": "Ashok sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ashok Waswani",
+      "timestamp_ms": 1598008892115,
+      "content": "Ashok sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ashok Waswani",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashokwaswani_10158082692453787",
+  "magic_words": [
+    
+  ]
+}

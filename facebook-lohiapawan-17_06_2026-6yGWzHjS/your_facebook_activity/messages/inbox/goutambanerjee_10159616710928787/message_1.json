@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Goutam Banerjee"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Goutam Banerjee",
+      "timestamp_ms": 1669390581803,
+      "content": "Thanks for accepting my request.Good night.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Goutam Banerjee",
+      "timestamp_ms": 1669390581803,
+      "content": "Thanks for accepting my request.Good night.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Goutam Banerjee",
+  "is_still_participant": true,
+  "thread_path": "inbox/goutambanerjee_10159616710928787",
+  "magic_words": [
+    
+  ]
+}

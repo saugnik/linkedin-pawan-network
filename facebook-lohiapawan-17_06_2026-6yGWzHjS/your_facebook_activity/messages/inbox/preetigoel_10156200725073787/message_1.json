@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Preeti Goel"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1596118964581,
+      "content": "So we actually connected on fb on international friendship day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1596118962768,
+      "content": "So we actually connected on fb on international friendship day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1596118961247,
+      "content": "So we actually connected on fb on international friendship day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1576926486219,
+      "content": "Why 2 profiles",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1564483047379,
+      "content": "1 year in fb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Preeti Goel",
+  "is_still_participant": true,
+  "thread_path": "inbox/preetigoel_10156200725073787",
+  "magic_words": [
+    
+  ]
+}

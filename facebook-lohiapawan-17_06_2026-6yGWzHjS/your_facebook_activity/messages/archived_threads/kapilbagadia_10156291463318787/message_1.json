@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Kapil Bagadia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1301819342064,
+      "content": "Congratualtions to all Indians",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kapil Bagadia",
+      "timestamp_ms": 1301243574992,
+      "content": "k",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1301243560458,
+      "content": "will need yr time tom to close the CaG data",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kapil Bagadia",
+      "timestamp_ms": 1301243524655,
+      "content": "hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1301233827945,
+      "content": "hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1301225539047,
+      "content": "halo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1301224985098,
+      "content": "hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kapil Bagadia",
+  "is_still_participant": true,
+  "thread_path": "archived_threads/kapilbagadia_10156291463318787",
+  "magic_words": [
+    
+  ]
+}

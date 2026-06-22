@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1309087877000,
+      "content": "Dear Guest, \r\n\r\nGreetings on behalf of SpiceJet. \r\n\r\nA survey link was sent to you a few days back. We would request you to participate by clicking the link below:\r\n\r\nhttps://www.surveymonkey.com/s.aspx?sm=kbVmOlyeQHjHwOUuuO2fHw_3d_3d\r\n \r\n\r\nThis link is uniquely tied to this survey and your email address. Please do not forward this message.\r\n\r\nIn case you wish to write to us please send in a reply to custrelations@spicejet.com . \r\n\r\nThis survey is conducted every month and if you have participated in the last survey you may choose not to participate. \r\n\r\nPlease note: If you do not wish to receive further emails from us, please click the link below, and you will be automatically removed from our mailing list. \r\nhttps://www.surveymonkey.com/optout.aspx?sm=kbVmOlyeQHjHwOUuuO2fHw_3d_3d\r\n\r\n\r\nWe look forward to your particiaption.\r\n\r\nThanks and Regards, \r\nSpiceJet Customer Services. \r\n\r\nToll Free : 1800-180-3333 \r\nMobile    : 0987-180-3333. \r\nFax No.   : 0124-3913853. \r\nEmail     :custrelations@spicejet.com \r\nWebsite   : http://www.spicejet.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1307532672000,
+      "content": "Dear Guest, \r\n\r\nGreetings on behalf of SpiceJet. \r\n\r\nWe thank you for flying with SpiceJet. In our continuous effort to enhance our services, we look forward to your suggestions and recommendations. \r\n\r\nWe would like to request you to participate in a feedback survey about SpiceJet's services. \r\n\r\nPlease click on the link below to give us a feedback \r\nhttps://www.surveymonkey.com/s.aspx?sm=kbVmOlyeQHjHwOUuuO2fHw_3d_3d\r\n \r\n\r\nThis link is uniquely tied to this survey and your email address. Please do not forward this message.\r\n\r\nIn case you wish to write to us please reply to custrelations@spicejet.com . \r\n\r\nThis survey is conducted every month and if you have participated in the last survey you may choose not to participate. \r\n\r\nPlease note: If you do not wish to receive further emails from us, please click the link below, and you will be automatically removed from our mailing list. \r\nhttps://www.surveymonkey.com/optout.aspx?sm=kbVmOlyeQHjHwOUuuO2fHw_3d_3d\r\n\r\n\r\nThanks for your participation! \r\n\r\nWe look forward to having you on board again in future. \r\n\r\nThanks and Regards, \r\nSpiceJet Customer Services. \r\n\r\nToll Free : 1800-180-3333 \r\nMobile    : 0987-180-3333. \r\nFax No.   : 0124-3913853. \r\nEmail     :custrelations@spicejet.com \r\nWebsite   : http://www.spicejet.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/facebookuser_10154209812268787",
+  "magic_words": [
+    
+  ]
+}

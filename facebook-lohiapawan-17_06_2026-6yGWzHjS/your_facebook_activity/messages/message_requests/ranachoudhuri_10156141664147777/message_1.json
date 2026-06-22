@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Rana Choudhuri"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rana Choudhuri",
+      "timestamp_ms": 1522252782416,
+      "content": "And add to that they did not even bothered to call us back after repeated calls.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rana Choudhuri",
+      "timestamp_ms": 1522252715803,
+      "content": "Hi, sorry to bother you but the customer support response of kydsmart is very pathetic. Placed ordered for 2 set via order number 16209. But got one set delivered like last year. And when reported the agents were not helpful and ended up saying \u00e2\u0080\u009cyou must have received it, but not telling us\u00e2\u0080\u009d. Pathetic experience!! With best regards Rana",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rana Choudhuri",
+  "is_still_participant": true,
+  "thread_path": "message_requests/ranachoudhuri_10156141664147777",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

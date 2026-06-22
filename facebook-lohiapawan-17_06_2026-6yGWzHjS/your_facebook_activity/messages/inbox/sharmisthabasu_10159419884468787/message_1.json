@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Sharmistha Basu"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sharmistha Basu",
+      "timestamp_ms": 1663137170611,
+      "content": "Thank you. Same here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1662950796568,
+      "content": "Nice to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1662950795299,
+      "content": "Nice to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sharmistha Basu",
+  "is_still_participant": true,
+  "thread_path": "inbox/sharmisthabasu_10159419884468787",
+  "magic_words": [
+    
+  ]
+}

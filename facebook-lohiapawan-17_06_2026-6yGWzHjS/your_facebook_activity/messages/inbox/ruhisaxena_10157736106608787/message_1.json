@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Ruhi Saxena"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1587633258252,
+      "content": "You're now friends with Ruhi.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ruhi Saxena",
+  "is_still_participant": true,
+  "thread_path": "inbox/ruhisaxena_10157736106608787",
+  "magic_words": [
+    
+  ]
+}

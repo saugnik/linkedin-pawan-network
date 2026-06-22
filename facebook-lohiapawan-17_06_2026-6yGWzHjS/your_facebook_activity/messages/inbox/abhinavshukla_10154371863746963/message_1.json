@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Abhinav Shukla"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1538026527949,
+      "content": "You sent a link.",
+      "share": {
+        "link": "https://www.digit.in/general/zomato-users-upset-as-company-changes-zomato-gold-policy-that-limits-usage-43698.html",
+        "share_text": "One fine day, Zomato decided to change the rules of Zomato Gold without any notice, making subscribers of the service feeling cheated"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1538026527949,
+      "content": "You sent a link.",
+      "share": {
+        "link": "https://www.digit.in/general/zomato-users-upset-as-company-changes-zomato-gold-policy-that-limits-usage-43698.html",
+        "share_text": "One fine day, Zomato decided to change the rules of Zomato Gold without any notice, making subscribers of the service feeling cheated"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Abhinav Shukla",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhinavshukla_10154371863746963",
+  "magic_words": [
+    
+  ]
+}

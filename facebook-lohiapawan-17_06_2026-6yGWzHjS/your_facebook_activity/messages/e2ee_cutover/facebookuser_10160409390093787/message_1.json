@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1710669115190,
+      "content": "Okay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1710667540598,
+      "content": "Not my domain",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1710661926285,
+      "content": "I am looking for an investor for our upcoming global OTT platform based in Kolkata.15 lacs investment and 30 lacs return as 10% revenues generated.But it will take 6 months to generate revenues.We will give you in court paper agreement.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/facebookuser_10160409390093787",
+  "magic_words": [
+    
+  ]
+}

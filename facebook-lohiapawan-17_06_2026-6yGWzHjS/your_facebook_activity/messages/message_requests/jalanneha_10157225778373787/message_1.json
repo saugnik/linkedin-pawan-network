@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Jalan Neha"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jalan Neha",
+      "timestamp_ms": 1572454919901,
+      "content": "Its USA Brand Herballife Totally herbal \nNo side effects \nWe provide u with a enery drink and a meal replacement shake \nU hv to take it\nWeight loss wl start in 2 weeks\nIn a month u wl loose upto 6 kgs\nU hv to transfer money \nonline \nProducts will reach to your home directly from registered office \nI wl follow u up regularly\nI am giving you the products in 25% discount \nIn market you will get in MRP",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jalan Neha",
+  "is_still_participant": true,
+  "thread_path": "message_requests/jalanneha_10157225778373787",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

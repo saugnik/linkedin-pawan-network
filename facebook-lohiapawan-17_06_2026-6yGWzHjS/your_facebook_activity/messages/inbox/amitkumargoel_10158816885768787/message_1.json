@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Amit Kumar Goel"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amit Kumar Goel",
+      "timestamp_ms": 1628091618361,
+      "content": "Hi, I'm inviting you to like this Page because I thought you might be interested in supporting it.",
+      "share": {
+        "link": "https://facebook.com/classbukonline?sk=89&app_data"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amit Kumar Goel",
+      "timestamp_ms": 1628091618361,
+      "content": "Hi, I'm inviting you to like this Page because I thought you might be interested in supporting it.",
+      "share": {
+        "link": "https://facebook.com/classbukonline?sk=89&app_data"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amit Kumar Goel",
+  "is_still_participant": true,
+  "thread_path": "inbox/amitkumargoel_10158816885768787",
+  "magic_words": [
+    
+  ]
+}

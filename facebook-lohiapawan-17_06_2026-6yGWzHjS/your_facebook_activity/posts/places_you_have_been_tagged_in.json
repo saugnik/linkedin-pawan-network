@@ -1,0 +1,278 @@
+[
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1768699894
+      },
+      {
+        "label": "Name of application used to tag this place",
+        "value": "Facebook for Android"
+      },
+      {
+        "label": "Place name",
+        "value": "Hotel Niharika"
+      }
+    ],
+    "fbid": "10162811471268787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1759049042
+      },
+      {
+        "label": "Place name",
+        "value": "Kolkata"
+      }
+    ],
+    "fbid": "10162355542458787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1754647493
+      },
+      {
+        "label": "Name of application used to tag this place",
+        "value": "Facebook for iPhone"
+      },
+      {
+        "label": "Place name",
+        "value": "Kolkata"
+      }
+    ],
+    "fbid": "10162139831248787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1733590823
+      },
+      {
+        "label": "Name of application used to tag this place",
+        "value": "Facebook Lite for Web (WebLite)"
+      },
+      {
+        "label": "Place name",
+        "value": "Kolkata"
+      }
+    ],
+    "fbid": "10161293827433787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1691419779
+      },
+      {
+        "label": "Name of application used to tag this place",
+        "value": "Facebook for Android"
+      },
+      {
+        "label": "Place name",
+        "value": "The Park Hotel, Park Street"
+      }
+    ],
+    "fbid": "10160076908908787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1546757885
+      },
+      {
+        "label": "Name of application used to tag this place",
+        "value": "Facebook for Android"
+      },
+      {
+        "label": "Place name",
+        "value": "SkyTurf"
+      }
+    ],
+    "fbid": "10156550472353787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1545277322
+      },
+      {
+        "label": "Name of application used to tag this place",
+        "value": "Facebook for iPhone"
+      },
+      {
+        "label": "Place name",
+        "value": "Ozora"
+      }
+    ],
+    "fbid": "10156512580593787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1519061340
+      },
+      {
+        "label": "Place name",
+        "value": "Yauatcha Kolkata"
+      }
+    ],
+    "fbid": "10155832870788787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1516444622
+      }
+    ],
+    "fbid": "10155755506158787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1516037796
+      },
+      {
+        "label": "Place name",
+        "value": "Mistika Banquet"
+      }
+    ],
+    "fbid": "10155745228348787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1513414070
+      },
+      {
+        "label": "Place name",
+        "value": "Royal Calcutta Golf Club"
+      }
+    ],
+    "fbid": "10155673091348787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1467002238
+      },
+      {
+        "label": "Place name",
+        "value": "Sinclairs resort..chalsa"
+      }
+    ],
+    "fbid": "10154234651578787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1438393105
+      },
+      {
+        "label": "Place name",
+        "value": "Malaysia"
+      }
+    ],
+    "fbid": "10153553889228787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1425538724
+      },
+      {
+        "label": "Place name",
+        "value": "Mandarmani"
+      }
+    ],
+    "fbid": "10153215874123787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1408674316
+      },
+      {
+        "label": "Place name",
+        "value": "City High"
+      }
+    ],
+    "fbid": "10152791493373787"
+  },
+  {
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Visit time",
+        "timestamp_value": 1382116650
+      },
+      {
+        "label": "Place name",
+        "value": "Bangkok, Thailand"
+      }
+    ],
+    "fbid": "10152240261048787"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Priya Sharma"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1628569675239,
+      "content": "You can now call each other and see information such as Active Status and when you've read messages.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1628569675153,
+      "content": "hlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Priya Sharma",
+      "timestamp_ms": 1627906150984,
+      "content": "hii",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Priya Sharma",
+  "is_still_participant": true,
+  "thread_path": "inbox/priyasharma_10158813338628787",
+  "magic_words": [
+    
+  ]
+}

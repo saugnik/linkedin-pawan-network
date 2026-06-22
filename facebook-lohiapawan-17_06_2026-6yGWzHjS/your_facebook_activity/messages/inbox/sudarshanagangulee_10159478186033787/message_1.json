@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sudarshana Gangulee"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1665935734526,
+      "content": "Nice to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sudarshana Gangulee",
+  "is_still_participant": true,
+  "thread_path": "inbox/sudarshanagangulee_10159478186033787",
+  "magic_words": [
+    
+  ]
+}

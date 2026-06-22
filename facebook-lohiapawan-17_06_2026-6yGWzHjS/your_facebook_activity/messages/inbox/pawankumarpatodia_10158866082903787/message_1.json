@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Pawan Kumar Patodia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Kumar Patodia",
+      "timestamp_ms": 1663412422207,
+      "content": "Yes sir same here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Kumar Patodia",
+      "timestamp_ms": 1663412422207,
+      "content": "Yes sir same here",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1663385191188,
+      "content": "It was great connecting with u yday at yifi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1663385191188,
+      "content": "It was great connecting with u yday at yifi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pawan Kumar Patodia",
+  "is_still_participant": true,
+  "thread_path": "inbox/pawankumarpatodia_10158866082903787",
+  "magic_words": [
+    
+  ]
+}

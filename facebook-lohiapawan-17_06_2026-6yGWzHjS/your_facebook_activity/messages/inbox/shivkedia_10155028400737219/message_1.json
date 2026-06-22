@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Shiv Kedia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1320642055101,
+      "content": "Most welcome Shiv. have added you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shiv Kedia",
+      "timestamp_ms": 1320485329602,
+      "content": "Hi pawan,\nI am in ca practice fro 30 yrs\nwould like to be in touch \nRegds",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shiv Kedia",
+  "is_still_participant": true,
+  "thread_path": "inbox/shivkedia_10155028400737219",
+  "magic_words": [
+    
+  ]
+}

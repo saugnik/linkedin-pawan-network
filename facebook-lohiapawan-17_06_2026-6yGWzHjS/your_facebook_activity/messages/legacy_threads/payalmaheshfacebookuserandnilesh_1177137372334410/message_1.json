@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Payal Agarwal Lohia"
+    },
+    {
+      "name": "Mahesh Kumar Lohia"
+    },
+    {
+      "name": "Facebook user"
+    },
+    {
+      "name": "Nilesh Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mahesh Kumar Lohia",
+      "timestamp_ms": 1301467207989,
+      "content": "ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mahesh Kumar Lohia",
+      "timestamp_ms": 1301467147668,
+      "content": "ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1301466843000,
+      "content": "The scanned copy of Garimaa's ID card is enclosed for records. I have \r\ndeliberately not sent it to Gifting Ideas ID since employees have access \r\nto it.\r\n\r\nPawan Lohia | Manager | BU East  \r\n22 Camac Street Block C 3rd Floor, Kolkata 700016, India\r\nOffice: +91 33 66153400 | Cell: +91 9903800354 | Pawan.Lohia@in.ey.com\r\nDirect: +91 33 66153441 | CUG: 3441\r\n\r\n \r\n\r\n \r\n\r\n\r\n\r\nThe information contained in this communication is intended solely for the use of the individual or entity to whom it is addressed and others authorized to receive it.   It may contain confidential or legally privileged information.   If you are not the intended recipient you are hereby notified that any disclosure, copying, distribution or taking any action in reliance on the contents of this information is strictly prohibited and may be unlawful. If you have received this communication in error, please notify us immediately by responding to this email and then delete it from your system. The firm is neither liable for the proper and complete transmission of the information contained in this communication nor for any delay in its receipt.",
+      "files": [
+        {
+          "uri": "your_facebook_activity/messages/legacy_threads/payalmaheshfacebookuserandnilesh_1177137372334410/files/10153110043623787.pdf",
+          "creation_timestamp": 1421095732
+        }
+      ],
+      "ip": "199.49.15.14",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Payal, Mahesh, Facebook user and Nilesh",
+  "is_still_participant": true,
+  "thread_path": "legacy_threads/payalmaheshfacebookuserandnilesh_1177137372334410",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

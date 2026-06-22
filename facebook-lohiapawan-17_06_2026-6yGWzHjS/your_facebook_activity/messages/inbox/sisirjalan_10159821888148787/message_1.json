@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Sisir Jalan"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1688801641948,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1679401385818,
+      "content": "happy to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sisir Jalan",
+  "is_still_participant": true,
+  "thread_path": "inbox/sisirjalan_10159821888148787",
+  "magic_words": [
+    
+  ]
+}

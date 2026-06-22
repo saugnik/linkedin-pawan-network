@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Sandip Dhali"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sandip Dhali",
+      "timestamp_ms": 1730315599922,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sandip Dhali",
+      "timestamp_ms": 1693683912781,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sandip Dhali",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/sandipdhali_10159874209783787",
+  "magic_words": [
+    
+  ]
+}

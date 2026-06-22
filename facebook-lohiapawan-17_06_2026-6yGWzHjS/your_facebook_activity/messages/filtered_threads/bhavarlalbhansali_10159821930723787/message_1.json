@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Bhavarlal Bhansali"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bhavarlal Bhansali",
+      "timestamp_ms": 1679402477325,
+      "content": "Hi \u00f0\u009f\u0091\u008b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bhavarlal Bhansali",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/bhavarlalbhansali_10159821930723787",
+  "magic_words": [
+    
+  ]
+}

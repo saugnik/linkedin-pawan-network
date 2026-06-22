@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sushill Rajput"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1509899512568,
+      "content": "You're now friends with Sushill.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sushill Rajput",
+  "is_still_participant": true,
+  "thread_path": "inbox/sushillrajput_10155573707013787",
+  "magic_words": [
+    
+  ]
+}

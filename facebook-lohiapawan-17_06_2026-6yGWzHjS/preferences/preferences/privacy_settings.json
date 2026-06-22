@@ -1,0 +1,229 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Settings",
+      "dict": [
+        {
+          "label": "Who can see your future posts?",
+          "value": "Friends"
+        },
+        {
+          "label": "Who can see posts that you're tagged in on your profile?",
+          "value": "Your friends"
+        },
+        {
+          "label": "Who can see what others post on your profile?",
+          "value": "Your friends"
+        },
+        {
+          "label": "When you're tagged in a post, who do you want to add to the audience of the post if they can't already see it?",
+          "value": "Your friends"
+        },
+        {
+          "label": "Allow your posts to be shared with tagged friends in Messenger?",
+          "value": "Public"
+        },
+        {
+          "label": "Who can Facebook suggest your profile to based on your phone number?",
+          "value": "Your friends"
+        },
+        {
+          "label": "Who can Facebook suggest your profile to based on your email address?",
+          "value": "Your friends"
+        },
+        {
+          "label": "Who can send you friend requests?",
+          "value": "Public"
+        },
+        {
+          "label": "Who can look up your Timeline by name?",
+          "value": "Public"
+        },
+        {
+          "label": "Who can look you up using the email address or phone number you provided?",
+          "value": "Public"
+        },
+        {
+          "label": "Social links",
+          "value": "Your friends"
+        },
+        {
+          "label": "Address",
+          "value": "Your friends"
+        },
+        {
+          "label": "Who can see your friends list?",
+          "value": "Your friends"
+        },
+        {
+          "label": "Websites",
+          "value": "Public"
+        },
+        {
+          "label": "Who can see your birthday?",
+          "value": "Your friends"
+        },
+        {
+          "label": "Who can see your birth year?",
+          "value": "Only me"
+        },
+        {
+          "label": "Relationship",
+          "value": "Your friends"
+        },
+        {
+          "label": "Interested in",
+          "value": "Public"
+        },
+        {
+          "label": "Languages",
+          "value": "Public"
+        },
+        {
+          "label": "Favourite Quotes",
+          "value": "Public"
+        },
+        {
+          "label": "About You",
+          "value": "Public"
+        },
+        {
+          "label": "Political views",
+          "value": "Your friends"
+        },
+        {
+          "label": "Religious views",
+          "value": "Your friends"
+        },
+        {
+          "label": "Current town/city",
+          "value": "Your friends"
+        },
+        {
+          "label": "Home town",
+          "value": "Your friends"
+        },
+        {
+          "label": "Other",
+          "value": "Public"
+        },
+        {
+          "label": "Who can see your followers on your timeline?",
+          "value": "Public"
+        },
+        {
+          "label": "Who can see the people and Pages you follow?",
+          "value": "Only me"
+        },
+        {
+          "label": "Custom gender",
+          "value": "Only me"
+        },
+        {
+          "label": "Location Sharing",
+          "value": "Only me"
+        },
+        {
+          "label": "Activities",
+          "value": "Public"
+        },
+        {
+          "label": "Interests",
+          "value": "Public"
+        },
+        {
+          "label": "Music",
+          "value": "Public"
+        },
+        {
+          "label": "Books",
+          "value": "Public"
+        },
+        {
+          "label": "Games",
+          "value": "Public"
+        },
+        {
+          "label": "Films",
+          "value": "Public"
+        },
+        {
+          "label": "Television",
+          "value": "Public"
+        },
+        {
+          "label": "Sports",
+          "value": "Public"
+        },
+        {
+          "label": "Sports teams",
+          "value": "Public"
+        },
+        {
+          "label": "Athletes",
+          "value": "Public"
+        },
+        {
+          "label": "Inspirational people",
+          "value": "Public"
+        },
+        {
+          "label": "Foods",
+          "value": "Public"
+        },
+        {
+          "label": "Restaurants",
+          "value": "Public"
+        },
+        {
+          "label": "Websites",
+          "value": "Public"
+        },
+        {
+          "label": "Clothing",
+          "value": "Public"
+        },
+        {
+          "label": "Do you want Facebook to be able to recognise you in photos and videos?",
+          "value": "Only me"
+        },
+        {
+          "label": "Allow others to share your posts to their story?",
+          "value": "Public"
+        },
+        {
+          "label": "Allow others to share your public stories to their own story?",
+          "value": "Public"
+        },
+        {
+          "label": "Events privacy settings",
+          "value": "Your friends"
+        },
+        {
+          "label": "Channels",
+          "value": "Public"
+        },
+        {
+          "label": "Pronouns",
+          "value": "Only me"
+        },
+        {
+          "label": "Posts audience limit",
+          "value": "Public"
+        },
+        {
+          "label": "Reels audience limit",
+          "value": "Public"
+        },
+        {
+          "label": "Who can see the Fans tab on your Page?",
+          "value": "Public"
+        }
+      ]
+    }
+  ],
+  "fbid": "690728786"
+}

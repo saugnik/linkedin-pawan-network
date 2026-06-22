@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Dr. Kumar Vishwas"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1565619231714,
+      "content": "Are you available to chat?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1565619231714,
+      "content": "Are you available to chat?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dr. Kumar Vishwas",
+  "is_still_participant": true,
+  "thread_path": "inbox/drkumarvishwas_10157031375738787",
+  "magic_words": [
+    
+  ]
+}

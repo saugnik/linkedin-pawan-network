@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Prem Chandra Soni"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1586149887387,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Prem Chandra Soni",
+      "timestamp_ms": 1586147465559,
+      "content": "Hi sir, good morning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Prem Chandra Soni",
+  "is_still_participant": true,
+  "thread_path": "inbox/premchandrasoni_10157675803103787",
+  "magic_words": [
+    
+  ]
+}

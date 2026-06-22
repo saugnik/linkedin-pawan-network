@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Siddharth Lunia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1493785425359,
+      "content": "You're now friends with Siddharth.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Siddharth Lunia",
+  "is_still_participant": true,
+  "thread_path": "inbox/siddharthlunia_10155068990723787",
+  "magic_words": [
+    
+  ]
+}

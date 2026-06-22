@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Chirag Dalal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chirag Dalal",
+      "timestamp_ms": 1293345312000,
+      "content": "Thanks a ton bhai!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chirag Dalal",
+      "timestamp_ms": 1293345312000,
+      "content": "Thanks a ton bhai!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1293340466000,
+      "content": "Wish you a very happy birthday CD!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1293340466000,
+      "content": "Wish you a very happy birthday CD!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chirag Dalal",
+  "is_still_participant": true,
+  "thread_path": "inbox/chiragdalal_10153683792153787",
+  "magic_words": [
+    
+  ]
+}

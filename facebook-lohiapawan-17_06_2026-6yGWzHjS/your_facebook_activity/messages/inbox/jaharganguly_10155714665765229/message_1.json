@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Jahar Ganguly"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jahar Ganguly",
+      "timestamp_ms": 1502599742507,
+      "content": "You're now friends with Jahar.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jahar Ganguly",
+      "timestamp_ms": 1502599742507,
+      "content": "You're now friends with Jahar.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jahar Ganguly",
+  "is_still_participant": true,
+  "thread_path": "inbox/jaharganguly_10155714665765229",
+  "magic_words": [
+    
+  ]
+}

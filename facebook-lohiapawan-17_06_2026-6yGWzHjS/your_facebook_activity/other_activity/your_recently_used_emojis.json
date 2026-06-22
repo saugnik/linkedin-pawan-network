@@ -1,0 +1,104 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Emoji usage statistics",
+      "dict": [
+        {
+          "label": "\u00f0\u009f\u0098\u0080",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "3"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1600671180
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u0091\u008f",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "1"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1537179387
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u00a4\u00a3",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "7"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1616827080
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u008e\u0082",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "1"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1596024488
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u008d\u00be",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "1"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1596024493
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u0098\u008a",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "1"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1614853728
+            }
+          ]
+        },
+        {
+          "label": "\u00f0\u009f\u00a4\u0090",
+          "dict": [
+            {
+              "label": "total_count",
+              "value": "1"
+            },
+            {
+              "label": "last_used",
+              "timestamp_value": 1614857390
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "fbid": "10155970614243787"
+}

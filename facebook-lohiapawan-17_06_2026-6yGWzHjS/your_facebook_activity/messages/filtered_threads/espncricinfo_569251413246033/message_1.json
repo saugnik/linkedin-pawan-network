@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "ESPNcricinfo"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "ESPNcricinfo",
+      "timestamp_ms": 1312050650000,
+      "content": "Dear all,\n\nIt's been a cracking Test series between England and India, so we thought we'd give away an Alastair Cook signed shirt. Easy (Facebook exclusive) competition - just predict the series result.\n\nJust go here to enter: http://www.espncricinfo.com/ci/content/url/525378.html\n\nAnd good luck!\n\nCricinfo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "ESPNcricinfo",
+      "timestamp_ms": 1297935300000,
+      "content": "Brace yourselves. The World Cup is nearly here. Don't forget to RSVP our Event below - and you can follow each and every team on Facebook by \"liking\" them below, receiving the latest news from us within seconds of our journalists filing:\n\nhttp://www.espncricinfo.com/icc_cricket_worldcup2011/content/site/facebook/index.html\n\nEnjoy the tournament and our coverage,\n\nESPNcricinfo\n\nEvent details below\n\nhttp://www.facebook.com/event.php?eid=189325917758356&index=1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ESPNcricinfo",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/espncricinfo_569251413246033",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "participants": [
+    {
+      "name": "Pankaj Choudhary"
+    },
+    {
+      "name": "Priyanka Vijay"
+    },
+    {
+      "name": "Jp Agarwal"
+    },
+    {
+      "name": "Facebook user"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1506168086981,
+      "content": "You left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pankaj Choudhary",
+      "timestamp_ms": 1506083136039,
+      "content": "Pankaj sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mahavir Harlalka Agarwal",
+      "timestamp_ms": 1505820700432,
+      "content": "Mahavir Harlalka Agarwal left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pankaj Choudhary",
+      "timestamp_ms": 1505819313850,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deepank Saraaf",
+      "timestamp_ms": 1504976465035,
+      "content": "Deepank Saraaf left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deepank Saraaf",
+      "timestamp_ms": 1383757707052,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/227878347358915.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pooja Saraf",
+      "timestamp_ms": 1383742863488,
+      "content": "Pooja Saraf left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jp Agarwal",
+      "timestamp_ms": 1370933092538,
+      "content": "nice bhai....",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1370423819771,
+      "content": "Facebook user sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/photo.php?fbid=516293765084779&set=a.497172402579726&type=3"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pankaj, Priyanka, Jp and Facebook user",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/pankajpriyankajpandfacebookuser_116941398476149",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

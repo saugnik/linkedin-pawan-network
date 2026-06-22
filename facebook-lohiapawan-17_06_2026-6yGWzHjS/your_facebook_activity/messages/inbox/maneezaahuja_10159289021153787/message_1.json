@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Maneeza Ahuja"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maneeza Ahuja",
+      "timestamp_ms": 1654528512848,
+      "content": "\u00f0\u009f\u0095\u0089\u00ef\u00b8\u008f\u00f0\u009f\u008f\u00b5\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maneeza Ahuja",
+      "timestamp_ms": 1654528512848,
+      "content": "\u00f0\u009f\u0095\u0089\u00ef\u00b8\u008f\u00f0\u009f\u008f\u00b5\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1654494920475,
+      "content": "Happy to connect with spiritually aligned people",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1654494920475,
+      "content": "Happy to connect with spiritually aligned people",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maneeza Ahuja",
+  "is_still_participant": true,
+  "thread_path": "inbox/maneezaahuja_10159289021153787",
+  "magic_words": [
+    
+  ]
+}

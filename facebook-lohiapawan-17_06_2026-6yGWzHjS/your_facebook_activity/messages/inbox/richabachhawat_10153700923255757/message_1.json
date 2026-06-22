@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Richa Bachhawat"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1314473090497,
+      "content": "Happy birthday Richa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Richa Bachhawat",
+  "is_still_participant": true,
+  "thread_path": "inbox/richabachhawat_10153700923255757",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Manish Gadia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Manish Gadia",
+      "timestamp_ms": 1683281869839,
+      "content": "Pawan bhai, Thanks a lot",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manish Gadia",
+      "timestamp_ms": 1683281869839,
+      "content": "Pawan bhai, Thanks a lot",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1683259931359,
+      "content": "Wish u a happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1683259931359,
+      "content": "Wish u a happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Manish Gadia",
+  "is_still_participant": true,
+  "thread_path": "inbox/manishgadia_10159902732918787",
+  "magic_words": [
+    
+  ]
+}

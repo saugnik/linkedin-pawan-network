@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Nikhil Bhakarh"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nikhil Bhakarh",
+      "timestamp_ms": 1300516958000,
+      "content": "Hey, check out this girl, lol, she must be out of her mind for making that video!: bit.ly/fC1AmB",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nikhil Bhakarh",
+      "timestamp_ms": 1300516958000,
+      "content": "Hey, check out this girl, lol, she must be out of her mind for making that video!: bit.ly/fC1AmB",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nikhil Bhakarh",
+  "is_still_participant": true,
+  "thread_path": "inbox/nikhilbhakarh_10156291455693787",
+  "magic_words": [
+    
+  ]
+}

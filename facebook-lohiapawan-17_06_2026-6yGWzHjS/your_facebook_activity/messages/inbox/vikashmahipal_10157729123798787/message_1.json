@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Vikash Mahipal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1587465132759,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vikash Mahipal",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikashmahipal_10157729123798787",
+  "magic_words": [
+    
+  ]
+}

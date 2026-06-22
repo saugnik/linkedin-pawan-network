@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sunil Jain"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1507700140158,
+      "content": "You're now friends with Sunil.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sunil Jain",
+  "is_still_participant": true,
+  "thread_path": "inbox/suniljain_10155513881643787",
+  "magic_words": [
+    
+  ]
+}

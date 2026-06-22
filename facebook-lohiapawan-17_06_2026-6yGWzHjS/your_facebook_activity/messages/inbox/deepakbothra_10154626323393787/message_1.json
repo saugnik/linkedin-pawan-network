@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Deepak Bothra"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1480301122329,
+      "content": "You're now friends with Deepak.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1480301122329,
+      "content": "You're now friends with Deepak.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Deepak Bothra",
+  "is_still_participant": true,
+  "thread_path": "inbox/deepakbothra_10154626323393787",
+  "magic_words": [
+    
+  ]
+}

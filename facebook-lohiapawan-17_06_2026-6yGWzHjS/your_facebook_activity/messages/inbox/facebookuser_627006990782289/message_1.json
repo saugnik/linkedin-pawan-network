@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Facebook user"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1318788928817,
+      "content": "Hello Guys and Gals: We have now updated the venue of the event to our old and gold hangout spot - Rooftop. However, please note that WE HAD TO CHANGE THE DATE OF THE EVENT TO SATURDAY, OCTOBER 29, 2011 (7 PM TO 10 PM), since most of the places were already booked for Oct 23. Since it is a diwali theme party, we are HIGHLY RECOMMENDING INDIAN TRADITIONAL ATTIRE. We are assuming people who RSVP before to be still in. However, if things have changed and you cant make that day, please notify on the wall asap. Also, we hope that others who were not able to make Oct 23 may now be able to accomodate the new date. We couldn't be more excited to see you all. \r\n\r\nVishal\r\n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1318788928817,
+      "content": "Hello Guys and Gals: We have now updated the venue of the event to our old and gold hangout spot - Rooftop. However, please note that WE HAD TO CHANGE THE DATE OF THE EVENT TO SATURDAY, OCTOBER 29, 2011 (7 PM TO 10 PM), since most of the places were already booked for Oct 23. Since it is a diwali theme party, we are HIGHLY RECOMMENDING INDIAN TRADITIONAL ATTIRE. We are assuming people who RSVP before to be still in. However, if things have changed and you cant make that day, please notify on the wall asap. Also, we hope that others who were not able to make Oct 23 may now be able to accomodate the new date. We couldn't be more excited to see you all. \r\n\r\nVishal\r\n",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Facebook user",
+  "is_still_participant": true,
+  "thread_path": "inbox/facebookuser_627006990782289",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

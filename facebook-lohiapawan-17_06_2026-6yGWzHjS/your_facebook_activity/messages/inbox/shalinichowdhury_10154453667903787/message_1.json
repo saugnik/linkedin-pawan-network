@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Shalini Chowdhury"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shalini Chowdhury",
+      "timestamp_ms": 1474766611010,
+      "content": "You're now friends with Shalini.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shalini Chowdhury",
+  "is_still_participant": true,
+  "thread_path": "inbox/shalinichowdhury_10154453667903787",
+  "magic_words": [
+    
+  ]
+}

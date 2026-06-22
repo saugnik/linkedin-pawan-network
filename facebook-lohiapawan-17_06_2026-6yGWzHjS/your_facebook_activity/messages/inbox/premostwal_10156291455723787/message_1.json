@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Prem Ostwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Prem Ostwal",
+      "timestamp_ms": 1294055884000,
+      "content": "Thaks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1293959256000,
+      "content": "Wish you a happy birthday!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Prem Ostwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/premostwal_10156291455723787",
+  "magic_words": [
+    
+  ]
+}

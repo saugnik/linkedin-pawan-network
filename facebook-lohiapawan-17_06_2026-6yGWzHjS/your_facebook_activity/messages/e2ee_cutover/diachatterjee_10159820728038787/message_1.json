@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Dia Chatterjee"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1738593155066,
+      "content": "All the best",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1738593151277,
+      "content": "Ok",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dia Chatterjee",
+      "timestamp_ms": 1738593136124,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dia Chatterjee",
+      "timestamp_ms": 1738593132017,
+      "content": "Mujhe kuch jankari lena tha jo mujhe milgaya",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1738589776927,
+      "content": "We help. Client on raising debt funds",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1738589763525,
+      "content": "Reg yr post on loan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dia Chatterjee",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/diachatterjee_10159820728038787",
+  "magic_words": [
+    
+  ]
+}

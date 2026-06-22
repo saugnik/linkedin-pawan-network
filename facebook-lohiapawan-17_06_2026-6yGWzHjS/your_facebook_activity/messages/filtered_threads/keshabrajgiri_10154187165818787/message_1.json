@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Keshab Raj Giri"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Keshab Raj Giri",
+      "timestamp_ms": 1411641910796,
+      "content": "Keshab sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Keshab Raj Giri",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/keshabrajgiri_10154187165818787",
+  "magic_words": [
+    
+  ]
+}

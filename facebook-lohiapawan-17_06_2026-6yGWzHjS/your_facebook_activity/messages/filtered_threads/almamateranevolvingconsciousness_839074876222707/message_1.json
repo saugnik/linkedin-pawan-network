@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Alma Mater an evolving consciousness"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alma Mater an evolving consciousness",
+      "timestamp_ms": 1307541771000,
+      "content": "Click on ' LIKE' today and grow in some aspect of life everyday ! ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alma Mater an evolving consciousness",
+  "is_still_participant": true,
+  "thread_path": "filtered_threads/almamateranevolvingconsciousness_839074876222707",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Arvind Choubey"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arvind Choubey",
+      "timestamp_ms": 1519955944010,
+      "content": "You're now friends with Arvind.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arvind Choubey",
+      "timestamp_ms": 1519955944010,
+      "content": "You're now friends with Arvind.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arvind Choubey",
+  "is_still_participant": true,
+  "thread_path": "inbox/arvindchoubey_10155859451903787",
+  "magic_words": [
+    
+  ]
+}

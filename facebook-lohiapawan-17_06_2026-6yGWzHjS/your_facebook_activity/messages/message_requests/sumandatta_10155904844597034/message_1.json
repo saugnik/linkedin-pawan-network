@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Suman Datta"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Suman Datta",
+      "timestamp_ms": 1522767331449,
+      "content": "Dear sir. Having very bad experience with kydsmart. Kids school opens in two days and not yet received uniforms. No one replies to email or picks up customer service phone",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Suman Datta",
+  "is_still_participant": true,
+  "thread_path": "message_requests/sumandatta_10155904844597034",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Amit Kumar Das"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1587605355288,
+      "content": "You're now friends with Amit.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1587605355288,
+      "content": "You're now friends with Amit.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amit Kumar Das",
+  "is_still_participant": true,
+  "thread_path": "inbox/amitkumardas_10157735108068787",
+  "magic_words": [
+    
+  ]
+}

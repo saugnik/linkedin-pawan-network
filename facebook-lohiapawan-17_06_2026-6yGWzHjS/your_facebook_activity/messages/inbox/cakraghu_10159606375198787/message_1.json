@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "CA K Raghu"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1668871289171,
+      "content": "Hello \r\n\r\nWe connected at wcoa. I was wanting to apo to u reg doccube",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1668871289171,
+      "content": "Hello \r\n\r\nWe connected at wcoa. I was wanting to apo to u reg doccube",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CA K Raghu",
+  "is_still_participant": true,
+  "thread_path": "inbox/cakraghu_10159606375198787",
+  "magic_words": [
+    
+  ]
+}

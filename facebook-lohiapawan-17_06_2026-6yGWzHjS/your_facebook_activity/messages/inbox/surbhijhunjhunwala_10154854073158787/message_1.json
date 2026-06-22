@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Surbhi Jhunjhunwala"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1304414489404,
+      "content": "hi r u the one we are interacting with?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Surbhi Jhunjhunwala",
+  "is_still_participant": true,
+  "thread_path": "inbox/surbhijhunjhunwala_10154854073158787",
+  "magic_words": [
+    
+  ]
+}

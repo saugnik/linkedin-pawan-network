@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Shubh Chatterjee"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shubh Chatterjee",
+      "timestamp_ms": 1665332652378,
+      "content": "Thanks for the advice",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shubh Chatterjee",
+      "timestamp_ms": 1665332644360,
+      "content": "Hard pressed for time with patients and regular research",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1665332606466,
+      "content": "Join bni if u hv not explored it already",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1665332582538,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shubh Chatterjee",
+      "timestamp_ms": 1665330365634,
+      "content": "Hi, nice to have you as a friend and hope you're doing fine. Let me know just in case you need any homoeopathic consultation for yourself or someone you know. Best Regards.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shubh Chatterjee",
+  "is_still_participant": true,
+  "thread_path": "inbox/shubhchatterjee_10159463547303787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Srabanee Chakraborty"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1627012954309,
+      "content": "Wish u a happy birthday \u00f0\u009f\u008e\u0082 \u00f0\u009f\u008e\u0082 \u00f0\u009f\u008e\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Srabanee Chakraborty",
+      "timestamp_ms": 1543486007315,
+      "content": "Hi Piramal group has launched a property in a very prime and premier area in Lower Parel Mumbai. Guys from Piramal Group are here in Kolkata and would you like to meet them once? - they are leaving tomorrow at 4 PM. It is a wonderful investment opportunity with high appreciation value. Apart from that they have some projects in Goa.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Srabanee Chakraborty",
+      "timestamp_ms": 1529396437584,
+      "content": "You're now friends with Srabanee.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Srabanee Chakraborty",
+  "is_still_participant": true,
+  "thread_path": "inbox/srabaneechakraborty_10156110960058787",
+  "magic_words": [
+    
+  ]
+}

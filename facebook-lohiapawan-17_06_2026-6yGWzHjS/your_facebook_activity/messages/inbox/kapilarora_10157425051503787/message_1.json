@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Kapil Arora"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kapil Arora",
+      "timestamp_ms": 1578642254951,
+      "content": "You're now friends with Kapil.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kapil Arora",
+      "timestamp_ms": 1578642254951,
+      "content": "You're now friends with Kapil.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kapil Arora",
+  "is_still_participant": true,
+  "thread_path": "inbox/kapilarora_10157425051503787",
+  "magic_words": [
+    
+  ]
+}

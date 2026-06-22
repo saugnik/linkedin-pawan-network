@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "Swati Lohia Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Ravi Lath"
+    },
+    {
+      "name": "Mahesh Ladia"
+    },
+    {
+      "name": ""
+    },
+    {
+      "name": "Navin Lunia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "",
+      "timestamp_ms": 1306095006323,
+      "content": "Dear Friend,\n\nAs an add on to compilation of my poetries on www.sajjanksharma.com, I have created my page (http://www.facebook.com/pages/Sajjan-Kumar-Sharma/209733762393362) posted on my wall wherein I would be sharing regularly (on an interval of a day or two) my creations for my true friends like you and your near and dear ones. I hope you would like it and will be in touch on regular basis.\n\nCheers\nSajjan\n",
+      "share": {
+        "link": "http://www.sajjanksharma.com/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Swati, Ravi, Mahesh and 2 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/swatiravimaheshand2others_10150207692574265",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

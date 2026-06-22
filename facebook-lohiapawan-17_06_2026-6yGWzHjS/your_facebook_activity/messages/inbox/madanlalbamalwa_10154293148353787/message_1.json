@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Madanlal Bamalwa"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1469292308515,
+      "content": "Sharing with you",
+      "share": {
+        "link": "https://www.facebook.com/bajranglal.bamalwa.9/videos/10154353134785917/"
+      },
+      "ip": "122.163.61.127",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1469292308515,
+      "content": "Sharing with you",
+      "share": {
+        "link": "https://www.facebook.com/bajranglal.bamalwa.9/videos/10154353134785917/"
+      },
+      "ip": "122.163.61.127",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Madanlal Bamalwa",
+  "is_still_participant": true,
+  "thread_path": "inbox/madanlalbamalwa_10154293148353787",
+  "magic_words": [
+    
+  ]
+}

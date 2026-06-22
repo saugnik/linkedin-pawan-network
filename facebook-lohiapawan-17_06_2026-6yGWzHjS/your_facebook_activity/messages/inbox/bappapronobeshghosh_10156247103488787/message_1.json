@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Bappa Pronobesh Ghosh"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bappa Pronobesh Ghosh",
+      "timestamp_ms": 1535566598762,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bappa Pronobesh Ghosh",
+      "timestamp_ms": 1535566598762,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bappa Pronobesh Ghosh",
+      "timestamp_ms": 1535566596399,
+      "content": "Bappa Pronobesh sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bappa Pronobesh Ghosh",
+      "timestamp_ms": 1535566596399,
+      "content": "Bappa Pronobesh sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bappa Pronobesh Ghosh",
+  "is_still_participant": true,
+  "thread_path": "inbox/bappapronobeshghosh_10156247103488787",
+  "magic_words": [
+    
+  ]
+}

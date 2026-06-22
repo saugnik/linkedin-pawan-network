@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Samit Khanra"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Samit Khanra",
+      "timestamp_ms": 1586330560294,
+      "content": "Good afternoon sir.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1586330536324,
+      "content": "You're now friends with Samit.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Samit Khanra",
+  "is_still_participant": true,
+  "thread_path": "inbox/samitkhanra_10157684226228787",
+  "magic_words": [
+    
+  ]
+}

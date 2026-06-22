@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sameer Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1677210615559,
+      "content": "Wish u a happy birthday \u00f0\u009f\u008e\u0082 \u00f0\u009f\u008e\u0082 \u00f0\u009f\u008e\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sameer Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/sameeragarwal_10159255743708787",
+  "magic_words": [
+    
+  ]
+}

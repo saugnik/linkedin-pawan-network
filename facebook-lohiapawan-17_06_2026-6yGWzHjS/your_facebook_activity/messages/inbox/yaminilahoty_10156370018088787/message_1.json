@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Yamini Lahoty"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Yamini Lahoty",
+      "timestamp_ms": 1539531389653,
+      "content": "You're now friends with Yamini.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yamini Lahoty",
+  "is_still_participant": true,
+  "thread_path": "inbox/yaminilahoty_10156370018088787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Aman Baid"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Aman Baid",
+      "timestamp_ms": 1533195543995,
+      "content": "Jai jinendra..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Aman Baid",
+      "timestamp_ms": 1533195543995,
+      "content": "Jai jinendra..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1533194634704,
+      "content": "You're now friends with Aman.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1533194634704,
+      "content": "You're now friends with Aman.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Aman Baid",
+  "is_still_participant": true,
+  "thread_path": "inbox/amanbaid_10156207149968787",
+  "magic_words": [
+    
+  ]
+}

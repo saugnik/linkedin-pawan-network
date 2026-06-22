@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Praveen Pratap Agarwal"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Praveen Pratap Agarwal",
+      "timestamp_ms": 1471438003265,
+      "content": "You're now friends with Praveen.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Praveen Pratap Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/praveenpratapagarwal_10154352524763787",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Shawn Roy"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shawn Roy",
+      "timestamp_ms": 1513796049319,
+      "content": "Shawn added you on Messenger.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shawn Roy",
+  "is_still_participant": true,
+  "thread_path": "message_requests/shawnroy_10155684146118787",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

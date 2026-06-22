@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Vikash Kedia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1282715334000,
+      "content": "I got a friend request do we know each other, frankly not able to recollect.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vikash Kedia",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikashkedia_10156291455778787",
+  "magic_words": [
+    
+  ]
+}

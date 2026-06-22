@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Ashish Agarwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ashish Agarwal",
+      "timestamp_ms": 1494645515424,
+      "content": "You're now friends with Ashish.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ashish Agarwal",
+      "timestamp_ms": 1494645515424,
+      "content": "You're now friends with Ashish.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ashish Agarwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashishagarwal_10155094945738787",
+  "magic_words": [
+    
+  ]
+}

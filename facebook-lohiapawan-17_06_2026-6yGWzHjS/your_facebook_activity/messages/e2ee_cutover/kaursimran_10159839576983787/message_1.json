@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Kaur Simran"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kaur Simran",
+      "timestamp_ms": 1697599655767,
+      "content": "no gift",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kaur Simran",
+      "timestamp_ms": 1697545926486,
+      "content": "thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1697542798643,
+      "content": "wish you a happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kaur Simran",
+  "is_still_participant": true,
+  "thread_path": "e2ee_cutover/kaursimran_10159839576983787",
+  "magic_words": [
+    
+  ]
+}

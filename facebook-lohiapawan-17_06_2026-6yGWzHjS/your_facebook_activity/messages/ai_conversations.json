@@ -1,0 +1,863 @@
+{
+  "title": "Meta AI",
+  "timestamp": 1763338532,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Pinned messages",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Word effects",
+      "vec": [
+        
+      ]
+    },
+    {
+      "label": "Summary",
+      "value": ""
+    },
+    {
+      "label": "Image"
+    },
+    {
+      "label": "Are you an admin?",
+      "value": "False"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Former participants"
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Marketplace item"
+    },
+    {
+      "dict": [
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "Aah gotcha! \u00f0\u009f\u0098\u0084\n\nTo check **your friends\u00e2\u0080\u0099 birthdays today** on Facebook:\n\n1. **Web (PC)**\n   - Left sidebar \u00e2\u0086\u0092 **Events**\n   - Click **Birthdays**\n\n2. **Mobile App**\n   - Tap the **\u00e2\u0080\u009cSee All\u00e2\u0080\u009d** under **Birthdays** on the Home screen, or\n   - Search **\u00e2\u0080\u009cBirthdays\u00e2\u0080\u009d** in the Facebook search bar.\n\nYou\u00e2\u0080\u0099ll see a list of friends with birthdays **today, upcoming, and recent**.\n\nIf you want an **automated reminder** (so you never miss a wish), I can guide you on setting up **Facebook birthday notifications** or using tools like **IFTTT** to send auto-messages.\n\nWii na? Want me to walk you through setting up reminders or check another date?"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1763338532
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "Birthdays of my friends on Facebook"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1763338532
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "**Today, November\u00e2\u0080\u00af17\u00e2\u0080\u00af2025** \u00f0\u009f\u008e\u0082  \n\n*International*  \n- **Dylan Walsh** \u00e2\u0080\u0093 62\u00e2\u0080\u00afy/o American actor (*Nip/Tuck*)  \n- **Zoe Bell** \u00e2\u0080\u0093 47\u00e2\u0080\u00afy/o New Zealand stuntwoman & actress  \n- **Nasim Pedrad** \u00e2\u0080\u0093 44\u00e2\u0080\u00afy/o comedian & former *SNL* cast member  \n- **Akhil Sarthak** \u00e2\u0080\u0093 30\u00e2\u0080\u00afy/o Indian actor  \n\n*India*  \n- **Roja Selvamani** \u00e2\u0080\u0093 51\u00e2\u0080\u00afy/o Tamil actress  \n- **Rahul Baweja** \u00e2\u0080\u0093 27\u00e2\u0080\u00afy/o TV actor  \n- **Anupama Prakash** \u00e2\u0080\u0093 37\u00e2\u0080\u00afy/o model/actress  \n\n*(Sources: \u00c2\u00b9 \u00c2\u00b2)*"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1763338505
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "birthdays today"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1763338505
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "Some third-party services that can help automate birthday wishes on Facebook Messenger include:\n\n1. IFTTT (If This Then That): A free service that allows you to create customized recipes based on specific triggers and actions.\n2. Zapier: A platform that automates tasks by connecting different apps and services.\n3. BirthdayBot: A Facebook Messenger bot that helps send birthday messages.\n\nBefore using these services, ensure you understand their:\n\n1. Terms of service\n2. Data privacy policies\n3. Permissions required\n\nYou can also explore Facebook's built-in features, like:\n\n1. Birthday reminders\n2. Scheduled posts\n\nTo set up birthday reminders:\n\n1. Go to Facebook's Events section\n2. Click on Birthdays\n3. Enable notifications for upcoming birthdays\n\nWould you like step-by-step instructions for any of these options?"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1752039960
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "Yes"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1752039960
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "Unfortunately, Facebook Messenger doesn't have a built-in feature to automatically send birthday wishes to friends daily. However, you can use third-party apps or services to automate this process. \n\nTo wish your friends a happy birthday manually, you can:\n1. Open Facebook Messenger.\n2. Search for your friend's name.\n3. Type \"Happy Birthday\" or your desired message.\n4. Send the message \u00c2\u00b9.\n\nKeep in mind that messages sent to people you're not friends with may arrive in their Message Requests folder or not be delivered at all, depending on their settings \u00c2\u00b2. \n\nFor automation"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1752039938
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "Can u help me wish birthday to my freind's thru messenger daily automatically"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1752039937
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "For that type of information, please refer to Meta\u00e2\u0080\u0099s Privacy Center: https://www.facebook.com/privacy/center/"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1752039903
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "Can u analyse my messgener chats"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1752039903
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "My name is Meta AI. Think of me like an assistant who's here to help you learn, plan and connect. What can I help you with today?"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Meta AI"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1732387372
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message",
+              "value": "Meta AI named the group thread for mailbox1417881759170535."
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": ""
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Meta AI"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1732387371
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "To find out which of your friends have birthdays today on Facebook, follow these steps:\n\n- Open Facebook on your computer or mobile device and log in to your account.\n- On the left sidebar, click on *Events*. If you don't see Events, click on *See More*.\n- Then, click on *Birthdays*. This will show you a list of your friends' birthdays, including those who have birthdays today, recently, or upcoming \u00c2\u00b9.\n- Alternatively, on the Facebook mobile app, tap the search button (magnifying glass icon) and type \"Birthdays.\" Select *Birthdays* from the search results to view the list of birthdays \u00c2\u00b2."
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1732387365
+            }
+          ],
+          "title": ""
+        },
+        {
+          "dict": [
+            {
+              "label": "Message"
+            },
+            {
+              "label": "Sticker"
+            },
+            {
+              "label": "IP address"
+            },
+            {
+              "label": "Message",
+              "value": "friends with birthdays today"
+            },
+            {
+              "label": "Reactions",
+              "vec": [
+                
+              ]
+            },
+            {
+              "label": "Replying to"
+            },
+            {
+              "label": "Transcription"
+            },
+            {
+              "label": "Unavailable"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Attachment"
+            },
+            {
+              "label": "Name",
+              "value": "Pawan Lohia"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Soundmoji"
+            },
+            {
+              "dict": [
+                
+              ],
+              "title": "Audio calls"
+            },
+            {
+              "timestamp_value": 1732387364
+            }
+          ],
+          "title": ""
+        }
+      ],
+      "title": "Messages"
+    }
+  ],
+  "fbid": "9177571322261630"
+}

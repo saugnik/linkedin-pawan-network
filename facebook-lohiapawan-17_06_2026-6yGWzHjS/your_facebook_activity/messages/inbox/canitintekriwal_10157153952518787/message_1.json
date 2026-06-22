@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "CA Nitin Tekriwal"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CA Nitin Tekriwal",
+      "timestamp_ms": 1570187965261,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CA Nitin Tekriwal",
+      "timestamp_ms": 1570187965261,
+      "content": "Hi sir",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1570187555956,
+      "content": "You're now friends with CA Nitin.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1570187555956,
+      "content": "You're now friends with CA Nitin.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CA Nitin Tekriwal",
+  "is_still_participant": true,
+  "thread_path": "inbox/canitintekriwal_10157153952518787",
+  "magic_words": [
+    
+  ]
+}

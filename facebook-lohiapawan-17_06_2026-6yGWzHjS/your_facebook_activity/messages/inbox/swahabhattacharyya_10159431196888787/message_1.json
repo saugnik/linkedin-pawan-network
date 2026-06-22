@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Swaha Bhattacharyya"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1673162015981,
+      "content": "Wish u a happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1665454194980,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1663551517512,
+      "content": "Happy to connect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Swaha Bhattacharyya",
+  "is_still_participant": true,
+  "thread_path": "inbox/swahabhattacharyya_10159431196888787",
+  "magic_words": [
+    
+  ]
+}

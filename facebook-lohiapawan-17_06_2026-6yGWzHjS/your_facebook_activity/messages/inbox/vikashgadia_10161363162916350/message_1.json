@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Vikash Gadia"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vikash Gadia",
+      "timestamp_ms": 1707460404742,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1707456689113,
+      "content": "Happy birthday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vikash Gadia",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikashgadia_10161363162916350",
+  "magic_words": [
+    
+  ]
+}

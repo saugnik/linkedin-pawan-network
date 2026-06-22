@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Bhaskar Banerjee"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bhaskar Banerjee",
+      "timestamp_ms": 1534747364958,
+      "content": "Thanks a lot for accepting my friend request sir.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bhaskar Banerjee",
+      "timestamp_ms": 1534747364958,
+      "content": "Thanks a lot for accepting my friend request sir.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bhaskar Banerjee",
+      "timestamp_ms": 1534747350490,
+      "content": "Bhaskar sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bhaskar Banerjee",
+      "timestamp_ms": 1534747350490,
+      "content": "Bhaskar sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1534747313887,
+      "content": "You're now friends with Bhaskar.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1534747313887,
+      "content": "You're now friends with Bhaskar.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bhaskar Banerjee",
+  "is_still_participant": true,
+  "thread_path": "inbox/bhaskarbanerjee_10156247102418787",
+  "magic_words": [
+    
+  ]
+}

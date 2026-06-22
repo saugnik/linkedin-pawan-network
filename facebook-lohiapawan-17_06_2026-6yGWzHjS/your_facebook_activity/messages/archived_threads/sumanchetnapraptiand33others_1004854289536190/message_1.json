@@ -1,0 +1,1304 @@
+{
+  "participants": [
+    {
+      "name": "Suman Kasera"
+    },
+    {
+      "name": "Chetna Kanodia"
+    },
+    {
+      "name": "Prapti Jhajharia"
+    },
+    {
+      "name": "Pramod Saraf"
+    },
+    {
+      "name": "Vijay Kejriwal"
+    },
+    {
+      "name": "Uttam Kumar Pugalia"
+    },
+    {
+      "name": "Agarwal Amlesh"
+    },
+    {
+      "name": "Urmila Khemka"
+    },
+    {
+      "name": "Kiran Poddar"
+    },
+    {
+      "name": "Sonali Khemka"
+    },
+    {
+      "name": "Newalipur Kolkata Madlivepogo"
+    },
+    {
+      "name": "Jyoti Nemani Jatia"
+    },
+    {
+      "name": "Pritam Chatterjee"
+    },
+    {
+      "name": "Lalit Mohan Puri"
+    },
+    {
+      "name": "Pawan Shukla"
+    },
+    {
+      "name": "Poonam Kanoria"
+    },
+    {
+      "name": "Priti Agarwalla"
+    },
+    {
+      "name": "Pawan Kejriwal"
+    },
+    {
+      "name": "Kripa Agarwal"
+    },
+    {
+      "name": "Shivani Poddar"
+    },
+    {
+      "name": "Narayan Singhania"
+    },
+    {
+      "name": "Neha Periwal"
+    },
+    {
+      "name": "Pramod Prahladka"
+    },
+    {
+      "name": "Lion Narmada Dilip Agarwal"
+    },
+    {
+      "name": "Vinita Poddar"
+    },
+    {
+      "name": "Pyramid Kolkata"
+    },
+    {
+      "name": "Pramila Bajaj Choudhary"
+    },
+    {
+      "name": "Lotus Jewel"
+    },
+    {
+      "name": "Pooja Goenka Tibrewalla"
+    },
+    {
+      "name": "Nidhi Kedia Khetawat"
+    },
+    {
+      "name": "Neha Goenka"
+    },
+    {
+      "name": "Meenakshi Modi"
+    },
+    {
+      "name": "Kirran Jhunjhunwala"
+    },
+    {
+      "name": "Anupama Modi"
+    },
+    {
+      "name": "Anju Lunia"
+    },
+    {
+      "name": "Kala Saraf"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1446785857319,
+      "content": "You left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mamta Agarwal",
+      "timestamp_ms": 1446783158407,
+      "content": "Mamta Agarwal left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karuna More",
+      "timestamp_ms": 1446783074465,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suhasini Lohia",
+      "timestamp_ms": 1446783067867,
+      "content": "Please remove me too .. You cannot do this adding people without their consent ...,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mamta Agarwal",
+      "timestamp_ms": 1446782894318,
+      "content": "Mamta sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/mamta.agarwal.5811/posts/pfbid0nM8RzqeMVKozxnfSKpx58TqmfA9x4r4Epr1wKX9MuRGbX9jcDed4tDLejqWvDdAgl"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nidhi Dalmia Mohta",
+      "timestamp_ms": 1445323046802,
+      "content": "Nidhi Dalmia Mohta left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vinnita Khemka",
+      "timestamp_ms": 1445074869423,
+      "content": "Vinnita Khemka left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1443631930212,
+      "content": "Geeti Bhojnagarwala left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pragya Dhacholia",
+      "timestamp_ms": 1443631299146,
+      "content": "Pragya Dhacholia left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Suresh Kheria",
+      "timestamp_ms": 1442966218151,
+      "content": "Suresh Kheria left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1442944801492,
+      "content": "A contact left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shuchita Paliwal",
+      "timestamp_ms": 1442911114908,
+      "content": "Shuchita Paliwal left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bharat Poddar",
+      "timestamp_ms": 1442887920647,
+      "content": "Bharat Poddar left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Priya Lohade Jain",
+      "timestamp_ms": 1442885611586,
+      "content": "Priya Lohade Jain left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442864795734,
+      "content": "Dear Sangha Maitreyas,                                                                                                     \nWarm greetings!\n \nIt gives us great pleasure to extend a warm welcome to you as a part of the \u00e2\u0080\u009cNewton Sangha Maitreyas\u00e2\u0080\u009d Community.\n \n LIFE RESEARCH ACADEMY Presents\n \u00e2\u0080\u009cA 2 day Workshop on \u00e2\u0080\u0098SACRED BREATH\u00e2\u0080\u0099 for the very first time in \u00e2\u0080\u009cThe City Of Joy\u00e2\u0080\u009d by the internationally acclaimed Past Life Regression therapists & New Age Spiritual Masters Dr. Newton Kondaveti, M.D.& Dr. Lakshmi M.B.B.S. on Saturday the 26th of September & Sunday the 27th of September 2015.\nBreath is sacred. It animates our body, it gives force and power to our words, chants and songs, and it enables us to purify ourselves and ou r cells. It is powerful. It gives meaning and language, it can carry great wisdom (or foolishness) and it can store power or send it outwards. \nIt is your birth right to be walking breathing living light on this earth. This journey with sacred breath will assist with your emotional body, your soul body, and your physical body to complete in this process of becoming one again with your Spirit while still in your physical.\n \"A crucial tool for health and happiness\u00e2\u0080\u00a6your sacred breath\".\nPrinciple\nBreath connects to birth trauma. To connect to the birth trauma, we need to become aware of the energy impressions carried by our breath. This can be done either through the practice of Meditation combined with breath awareness, or intuitive energy breathing practices. Intuitive energy breathing practices are amongst the most simple and most effective ways to not only relive the birth trauma but also to release it.\nObjectives\nThis Workshop is a certified course designed to help you in the following ways:\n\u00e2\u0080\u00a2\tIt helps you to clear the energy blocks affecting your physical, emotional, and mental well-being.\n\u00e2\u0080\u00a2\tIt helps you in your quest for Inner Transformation and Spiritual Growth.\n\u00e2\u0080\u00a2\tIt helps you in understanding the art and science of breathing.\nSyllabus\n\u00e2\u0080\u00a2\tBe introduced to the power of the breath\n\u00e2\u0080\u00a2\tExperience sacredness of breath\n\u00e2\u0080\u00a2\tLearn how to correct restrictive breathing patterns\n\u00e2\u0080\u00a2\tLearn techniques for increasing your energy level and sense of well-being\n\u00e2\u0080\u00a2\tGain tools to manage stress and actively participate in your own healing\n\u00e2\u0080\u00a2\t'The Language of Breath' \n\u00e2\u0080\u00a2\t'The relationship of Breath with Emotions\u00e2\u0080\u0099 \n'The Essence of Breath' \n           Learn to release Birth Trauma/Birthing Patterns through sacred breath\n Methodology \nIs a very EMPOWERING and WISDOM based workshop arranged to answer many of your questions and the practical sessions were designed to bring about a transformation in your life. \nA wide range of audio-video multimedia presentations on related topics with interactive practical sessions would be presented during this training program to give you the best possible information and enrich your overall experience of healing.\nFor more detailed information on this workshop you may visit our Event Section on Facebook to constantly keep you updated at https://www.facebook.com/events/440665162 or browse through our website www.liferesearchacademy.com and run through the topic in the Workshop Section.\nVenue Details:\nThe Park Hotel\n17, Park Street\nKolkata-700017\n\nPre-requisites for joining the workshop:\n \nYou need to fill in a registration form and send it along with the participation fee, for completing all your registration formalities.\n \nWorkshop Timings: \n\nAll participants must reach the venue at 8.45 am sharp in the morning and the workshop will end at 6.00 pm in the evening on both the days.\n \nRefreshments: \n\nMorning and Afternoon Tea/Biscuits with a Vegetarian lunch will be served on both the days (all inclusive)\n \nWorkshop material:\n \nThe workshop folder/material will be provided to all the participants at the venue.\n \nThings to wear/carry:\n \nWear loose comfortable clothing. \nKindly carry a light woollen shawl with you.\n\nVenue parking details :\n \nParking is available throughout the day for the workshop participants.\n \nEarly bird offer/ Registrations :\n\nDo register by the 1st of September 2015 to avail an early bird offer for INR 9000/ participant or INR 9500/ participant for all registrations received thereafter.  Last date for completing all the registration formalities is the 23rd of September 2015 after which no registrations will be entertained.\n \nEligibility for Workshop Participation :\n \nThis very intensive experiential workshop on self-awakening and self-discovery is very useful for:\n \nIndividuals, Trainers, Teachers, Healers, Psychoanalysts, Doctors, Counsellors, Clinical Psychologists and Psychiatrists who wish to enhance their Spiritual skills. \n \nNO visitors/friends/family/well-wishers is allowed to enter the banquet hall during certification without prior permission.\n \nHere\u00e2\u0080\u0099s wishing you a very successful journey of self-discovery and a most effective detangling of all your unhealed issues under the gentle & watchful guidance of the \u00e2\u0080\u0098Zen Mettas\u00e2\u0080\u0099.\n\nDr.Newton has conceptualised a Live Full Moon Musical Meditation Event with Self-healing Ragas flowing from the Sarod in the Evening on Monday- 28th of Sept 2015 between 6.00 pm to 8.30 pm, at Birla Sabhaghar. Queens Park Road, Ballygunge, hence we request your active participation in the same .You are free to bring your family and friends to the event as all like-minded people are welcome.\n \nWaiting to hear from you soon.\n \nGeeti Bhojnagarwala\n+91 9830226429\n \nSunita Kedia\n+91 9830139956\nRegional Coordinators for LRA \n \nDr. K. Newton, M.D. \nwww.luglobal.org \nwww.cluglobal.org\nwww.arrrglobal.org\nwww.angelsofearth.org\nwww.liferesearchacademy.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442864621238,
+      "content": "Geeti Bhojnagarwala removed Sucheta V. Merh from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sucheta V. Merh",
+      "timestamp_ms": 1442858522985,
+      "content": "Plz remove me too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Vinnita Khemka",
+      "timestamp_ms": 1442858436251,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239343222814.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mala Kothari",
+      "timestamp_ms": 1442857372682,
+      "content": "Mala Kothari left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Priya Lohade Jain",
+      "timestamp_ms": 1442857226108,
+      "content": "Plz remove me from this group",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nandini Sutodiya",
+      "timestamp_ms": 1442856830055,
+      "content": "Pl remove me from this group",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442852802556,
+      "content": "Geeti Bhojnagarwala removed VVikash Poddar from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "VVikash Poddar",
+      "timestamp_ms": 1442852752509,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/sumanchetnapraptiand33others_1004854289536190/photos/10205910246207696.jpg",
+          "creation_timestamp": 1442852751
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madhavi Shroff",
+      "timestamp_ms": 1442852703387,
+      "content": "Madhavi Shroff left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mousumi Ghosh",
+      "timestamp_ms": 1442852211499,
+      "content": "Pl remove me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amitabh Kejriwal",
+      "timestamp_ms": 1442851406121,
+      "content": "Pl. remove me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pramod Prahladka",
+      "timestamp_ms": 1442851337629,
+      "content": "Please remove me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Purvi Goswami",
+      "timestamp_ms": 1442851331641,
+      "content": "Purvi Goswami left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pramod Prahladka",
+      "timestamp_ms": 1442851318036,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/227878347358915.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442851103762,
+      "content": "Geeti changed the group photo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shefali Poddar",
+      "timestamp_ms": 1442844547434,
+      "content": "Shefali Poddar left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sakchi Poddar",
+      "timestamp_ms": 1442838897122,
+      "content": "Sakchi Poddar left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sandhya Singhania Khaitan",
+      "timestamp_ms": 1442838890188,
+      "content": "Please remove me from this group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Twinkle Poddar",
+      "timestamp_ms": 1442838869915,
+      "content": "Twinkle Poddar left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rashmi Manot",
+      "timestamp_ms": 1442837850866,
+      "content": "Rashmi Manot left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pramila Bajaj Choudhary",
+      "timestamp_ms": 1442837758695,
+      "content": "Pramila removed the group photo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madhulika Shroff Rajgarhia",
+      "timestamp_ms": 1442837696162,
+      "content": "Madhulika Shroff Rajgarhia left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madhu Neotia",
+      "timestamp_ms": 1442835883373,
+      "content": "Madhu Neotia left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pannkaj Nevatia",
+      "timestamp_ms": 1442835845676,
+      "content": "Pannkaj Nevatia left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Payal Bubna",
+      "timestamp_ms": 1442835773651,
+      "content": "Payal Bubna left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Priya Lohade Jain",
+      "timestamp_ms": 1442835746960,
+      "content": "Pls remove me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neha Kejriwal Bagaria",
+      "timestamp_ms": 1442835738418,
+      "content": "Neha Kejriwal Bagaria left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neha Kejriwal Bagaria",
+      "timestamp_ms": 1442835715119,
+      "content": "Plz remove me from this group",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madhulika Agarwalla",
+      "timestamp_ms": 1442835694431,
+      "content": "Plz remove me from this group",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rekha Kedia",
+      "timestamp_ms": 1442833585466,
+      "content": "Rekha Kedia left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Prity Poddar",
+      "timestamp_ms": 1442831991608,
+      "content": "Prity Poddar left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nidhi Mishra",
+      "timestamp_ms": 1442831956873,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neiraj Singhal",
+      "timestamp_ms": 1442831742002,
+      "content": "Neiraj Singhal left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Richa Kanoria",
+      "timestamp_ms": 1442830078043,
+      "content": "Richa Kanoria left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anuradha Patodia Chowdhary",
+      "timestamp_ms": 1442830011138,
+      "content": "Anuradha Patodia Chowdhary left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anushree Maheshwari",
+      "timestamp_ms": 1442829965645,
+      "content": "Anushree Maheshwari left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sneha Varun Kajaria",
+      "timestamp_ms": 1442829919679,
+      "content": "Sneha Varun Kajaria left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442829750927,
+      "content": "Geeti Bhojnagarwala removed Nina Poddar from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nina Poddar",
+      "timestamp_ms": 1442829682711,
+      "content": "Please remove me from group or guide me how to..thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rima Mukherji",
+      "timestamp_ms": 1442829564348,
+      "content": "Rima Mukherji left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Jajodia",
+      "timestamp_ms": 1442829562385,
+      "content": "Pawan Jajodia left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442829560032,
+      "content": "Geeti 9830226429",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442829552332,
+      "content": "Hepline Nos: Sunita 9830139956",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Purvi Goswami",
+      "timestamp_ms": 1442829537319,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1442829536151,
+      "content": "Arvind Neotia left the group",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442829525763,
+      "content": "To know more about the workshop content kindly browse through The Workshop Section in www.liferesearchacademy.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamla Almal Poddar",
+      "timestamp_ms": 1442829514920,
+      "content": "Kamla Almal Poddar left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442829476102,
+      "content": "The workshop registrations end on the 23rd of Sept 2015.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neha Jhunjhunwala",
+      "timestamp_ms": 1442829062995,
+      "content": "Neha Jhunjhunwala left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1442829007976,
+      "content": "A contact left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mohua Hussein",
+      "timestamp_ms": 1442828327797,
+      "content": "Mohua Hussein left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neetaa Kanoria",
+      "timestamp_ms": 1442826646607,
+      "content": "Neetaa Kanoria left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madhu Kanoria",
+      "timestamp_ms": 1442826566934,
+      "content": "Madhu Kanoria left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Navin Daga",
+      "timestamp_ms": 1442826478578,
+      "content": "Navin Daga left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442826452618,
+      "content": "sure ma'am",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madhu Kanoria",
+      "timestamp_ms": 1442826450281,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239263222822.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Madhu Kanoria",
+      "timestamp_ms": 1442826439465,
+      "content": "Thanks geeti but not possi.. Can i pls exit too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442826338631,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/sumanchetnapraptiand33others_1004854289536190/photos/881886555200574.jpg",
+          "creation_timestamp": 1442826337
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Raajeev Phuumbhra",
+      "timestamp_ms": 1442824842982,
+      "content": "Raajeev Phuumbhra left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Koelia Mitra",
+      "timestamp_ms": 1442820503069,
+      "content": "Koelia Mitra left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442819787489,
+      "content": "Geeti Bhojnagarwala added Nina Poddar and Prakash Surana to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442819557676,
+      "content": "Geeti Bhojnagarwala added Neiraj Singhal and 6 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442819452340,
+      "content": "Geeti Bhojnagarwala added Neha Jhunjhunwala and 4 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442819372793,
+      "content": "Geeti Bhojnagarwala added Rashmi Manot and 11 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Facebook user",
+      "timestamp_ms": 1442818595825,
+      "content": "A contact left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dipikka Poddaar",
+      "timestamp_ms": 1442817277203,
+      "content": "Dipikka Poddaar left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Urmila Khemka",
+      "timestamp_ms": 1442817259668,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239343222814.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kamla Almal Poddar",
+      "timestamp_ms": 1442817068763,
+      "content": "Kamla Almal Poddar left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neelam Shroff Kejriwal",
+      "timestamp_ms": 1442815564397,
+      "content": "Neelam Shroff Kejriwal left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442815532281,
+      "content": "Geeti changed the group photo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Padma Poddar",
+      "timestamp_ms": 1442815523689,
+      "content": "Padma Poddar left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442815501364,
+      "content": "Geeti changed the group photo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442815481744,
+      "content": "Geeti removed the group photo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442815475361,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/sumanchetnapraptiand33others_1004854289536190/photos/881847468537816.jpg",
+          "creation_timestamp": 1442815473
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442815442448,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/sumanchetnapraptiand33others_1004854289536190/photos/881847375204492.jpg",
+          "creation_timestamp": 1442815441
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442815405725,
+      "content": "Helpline nos: Geeti 9830226429\nSunita 9830139956",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442815349745,
+      "content": "A highly charged Full Moon Night \nWith a Lunar Eclipse and an active Mercury Retrograde period.              \n      \nA perfect combination of all the right alchemical elements to clear all our unwanted baggages, accompanied  by self healing ragas flowing live from the Sarod woven with a magical meditative ambience created by the masters Dr. K. Newton M.D. & Dr.Lakshmi M.B.B.S. \n\nThis just might turn out to be your AHA moment \u00f3\u00be\u008c\u00b5\n\nFREE EVENT- FIRST COME FIRST SERVE",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Dipti Khaitan",
+      "timestamp_ms": 1442815326678,
+      "content": "Dipti Khaitan left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Payal Saraogi",
+      "timestamp_ms": 1442815214414,
+      "content": "Payal Saraogi left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442815170789,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/sumanchetnapraptiand33others_1004854289536190/photos/881846375204592.jpg",
+          "creation_timestamp": 1442815169
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442815146232,
+      "content": "I am your constant companion.\nI aspire for you to be joyous, \nI weed out all your core beliefs, deleting fears from your life \nI connect you to your life force \u00e2\u0080\u0093 \nGuess who am I?\n\nBrowse through these videos to know more about me \u00f3\u00be\u008c\u00b5\n\nhttps://youtu.be/XtTHdr9M1-0\n\nhttps://youtu.be/bja-MGgwkOA\n\nhttps://youtu.be/b7uUrp72giU\n\nDo let us know how you felt after browsing through my videos.......!!!\n\nHappy surfing!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nitesh Sharaff",
+      "timestamp_ms": 1442814993118,
+      "content": "Nitesh Sharaff left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neelam Shroff Kejriwal",
+      "timestamp_ms": 1442814931750,
+      "content": "Yes i m sure we can opt out of the group instead of posting it here...but i personally would br obliged if i did nt hv to do it everytime.... so wud request you nt to add me to begin with",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442814704530,
+      "content": "Geeti Bhojnagarwala removed Divita Kanoria from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442814688443,
+      "content": "Geeti Bhojnagarwala removed Nina Poddar from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shipra Karnani",
+      "timestamp_ms": 1442814688132,
+      "content": "Shipra Karnani left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shilpa Poddar",
+      "timestamp_ms": 1442814657013,
+      "content": "Shilpa Poddar left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442814657002,
+      "content": "Geeti Bhojnagarwala removed Mridul Kotriwal from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Karuna More",
+      "timestamp_ms": 1442814615224,
+      "content": "Those who want to left the gp u hv option to left himeself use that instead of posting it in gp its more irritating ...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Manoj Kumar Prahladka",
+      "timestamp_ms": 1442814577898,
+      "content": "Manoj Kumar Prahladka left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Payal Saraogi",
+      "timestamp_ms": 1442814542175,
+      "content": "Please remove me too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shipra Karnani",
+      "timestamp_ms": 1442814514035,
+      "content": "Please remove me .Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Divita Kanoria",
+      "timestamp_ms": 1442814484532,
+      "content": "please remove me-too disturbing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nina Poddar",
+      "timestamp_ms": 1442814453475,
+      "content": "Please remove me .Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mridul Kotriwal",
+      "timestamp_ms": 1442814399488,
+      "content": "Please remove me. Thanks.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jaishree Kanoria",
+      "timestamp_ms": 1442812493834,
+      "content": "Jaishree Kanoria left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Jajodia",
+      "timestamp_ms": 1442812318116,
+      "content": "Pawan Jajodia left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kavita Saraf",
+      "timestamp_ms": 1442812263273,
+      "content": "Kavita Saraf left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lotus Jewel",
+      "timestamp_ms": 1442812173820,
+      "sticker": {
+        "uri": "your_facebook_activity/messages/stickers_used/369239383222810.png",
+        "ai_stickers": [
+          
+        ]
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442812049733,
+      "content": "Geeti Bhojnagarwala removed Neha Saraf from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442812029897,
+      "content": "Geeti Bhojnagarwala removed Mukesh Kanoi from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442812003754,
+      "content": "Geeti Bhojnagarwala removed Kiran Jhunjhunwala from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811958793,
+      "content": "Geeti Bhojnagarwala removed Poonam Khemka from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811932921,
+      "content": "Geeti Bhojnagarwala removed Deepshikha Goenka Kandoi from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neetaa Kanoria",
+      "timestamp_ms": 1442811905024,
+      "content": "Neetaa Kanoria left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811872161,
+      "content": "Geeti Bhojnagarwala added Pooja Goenka Tibrewalla and 34 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kiran Jhunjhunwala",
+      "timestamp_ms": 1442811811443,
+      "content": "Kindly remove me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mukesh Kanoi",
+      "timestamp_ms": 1442811807495,
+      "content": "Please remove me too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deepshikha Goenka Kandoi",
+      "timestamp_ms": 1442811798480,
+      "content": "Pls remove me too\nThank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neha Saraf",
+      "timestamp_ms": 1442811774233,
+      "content": "Kindly remove me too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Poonam Khemka",
+      "timestamp_ms": 1442811744805,
+      "content": "Kindly remove me too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neiraj Singhal",
+      "timestamp_ms": 1442811698951,
+      "content": "Neiraj Singhal left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811656869,
+      "content": "Geeti Bhojnagarwala removed Kanupriya Agarwal Bajoria from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kanupriya Agarwal Bajoria",
+      "timestamp_ms": 1442811637703,
+      "content": "Please remove me to",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811637536,
+      "content": "Geeti Bhojnagarwala removed Tulika Kedia from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811616310,
+      "content": "Geeti Bhojnagarwala added Neel Kamal Bhartia and 9 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tulika Kedia",
+      "timestamp_ms": 1442811603292,
+      "content": "Please remove me too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sohan Kedia",
+      "timestamp_ms": 1442811483319,
+      "content": "Sohan Kedia left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811426800,
+      "content": "Geeti Bhojnagarwala removed Arun Kajaria from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Arun Kajaria",
+      "timestamp_ms": 1442811402025,
+      "content": "Pl remove me too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811398218,
+      "content": "Geeti Bhojnagarwala removed Neelam Tulsian from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Leena Kejriwal",
+      "timestamp_ms": 1442811346239,
+      "content": "Leena Kejriwal left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811329435,
+      "content": "Geeti Bhojnagarwala removed Anjali Khemka from the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anjali Khemka",
+      "timestamp_ms": 1442811302163,
+      "content": "Pl do not add without asking",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Neelam Shroff Kejriwal",
+      "timestamp_ms": 1442811284478,
+      "content": "Pl remove me too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anjali Khemka",
+      "timestamp_ms": 1442811270335,
+      "content": "Too disturbing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811265209,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/sumanchetnapraptiand33others_1004854289536190/photos/881827801873116.jpg",
+          "creation_timestamp": 1442811264
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anjali Khemka",
+      "timestamp_ms": 1442811253933,
+      "content": "Pl remove me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811247445,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/sumanchetnapraptiand33others_1004854289536190/photos/881827755206454.jpg",
+          "creation_timestamp": 1442811246
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811238768,
+      "content": "A highly charged Full Moon Night \nWith a Lunar Eclipse and an active Mercury Retrograde period.              \n      \nA perfect combination of all the right alchemical elements to clear all our unwanted baggages, accompanied  by self healing ragas flowing live from the Sarod woven with a magical meditative ambience created by the masters Dr. K. Newton M.D. & Dr.Lakshmi M.B.B.S. \n\nThis just might turn out to be your AHA moment \u00f3\u00be\u008c\u00b5\n\nFREE EVENT- FIRST COME FIRST SERVE",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811204229,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/sumanchetnapraptiand33others_1004854289536190/photos/881827628539800.jpg",
+          "creation_timestamp": 1442811203
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811195310,
+      "photos": [
+        {
+          "uri": "your_facebook_activity/messages/archived_threads/sumanchetnapraptiand33others_1004854289536190/photos/881827615206468.jpg",
+          "creation_timestamp": 1442811194
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811169881,
+      "content": "I am your constant companion.\nI aspire for you to be joyous, \nI weed out all your core beliefs, deleting fears from your life \nI connect you to your life force \u00e2\u0080\u0093 \nGuess who am I?\n\nBrowse through these videos to know more about me \u00f3\u00be\u008c\u00b5\n\nhttps://youtu.be/XtTHdr9M1-0\n\nhttps://youtu.be/bja-MGgwkOA\n\nhttps://youtu.be/b7uUrp72giU\n\nDo let us know how you felt after browsing through my videos.......!!!\n\nHappy surfing!!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811110432,
+      "content": "Geeti Bhojnagarwala added Neiraj Singhal and 5 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442811013196,
+      "content": "Geeti Bhojnagarwala added Neha Periwal and 4 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442810914242,
+      "content": "Geeti Bhojnagarwala added Madhu Neotia to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anjali Khemka",
+      "timestamp_ms": 1442810727652,
+      "content": "Anjali removed the group name.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442810572420,
+      "content": "Geeti Bhojnagarwala added you and 29 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442810216705,
+      "content": "Geeti Bhojnagarwala added Leena Kejriwal and 26 others to the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442809961857,
+      "content": "Geeti changed the group photo.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Geeti Bhojnagarwala",
+      "timestamp_ms": 1442809931890,
+      "content": "Geeti named the group A 2 DAY SACRED BREATH WORKSHOP BY DR.NEWTON KONDAVETI M.D. IN THE CITY OF JOY.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Suman, Chetna, Prapti and 33 others",
+  "is_still_participant": false,
+  "thread_path": "archived_threads/sumanchetnapraptiand33others_1004854289536190",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

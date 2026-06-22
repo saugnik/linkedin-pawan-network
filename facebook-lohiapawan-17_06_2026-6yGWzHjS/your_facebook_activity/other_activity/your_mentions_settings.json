@@ -1,0 +1,28 @@
+{
+  "timestamp": 1757131807,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Number of Messenger notifications that were sent when you mentioned someone",
+      "value": "0"
+    },
+    {
+      "label": "Number of Messenger notifications that you've received when someone mentioned you",
+      "value": "0"
+    },
+    {
+      "label": "Receive notifications when someone mentions you"
+    },
+    {
+      "label": "Send notifications when you mention someone",
+      "value": "Enable sharing"
+    },
+    {
+      "label": "Creation time",
+      "timestamp_value": 1667162555
+    }
+  ],
+  "fbid": "10159521482443787"
+}

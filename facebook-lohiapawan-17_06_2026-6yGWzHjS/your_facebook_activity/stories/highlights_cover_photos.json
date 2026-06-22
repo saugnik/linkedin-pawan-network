@@ -1,0 +1,29 @@
+{
+  "timestamp": 1600765132,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Last updated time",
+      "timestamp_value": 1600765132
+    },
+    {
+      "label": "Name",
+      "value": "Featured"
+    },
+    {
+      "label": "Cover photo",
+      "media": [
+        
+      ]
+    },
+    {
+      "dict": [
+        
+      ],
+      "title": "Highlighted items"
+    }
+  ],
+  "fbid": "318813676078150"
+}

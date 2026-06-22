@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Abhijit Ganguly"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Abhijit Ganguly",
+      "timestamp_ms": 1533443572505,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abhijit Ganguly",
+      "timestamp_ms": 1533443572505,
+      "content": "Good morning",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1533442991022,
+      "content": "I m fine how r u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1533442991022,
+      "content": "I m fine how r u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1533410281261,
+      "content": "You're now friends with Abhijit.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1533410281261,
+      "content": "You're now friends with Abhijit.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Abhijit Ganguly",
+  "is_still_participant": true,
+  "thread_path": "inbox/abhijitganguly_10156212845013787",
+  "magic_words": [
+    
+  ]
+}

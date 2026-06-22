@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Meena Kedia"
+    },
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Payal Agarwal Lohia"
+    },
+    {
+      "name": "Mahesh Kumar Lohia"
+    },
+    {
+      "name": "Meena Kasera Lohia"
+    },
+    {
+      "name": "Sanjay Kumar Jhunjhunwala"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meena Kedia",
+      "timestamp_ms": 1551879362517,
+      "content": "Thank u ... seen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meena Kedia",
+      "timestamp_ms": 1551879362517,
+      "content": "Thank u ... seen",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1551854868508,
+      "content": "Do watch the video womans day special by greenply",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1551854868508,
+      "content": "Do watch the video womans day special by greenply",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meena, Payal, Mahesh and 2 others",
+  "is_still_participant": true,
+  "thread_path": "inbox/meenapayalmaheshand2others_2543364162358367",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Product",
+      "value": "Friends"
+    },
+    {
+      "label": "The last time you cleared notifications",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Notifications disabled",
+      "value": "False"
+    }
+  ],
+  "fbid": "1035370376874981"
+}

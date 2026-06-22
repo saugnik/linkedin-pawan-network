@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Pradeep Desu"
+    },
+    {
+      "name": "Pawan Lohia"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pawan Lohia",
+      "timestamp_ms": 1434701103290,
+      "content": "hi this is pawan lohia. the concept of Uber fascinates and I am keen to explore a suitable opportunity with the company based out of Kolkata.\n\nI am a CA by profession working with a Big 4 Firm in Kolkata.\n\nLet me know the way forward",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pradeep Desu",
+  "is_still_participant": true,
+  "thread_path": "inbox/pradeepdesu_10153451320112419",
+  "magic_words": [
+    
+  ]
+}

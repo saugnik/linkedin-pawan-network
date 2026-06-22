@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Pawan Lohia"
+    },
+    {
+      "name": "Hari Iyengar"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hari Iyengar",
+      "timestamp_ms": 1395280991397,
+      "content": "Hi mate did you see the place and are yu ok wth it. i hve also sent a draft agreement of the one i had with Cananzi earliwe and it si a standard one",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hari Iyengar",
+      "timestamp_ms": 1395280991397,
+      "content": "Hi mate did you see the place and are yu ok wth it. i hve also sent a draft agreement of the one i had with Cananzi earliwe and it si a standard one",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hari Iyengar",
+  "is_still_participant": true,
+  "thread_path": "inbox/hariiyengar_10154101780733787",
+  "magic_words": [
+    
+  ]
+}

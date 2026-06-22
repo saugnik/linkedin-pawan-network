@@ -1,0 +1,28 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Photo effects",
+      "media": [
+        {
+          "uri": "your_facebook_activity/posts/media/Profilepictures_424680713786/10162872790048787.jpg",
+          "creation_timestamp": 1769996538,
+          "media_metadata": {
+            "photo_metadata": {
+              "exif_data": [
+                {
+                  "upload_ip": "2409:40e0:101e:e6fc:249f:46ff:fed2:e612",
+                  "taken_timestamp": 1769996543
+                }
+              ]
+            }
+          },
+          "title": "Paper Hearts"
+        }
+      ]
+    }
+  ],
+  "fbid": "690728786"
+}
